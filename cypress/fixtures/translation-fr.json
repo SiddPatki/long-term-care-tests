@@ -1,0 +1,218 @@
+{
+  "allLocations": "All long-term care homes",
+  "allLocationsDescription": "Find long-term care home locations that best suit your needs.",
+  "allLocationsId": "homes",
+  "findingCurrentLocation": "Recherche de la position actuelle en cours…",
+  "footer": {
+    "accessibility": "Accessibilité",
+    "accessibilityLink": "/fr/page/accessibilite",
+    "contactUs": "Contactez-nous",
+    "contactUsLink": "/fr/commentaires/pour-nous-joindre",
+    "copyright": "© Imprimeur de la Reine pour l’Ontario, <2>2012–{{year}}</2>",
+    "copyrightLink": "/fr/page/droits-dauteur-imprimeur-de-la-reine-pour-lontarioc",
+    "privacy": "Confidentialité",
+    "privacyLink": "/fr/page/declaration-concernant-la-protection-de-la-vie-privee"
+  },
+  "formId": "find",
+  "home": "Accueil",
+  "javascriptRequiredList1": "Accéder aux paramètres de votre navigateur",
+  "javascriptRequiredList2": "Activer JavaScript",
+  "javascriptRequiredPart1": "Vous devez avoir JavaScript pour visualiser cette page.",
+  "javascriptRequiredPart2": "Pour avoir une meilleure expérience, vous devez :",
+  "links": {
+    "home": "/fr/page/gouvernement-de-lontario",
+    "serviceOntario": "/fr/page/serviceontario"
+  },
+  "locationErrorMessage": "Saisissez un emplacement pour continuer.",
+  "locationLookupErrorMessage": "Désolé, nous n’avons pas pu trouver votre position actuelle. Assurez-vous d’abord de nous donner la permission d’accéder à votre emplacement et réessayez.",
+  "locationReq": "Rechercher des foyers",
+  "mapHeading": "Foyers près de «{{name}}»",
+  "mapNoResults": "<0><0>Il n’y a pas de résultats correspondants.</0></0>",
+  "mapResultDistance": "{{distance}} km",
+  "mapResultsLocationDetails": "Détails du foyer",
+  "mapResultsSummary_one": "1 sur {{count}} foyers en Ontario",
+  "mapResultsSummary_other": "1 sur {{count}} foyers en Ontario",
+  "mapResultsSummary_zero": "Il n’y a pas de résultats correspondants. Vérifiez les renseignements que vous avez saisis et réessayez.",
+  "mapResultsViewList": "Liste",
+  "mapResultsViewMap": "Carte",
+  "myCurrentLocation": "My current location",
+  "tryA": "Enter an address, city, postal code or home name",
+  "unknownLocation": "Nous n’avons pas trouvé de correspondance pour «{{location}}».",
+  "useMyCurrentLocation": "Rechercher par ma position actuelle",
+  "breadcrumbs": {
+    "healthAndWellnessText": "Santé et bien-être",
+    "longTermCareText": "Soins de longue durée",
+    "longTermCareHref": "/fr/page/soins-de-longue-duree-en-ontario",
+    "healthAndWellnessHref": "/fr/page/les-soins-de-sante-en-ontario"
+  },
+  "location": {
+    "whereToStart": {
+      "exploreOptionsHref": "/fr/page/examinez-vos-options-de-soins",
+      "choosingAnLTCHref": "/fr/page/choisir-un-foyer-de-soins-de-longue-duree",
+      "applyingForLTCHref": "/fr/page/faire-une-demande-de-placement-en-foyer-de-soins-de-longue-duree",
+      "livingInLTCHref": "/fr/page/vivre-dans-un-foyer-de-soins-de-longue-duree",
+      "payingForLTCHref": "/fr/page/obtenir-de-laide-pour-payer-des-soins-de-longue-duree",
+      "heading": "Vous ne savez pas par où commencer?",
+      "exploreOptionsLinkText": "Explorer vos options de soins",
+      "choosingAnLTCLinkText": "Choisir un foyer de soins de longue durée",
+      "applyingForLTCLinkText": "Demande de soins de longue durée",
+      "livingInLTCLinkText": "Vivre dans un foyer de soins de longue durée",
+      "payingForLTCLinkText": "Payer les soins de longue durée",
+      "body": "Obtenez l’aide individuelle d’un <2>coordonnateur de placement<1><0></0><1></1></1></2>"
+    },
+    "covid19Data": {
+      "linkHref": "https://covid-19.ontario.ca/fr/data/les-foyers-de-soins-de-longue-duree",
+      "heading": "Données relatives à la COVID-19",
+      "body": "<0>Obtenez des données</0> sur la façon dont ce foyer a géré la COVID-19."
+    },
+    "features": {
+      "residentsCouncilLinkHref": "/fr/page/vivre-dans-un-foyer-de-soins-de-longue-duree#residents",
+      "residentsCouncilLinkText": "Conseil des résidents",
+      "familyCouncilLinkHref": "/fr/page/vivre-dans-un-foyer-de-soins-de-longue-duree#family ",
+      "familyCouncilLinkText": "Conseil des familles",
+      "french": "Services en français",
+      "airConditioningCommonAreas": "Climatisation dans les aires communes",
+      "airConditioningRooms": "Climatisation dans les chambres",
+      "id": "caractéristiques",
+      "heading": "Disponible dans ce foyer"
+    },
+    "back": "Retour aux résultats de la recherche",
+    "addressCityPostalLine": "{{city}}, Ontario  {{postal}}",
+    "getDirections": "Comment s’y rendre",
+    "aboutHeading": "À propos du foyer",
+    "beds": {
+      "id": "lits",
+      "heading": "{{count, number}} lits autorisés",
+      "shortStayNotAvailable": "Remarque : les lits de soins de courte durée ne sont actuellement pas disponibles en raison la COVID-19.",
+      "learnMoreLinkHref": "/page/obtenir-de-laide-pour-payer-des-soins-de-longue-duree#section-0"
+    },
+    "waitTimes": {
+      "heading": "Temps d’attente médian de {{count, number}} jours",
+      "headingGeneric": "Temps d’attente",
+      "detail": "Les temps d’attente pour les foyers de soins de longue durée varient beaucoup. Votre coordonnateur en placement peut vous fournir des options qui conviendront à vos besoins.",
+      "learnMoreHCCSS": "Renseignez-vous sur les temps d’attente dans la région de {{hccss}}",
+      "firstChoice": "{{count, number}} personnes sont sur la liste d’attente pour ce foyer comme premier choix.",
+      "lastUpdated": "Dernière mise à jour : {{lastUpdated, datetime}}",
+      "learnMoreLinkText": "En savoir plus sur les temps d’attente",
+      "id": "tempsDattente"
+    },
+    "fullyVaccinated": {
+      "heading": "{{count}} % du personnel entièrement vacciné",
+      "twoDoses": "{{count}} % du personnel est entièrement vacciné, avec toutes les doses requises d’un vaccin contre la COVID-19",
+      "oneDose": "{{count}} % du personnel a reçu au moins une dose d’un vaccin reconnu contre la COVID-19",
+      "staffMembersInclude": "Le personnel comprend les employés, le personnel des agences, les étudiants stagiaires et les bénévoles. Tous les membres du personnel doivent avoir reçu toutes les doses requises du vaccin contre la COVID-19 d’ici le 13 décembre 2021 pour travailler, se former ou faire du bénévolat dans un foyer de soins de longue durée, à moins d’avoir obtenu une exemption médicale valide.",
+      "lastUpdated": "Les taux de vaccination sont à jour au {{lastUpdated, datetime}}.",
+      "id": "entièrementVacciné"
+    },
+    "lastInspection": {
+      "heading": "Rapports d’inspection",
+      "detail": "Les inspections sont effectuées par le ministère des Soins de longue durée et tous les rapports créés par les inspecteurs sont mis à la disposition du public.",
+      "lastInspectionDate": "Date de publication du dernier rapport d’inspection : {{lastInspectionDate, datetime}}",
+      "lastInspectionType": "Type d’inspection : {{lastInspectionType}}",
+      "lastInspectionDatestamp": "Dernière mise à jour : {{lastInspectionDatestamp, datetime}}",
+      "learnMoreLinkText": "Obtenez tous les rapports d’inspection publiés pour ce foyer",
+      "types": {
+        "Critical Incident Inspection": "Inspection en cas d’incident critique",
+        "Critical Incident Inspection (En français)": "Inspection en cas d’incident critique (en français)",
+        "Critical Incident Inspection with Order(s) of the Inspector": "Inspection en cas d'incident critique avec ordre(s) de l'inspecteur",
+        "Critical Incident Inspection with Order(s) of the Inspector (En français)": "Inspection en cas d'incident critique avec ordre(s) de l'inspecteur (en français)",
+        "Complaints Inspection": "Inspection en cas de plainte",
+        "Complaints Inspection (En français)": "Inspection en cas de plainte (en français)",
+        "Complaints Inspection with Order(s) of the Inspector": "Inspection en cas de plainte avec ordre(s) de l'inspecteur",
+        "Complaints Inspection with Order(s) of the Inspector (En français)": "Inspection en cas de plainte avec ordre(s) de l'inspecteur (en français)",
+        "Director's Order(s)": "Ordre(s) du directeur",
+        "Director's Order(s) (En français)": "Ordre(s) du directeur (en français)",
+        "Follow-Up Inspection": "Inspection de suivi",
+        "Follow-up Inspection (En français)": "Inspection de suivi (en français)",
+        "Follow-Up Inspection with Order(s) of the Inspector": "Inspection de suivi avec ordre(s) de l'inspecteur",
+        "Follow-Up Inspection with Order(s) of the Inspector (En français)": "Inspection de suivi avec ordre(s) de l'inspecteur (en français)",
+        "Other Inspection": "Autre inspection",
+        "Other Inspection (En français)": "Autre inspection (en français)",
+        "Other Inspection with Order(s) of the Inspector": "Autre inspection avec ordre(s) de l'inspecteur",
+        "Other Inspection with Order(s) of the Inspector (En français)": "Autre inspection avec ordre(s) de l'inspecteur (en français)"
+      },
+      "id": "dernièreInspection"
+    },
+    "administrativeDetails": {
+      "heading": "Détails administratifs",
+      "id": "détailsAdministratifs",
+      "homeType": {
+        "heading": "Type de foyer :",
+        "forProfit": "À-but-lucratif",
+        "nonProfit": "Sans-but-lucratif"
+      },
+      "licensee": {
+        "heading": "Titulaire de permis :"
+      },
+      "managementFirm": {
+        "heading": "Société de gestion :"
+      },
+      "homeAdministrator": {
+        "heading": "Administrateur du foyer :"
+      }
+    },
+    "visit": {
+      "heading": "Visitez ce foyer",
+      "bodyNoWebsite": "Contactez directement le foyer pour organiser une visite en personne.",
+      "body": "Visitez le <2>site Web du {{homeName}}<2><0></0><1></1></2></2> pour en savoir plus sur ce foyer. Contactez directement le foyer pour organiser une visite en personne."
+    },
+    "apply": {
+      "heading": "Prêt à présenter une demande?",
+      "body": "Pour présenter une demande à ce foyer ou aux foyers de cette région, prenez contact avec Services de soutien à domicile et en milieu communautaire de la région de <2><0>{{hccssName}}<1><0></0><1></1></1></0></2>.",
+      "tty": "<0>ATS</0> : {{tty}}",
+      "tty_abbr": "téléscripteur"
+    },
+    "contact": {
+      "heading": "Coordonnées",
+      "websiteLinkText": "Visitez le site Web de ce foyer"
+    },
+    "accredited": {
+      "heading": "Fournisseur agréé",
+      "body": "Ce foyer s’efforce d’améliorer la qualité, la sécurité et l’efficacité de son rendement."
+    },
+    "MapWithMarker": {
+      "errorLoadingMap": "Le chargement du contenu prend plus de temps. Vérifiez votre connexion Internet ou essayez de rafraîchir la page. Si le problème persiste, réessayez plus tard."
+    }
+  },
+  "toc": {
+    "heading": "Dans cette page"
+  },
+  "accordion": {
+    "expandAll": "Afficher tous",
+    "collapseAll": "Masquer tous"
+  },
+  "findALocation": "Emménager dans un foyer de soins de longue durée",
+  "search": "Rechercher",
+  "opensInANewWindow": "s’ouvre dans une nouvelle fenêtre",
+  "HCCSS": {
+    "Central": "Centre",
+    "Central East": "Centre-Est",
+    "Central West": "Centre-Ouest",
+    "Champlain": "Champlain",
+    "Erie St. Clair": "Érié St-Clair",
+    "Hamilton Niagara Haldimand Brant": "Hamilton Niagara Haldimand Brant",
+    "Mississauga Halton": "Mississauga Halton",
+    "North East": "Nord-Est",
+    "North Simcoe Muskoka": "Simcoe Nord Muskoka",
+    "North West": "Nord-Ouest",
+    "South East": "Sud-Est",
+    "South West": "Sud-Ouest",
+    "Toronto Central": "Centre-Toronto",
+    "Waterloo Wellington": "Waterloo Wellington"
+  },
+  "longTermCare": "Soins de longue durée",
+  "Layout": {
+    "MainContentId": "contenu-principal",
+    "Header": {
+      "LogoHref": "https://www.ontario.ca/fr/page/gouvernement-de-lontario",
+      "LogoAlt": "Gouvernement de l’Ontario",
+      "AltLangAbbr": "EN",
+      "AltLang": "English",
+      "OpenMenu": "ouvrir les sujets",
+      "Menu": "Sujets",
+      "CloseMenu": "Fermer les sujets"
+    },
+    "BackToTop": "Retour en haut",
+    "SkipToMainContent": "Passer directement au contenu principal"
+  }
+}

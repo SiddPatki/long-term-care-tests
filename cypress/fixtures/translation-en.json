@@ -1,0 +1,220 @@
+{
+  "allLocations": "All long-term care homes",
+  "allLocationsDescription": "Find long-term care home locations that best suit your needs.",
+  "allLocationsId": "homes",
+  "findingCurrentLocation": "Finding current location…",
+  "footer": {
+    "accessibility": "Accessibility",
+    "accessibilityLink": "/page/accessibility",
+    "contactUs": "Contact us",
+    "contactUsLink": "/feedback/contact-us",
+    "copyright": "© Queen’s Printer for Ontario, <2>2012–{{year}}</2>",
+    "copyrightLink": "/page/copyright-information-c-queens-printer-ontario",
+    "privacy": "Privacy",
+    "privacyLink": "/page/privacy-statement"
+  },
+  "formId": "find",
+  "home": "Home",
+  "javascriptRequiredList1": "Go to your browser's settings",
+  "javascriptRequiredList2": "Enable JavaScript",
+  "javascriptRequiredPart1": "JavaScript is required to view this page.",
+  "javascriptRequiredPart2": "To have a better experience, you need to:",
+  "links": {
+    "home": "/page/government-ontario",
+    "serviceOntario": "/page/serviceontario"
+  },
+  "locationErrorMessage": "Enter an address, city, postal code or home name",
+  "locationLookupErrorMessage": "Sorry, we could not find your current location. Make sure to give us permission to access your location first, and try again.",
+  "locationReq": "Search for homes",
+  "mapHeading": "Homes near “{{name}}”",
+  "mapNoResults": "<0><0>Sorry, we couldn’t find any matches.</0></0>",
+  "mapResultDistance": "{{distance}} km",
+  "mapResultsLocationDetails": "Home details",
+  "mapResultsSummary_one": "1 of {{count}} homes in Ontario",
+  "mapResultsSummary_other": "1 of {{count}} homes in Ontario",
+  "mapResultsSummary_zero": "There are no matching results. Check the information you entered and try again.",
+  "mapResultsViewList": "List",
+  "mapResultsViewMap": "Map",
+  "myCurrentLocation": "My current location",
+  "tryA": "Enter an address, city, postal code or home name",
+  "unknownLocation": "We couldn't find a match for {{location}}.",
+  "useMyCurrentLocation": "Search by my current location",
+  "location": {
+    "back": "Back to search results",
+    "addressCityPostalLine": "{{city}}, Ontario  {{postal}}",
+    "getDirections": "Get directions",
+    "aboutHeading": "About the home",
+    "beds": {
+      "heading": "{{count, number}} licensed beds",
+      "learnMoreLinkHref": "/page/get-help-paying-long-term-care#section-0",
+      "shortStayNotAvailable": "Note: short stay beds are currently not available due to COVID-19.",
+      "id": "beds"
+    },
+    "covid19Data": {
+      "heading": "COVID-19 Data",
+      "body": "<0>Get data</0> about how this home managed COVID-19.",
+      "linkHref": "https://covid-19.ontario.ca/data/long-term-care-homes"
+    },
+    "apply": {
+      "heading": "Ready to apply?",
+      "body": "To apply to this home or homes in this area contact Home and Community Care Support Services for the <2><0>{{hccssName}}<1><0></0><1></1></1></0></2> region.",
+      "tty": "<0>TTY</0>: {{tty}}",
+      "tty_abbr": "teletypewriter"
+    },
+    "waitTimes": {
+      "heading": "{{count, number}} day median wait time",
+      "learnMoreLinkText": "Learn more about wait times",
+      "headingGeneric": "Wait times",
+      "detail": "Wait times for long term care homes can vary widely. Your placement coordinator can provide options that will best meet your needs.",
+      "learnMoreHCCSS": "Learn more about wait times for the {{hccss}} region",
+      "lastUpdated": "Last updated: {{lastUpdated, datetime}}",
+      "firstChoice": "{{count, number}} people are on the waiting list for this home as their first choice.",
+      "id": "waitTimes"
+    },
+    "fullyVaccinated": {
+      "staffMembersInclude": "Staff includes employees, agency staff, student placements and volunteers. All staff must have received all required doses of COVID-19 vaccine by December 13, 2021, to work, train or volunteer in a long-term care home, unless they have a valid medical exemption.",
+      "heading": "{{count}}% staff fully vaccinated",
+      "oneDose": "{{count}}% of staff have received <strong>1 dose</strong> of a recognized COVID-19 vaccine",
+      "twoDoses": "{{count}}% of staff are fully vaccinated with all required doses of a COVID-19 vaccine",
+      "id": "fullyVaccinated",
+      "lastUpdated": "Vaccination rates are current as of {{lastUpdated, datetime}}."
+    },
+    "lastInspection": {
+      "heading": "Inspection report",
+      "detail": "Inspections are conducted by the Ministry of Long-Term Care and all of the reports created by the inspectors are made available for public access.",
+      "lastInspectionDate": "Date last inspection report posted: {{lastInspectionDate, datetime}}",
+      "lastInspectionType": "Inspection type: {{lastInspectionType}}",
+      "lastInspectionDatestamp": "Last updated: {{lastInspectionDatestamp, datetime}}",
+      "learnMoreLinkText": "Get all posted inspection reports for this home",
+      "id": "lastInspection",
+      "types": {
+        "Critical Incident Inspection": "Critical Incident Inspection",
+        "Critical Incident Inspection (En français)": "Critical Incident Inspection (En français)",
+        "Critical Incident Inspection with Order(s) of the Inspector": "Critical Incident Inspection with Order(s) of the Inspector",
+        "Critical Incident Inspection with Order(s) of the Inspector (En français)": "Critical Incident Inspection with Order(s) of the Inspector (En français)",
+        "Complaints Inspection": "Complaints Inspection",
+        "Complaints Inspection (En français)": "Complaints Inspection (En français)",
+        "Complaints Inspection with Order(s) of the Inspector": "Complaints Inspection with Order(s) of the Inspector",
+        "Complaints Inspection with Order(s) of the Inspector (En français)": "Complaints Inspection with Order(s) of the Inspector (En français)",
+        "Director's Order(s)": "Director's Order(s)",
+        "Director's Order(s) (En français)": "Director's Order(s) (En français)",
+        "Follow-Up Inspection": "Follow-Up Inspection",
+        "Follow-up Inspection (En français)": "Follow-up Inspection (En français)",
+        "Follow-Up Inspection with Order(s) of the Inspector": "Follow-Up Inspection with Order(s) of the Inspector",
+        "Follow-Up Inspection with Order(s) of the Inspector (En français)": "Follow-Up Inspection with Order(s) of the Inspector (En français)",
+        "Other Inspection": "Other Inspection",
+        "Other Inspection (En français)": "Other Inspection (En français)",
+        "Other Inspection with Order(s) of the Inspector": "Other Inspection with Order(s) of the Inspector",
+        "Other Inspection with Order(s) of the Inspector (En français)": "Other Inspection with Order(s) of the Inspector (En français)"
+      }
+    },
+    "features": {
+      "heading": "Available at this home",
+      "residentsCouncilLinkText": "Residents' council",
+      "familyCouncilLinkText": "Family council",
+      "french": "French language services",
+      "airConditioningCommonAreas": "Air conditioning in common areas",
+      "airConditioningRooms": "Air conditioning in rooms",
+      "id": "features",
+      "familyCouncilLinkHref": "/page/living-long-term-care-home#family",
+      "residentsCouncilLinkHref": "/page/living-long-term-care-home#residents"
+    },
+    "administrativeDetails": {
+      "heading": "Administrative details",
+      "homeType": {
+        "heading": "Home type:",
+        "forProfit": "For-profit",
+        "nonProfit": "Not-for-profit"
+      },
+      "licensee": {
+        "heading": "Licensee:"
+      },
+      "managementFirm": {
+        "heading": "Management firm:"
+      },
+      "homeAdministrator": {
+        "heading": "Home administrator:"
+      },
+      "id": "administrativeDetails"
+    },
+    "visit": {
+      "heading": "Visit this home",
+      "bodyNoWebsite": "Contact the home directly to arrange an in-person visit.",
+      "body": "Visit the <2>{{homeName}} website<2><0></0><1></1></2></2> to learn more about this home. Contact the home directly to arrange an in-person visit."
+    },
+    "whereToStart": {
+      "heading": "Don’t know where to start?",
+      "exploreOptionsLinkText": "Explore your care options",
+      "choosingAnLTCLinkText": "Choosing a long-term care home",
+      "applyingForLTCLinkText": "Applying for long-term care",
+      "livingInLTCLinkText": "Living in long-term care",
+      "payingForLTCLinkText": "Paying for long-term care",
+      "exploreOptionsHref": "/page/explore-your-care-options",
+      "choosingAnLTCHref": "/page/choosing-long-term-care-home",
+      "applyingForLTCHref": "/page/apply-long-term-care",
+      "livingInLTCHref": "/page/living-long-term-care-home",
+      "payingForLTCHref": "/page/get-help-paying-long-term-care",
+      "body": "Get one-on-one help from a <2>placement coordinator<1><0></0><1></1></1></2>"
+    },
+    "contact": {
+      "heading": "Contact",
+      "websiteLinkText": "Visit this home’s website"
+    },
+    "accredited": {
+      "heading": "Accredited provider",
+      "body": "This home strives to improve quality, safety and efficiency of their performance."
+    },
+    "MapWithMarker": {
+      "errorLoadingMap": "It’s taking longer to load the content. Check your internet connection or try to refresh the page. If it persists, try again later.",
+      "loadingMap": "Loading map..."
+    }
+  },
+  "accordion": {
+    "expandAll": "Expand all",
+    "collapseAll": "Collapse all"
+  },
+  "breadcrumbs": {
+    "healthAndWellnessHref": "/page/health-care-ontario",
+    "healthAndWellnessText": "Health and wellness",
+    "longTermCareText": "Long-term care",
+    "longTermCareHref": "/page/long-term-care-ontario"
+  },
+  "toc": {
+    "heading": "On this page",
+    "skip": "Skip this page navigation"
+  },
+  "findALocation": "Find long-term care homes",
+  "search": "Search",
+  "opensInANewWindow": "opens in a new window",
+  "HCCSS": {
+    "Central": "Central",
+    "Central East": "Central East",
+    "Central West": "Central West",
+    "Champlain": "Champlain",
+    "Erie St. Clair": "Erie St. Clair",
+    "Hamilton Niagara Haldimand Brant": "Hamilton Niagara Haldimand Brant",
+    "Mississauga Halton": "Mississauga Halton",
+    "North East": "North East",
+    "North Simcoe Muskoka": "North Simcoe Muskoka",
+    "North West": "North West",
+    "South East": "South East",
+    "South West": "South West",
+    "Toronto Central": "Toronto Central",
+    "Waterloo Wellington": "Waterloo Wellington"
+  },
+  "longTermCare": "Long-term care",
+  "Layout": {
+    "MainContentId": "main-content",
+    "Header": {
+      "LogoHref": "https://www.ontario.ca/page/government-ontario",
+      "LogoAlt": "Government of Ontario",
+      "AltLangAbbr": "FR",
+      "AltLang": "Français",
+      "OpenMenu": "open menu",
+      "Menu": "Menu",
+      "CloseMenu": "Close menu"
+    },
+    "BackToTop": "Back to top",
+    "SkipToMainContent": "Skip to main content"
+  }
+}

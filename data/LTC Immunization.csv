@@ -1,0 +1,1878 @@
+﻿Year_Month,LTC_Home,LTC_Home_Number,City,PHU,1st_dose_percentage_staff_vaccination_rate,2nd_dose_percentage_staff_vaccination_rate
+2021-08,Algoma Manor Nursing Home,3041,Thessalon,ALGOMA,0.92,0.91
+2021-08,Cedarwood Lodge,7093,Sault Ste. Marie,ALGOMA,0.95,0.95
+2021-08,Extendicare Maple View of Sault Ste. Marie,3043,Sault Ste. Marie,ALGOMA,0.74,0.68
+2021-08,Extendicare Van Daele,2609,Sault Ste. Marie,ALGOMA,0.9,0.88
+2021-08,F. J. Davey Home,2936,Sault Ste. Marie,ALGOMA,0.87,0.74
+2021-08,Lady Dunn Health Centre (Wawa),2875,Wawa,ALGOMA,0.96,0.95
+2021-08,Mauno Kaihla Koti,2780,Sault Ste. Marie,ALGOMA,0.88,0.88
+2021-08,North Shore Health Network - Eldcap Unit,2795,Blind River,ALGOMA,1,1
+2021-08,North Shore Health Network - LTC Unit,2865,Blind River,ALGOMA,0.95,0.9
+2021-08,St. Joseph's Manor,2877,Elliot Lake,ALGOMA,0.97,0.97
+2021-08,Brierwood Gardens LTC,2678,Brantford,BRANT,0.86,0.82
+2021-08,Fox Ridge Care Community,2570,Brantford,BRANT,0.96,0.9
+2021-08,Hardy Terrace,2720,Brantford,BRANT,0.93,0.92
+2021-08,Iroquois Lodge Nursing Home,2724,Ohsweken,BRANT,0.77,0.77
+2021-08,John Noble Home,M544,Brantford,BRANT,0.86,0.85
+2021-08,Park Lane Terrace,2779,Paris,BRANT,0.82,0.79
+2021-08,St. Joseph's Lifecare Centre,2976,Brantford,BRANT,0.84,0.81
+2021-08,Telfer Place,2742,Paris,BRANT,0.78,0.67
+2021-08,Blenheim Community Village,2695,Blenheim,CHATHAM-KENT,0.87,0.83
+2021-08,Copper Terrace,1115,Chatham,CHATHAM-KENT,0.86,0.8
+2021-08,Fairfield Park,2823,Wallaceburg,CHATHAM-KENT,0.79,0.77
+2021-08,Meadow Park Nursing Home (Chatham),2685,Chatham,CHATHAM-KENT,0.92,0.9
+2021-08,Riverview Gardens,M626,Chatham,CHATHAM-KENT,0.83,0.81
+2021-08,Tilbury Manor Nursing Home,1064,Tilbury,CHATHAM-KENT,0.77,0.71
+2021-08,Village on the Ridge,2765,Ridgetown,CHATHAM-KENT,0.93,0.84
+2021-08,Bay Ridges,2895,Pickering,DURHAM,0.87,0.85
+2021-08,Bon Air Long Term Care Residence,2613,Cannington,DURHAM,0.91,0.84
+2021-08,Chartwell Ballycliffe Long Term Care Residence,2658,Ajax,DURHAM,0.92,0.85
+2021-08,Chartwell Wynfield Long Term Care Residence,2885,Oshawa,DURHAM,0.91,0.88
+2021-08,Extendicare Oshawa,2439,Oshawa,DURHAM,0.9,0.88
+2021-08,Fairview Lodge,M522,Whitby,DURHAM,0.88,0.85
+2021-08,Glen Hill Strathaven,2605,Bowmanville,DURHAM,0.91,0.89
+2021-08,Glen Hill Terrace,3053,Whitby,DURHAM,0.94,0.93
+2021-08,Hillsdale Estates,M539,Oshawa,DURHAM,0.84,0.82
+2021-08,Hillsdale Terraces,M630,Oshawa,DURHAM,0.89,0.88
+2021-08,Lakeview Manor,M546,Beaverton,DURHAM,0.89,0.89
+2021-08,Orchard Villa,2693,Pickering,DURHAM,0.75,0.73
+2021-08,Port Perry Place,2629,Port Perry,DURHAM,0.9,0.9
+2021-08,ReachView Village,2635,Uxbridge,DURHAM,0.91,0.91
+2021-08,Sunnycrest Nursing Home,1013,Whitby,DURHAM,0.85,0.83
+2021-08,The Village of Taunton Mills,2902,Whitby,DURHAM,0.95,0.78
+2021-08,Thorntonview,2534,Oshawa,DURHAM,0.93,0.91
+2021-08,Winbourne Park,2871,Ajax,DURHAM,0.9,0.9
+2021-08,Caressant Care Bourget,1160,Bourget,EASTERN ONTARIO,0.97,0.97
+2021-08,Centre d'Accueil Roger Seguin,2988,Clarence Creek,EASTERN ONTARIO,0.89,0.87
+2021-08,Champlain Long Term Care Residence,0925,L'orignal,EASTERN ONTARIO,0.99,0.99
+2021-08,Dundas Manor Nursing Home,2674,Winchester,EASTERN ONTARIO,1,1
+2021-08,Foyer St-Viateur Nursing Home,2746,Limoges,EASTERN ONTARIO,0.89,0.87
+2021-08,Glen-Stor-Dun Lodge,M529,Cornwall,EASTERN ONTARIO,0.75,0.73
+2021-08,Heartwood,2088,Cornwall,EASTERN ONTARIO,0.88,0.82
+2021-08,Lancaster Long Term Care Residence,2680,Lancaster,EASTERN ONTARIO,0.9,0.84
+2021-08,Maxville Manor,3000,Maxville,EASTERN ONTARIO,0.89,0.89
+2021-08,Parisien Manor,1131,Cornwall,EASTERN ONTARIO,0.89,0.87
+2021-08,Pinecrest (Plantagenet),2797,Plantagenet,EASTERN ONTARIO,0.81,0.77
+2021-08,Residence Prescott et Russell,M567,Hawkesbury,EASTERN ONTARIO,0.8,0.76
+2021-08,Sandfield Place,2778,Cornwall,EASTERN ONTARIO,0.94,0.93
+2021-08,St. Jacques Nursing Home,2691,Embrun,EASTERN ONTARIO,0.96,0.93
+2021-08,St. Joseph's Continuing Care Centre,3012,Cornwall,EASTERN ONTARIO,0.9,0.85
+2021-08,The Palace,2642,Alexandria,EASTERN ONTARIO,0.91,0.88
+2021-08,Tsiionkwanonhsote,2800,Akwesasne,EASTERN ONTARIO,0.76,0.75
+2021-08,Woodland Villa,2743,Long Sault,EASTERN ONTARIO,0.87,0.83
+2021-08,Brucelea Haven Long Term Care,M507,Walkerton,GREY-BRUCE,0.8,0.76
+2021-08,Country Lane Long Term Care Residence,1027,Chatsworth,GREY-BRUCE,0.83,0.81
+2021-08,Elgin Abbey Nursing Home,2725,Chesley,GREY-BRUCE,0.94,0.94
+2021-08,Errinrung Long Term Care Home,2513,Thornbury,GREY-BRUCE,0.81,0.81
+2021-08,Gateway Haven Long Term Care Home,M526,Wiarton,GREY-BRUCE,0.88,0.85
+2021-08,Georgian Heights,2638,Owen Sound,GREY-BRUCE,0.88,0.86
+2021-08,Golden Dawn Nursing Home,2705,Lion's Head,GREY-BRUCE,0.89,0.89
+2021-08,Grey Gables Home for the Aged,M606,Markdale,GREY-BRUCE,0.9,0.9
+2021-08,Hanover Care Centre,2770,Hanover,GREY-BRUCE,0.92,0.92
+2021-08,Lee Manor Home,M549,Owen Sound,GREY-BRUCE,0.87,0.85
+2021-08,Maple View,2690,Owen Sound,GREY-BRUCE,0.94,0.94
+2021-08,Meaford Long Term Care - a peopleCare Community,2612,Meaford,GREY-BRUCE,0.97,0.93
+2021-08,Parkview Manor Health Care Centre,1053,Chesley,GREY-BRUCE,0.79,0.79
+2021-08,Pinecrest Manor,2600,Lucknow,GREY-BRUCE,0.89,0.89
+2021-08,Rockwood Terrace Home for the Aged,M570,Durham,GREY-BRUCE,0.81,0.81
+2021-08,Southampton Care Centre,2597,Southampton,GREY-BRUCE,0.93,0.87
+2021-08,Summit Place,2624,Owen Sound,GREY-BRUCE,0.85,0.8
+2021-08,The Village Seniors Community,2599,Hanover,GREY-BRUCE,0.93,0.92
+2021-08,Trillium Court,2773,Kincardine,GREY-BRUCE,0.95,0.94
+2021-08,Anson Place Care Centre,2786,Hagersville,HALDIMAND-NORFOLK,0.8,0.76
+2021-08,Cedarwood Village,2768,Simcoe,HALDIMAND-NORFOLK,0.88,0.83
+2021-08,Delhi Long Term Care Centre,2660,Delhi,HALDIMAND-NORFOLK,0.81,0.81
+2021-08,Dover Cliffs,1056,Port Dover,HALDIMAND-NORFOLK,0.83,0.79
+2021-08,Edgewater Gardens Long Term Care Centre,2963,Dunnville,HALDIMAND-NORFOLK,0.91,0.9
+2021-08,Gardenview Long Term Care Home,2961,Townsend,HALDIMAND-NORFOLK,0.74,0.71
+2021-08,Grandview Lodge / Dunnville,M532,Dunnville,HALDIMAND-NORFOLK,0.83,0.82
+2021-08,Norview Lodge,M624,Simcoe,HALDIMAND-NORFOLK,0.8,0.8
+2021-08,The Norfolk Hospital Nursing Home,2621,Simcoe,HALDIMAND-NORFOLK,0.85,0.82
+2021-08,Burnbrae Gardens Long Term Care Residence,2686,Campbellford,HALIBURTON KAWARTHA PR,0.93,0.9
+2021-08,Caressant Care Lindsay Nursing Home,2701,Lindsay,HALIBURTON KAWARTHA PR,0.94,0.89
+2021-08,Caressant Care on McLaughlin Road,2916,Lindsay,HALIBURTON KAWARTHA PR,0.84,0.63
+2021-08,Case Manor Care Community,0958,Bobcaygeon,HALIBURTON KAWARTHA PR,0.83,0.76
+2021-08,Extendicare Cobourg,2851,Cobourg,HALIBURTON KAWARTHA PR,0.9,0.87
+2021-08,Extendicare Haliburton,2644,Haliburton,HALIBURTON KAWARTHA PR,0.91,0.91
+2021-08,Extendicare Kawartha Lakes,2838,Lindsay,HALIBURTON KAWARTHA PR,0.86,0.84
+2021-08,Extendicare Port Hope,2925,Port Hope,HALIBURTON KAWARTHA PR,0.89,0.83
+2021-08,Fenelon Court,2850,Fenelon Falls,HALIBURTON KAWARTHA PR,0.95,0.91
+2021-08,Frost Manor,2703,Lindsay,HALIBURTON KAWARTHA PR,0.92,0.86
+2021-08,Golden Plough Lodge,M531,Cobourg,HALIBURTON KAWARTHA PR,0.9,0.86
+2021-08,Highland Wood,3030,Haliburton,HALIBURTON KAWARTHA PR,0.88,0.86
+2021-08,Hope Street Terrace,2639,Port Hope,HALIBURTON KAWARTHA PR,0.95,0.93
+2021-08,Hyland Crest,3050,Minden,HALIBURTON KAWARTHA PR,1,0.95
+2021-08,Maplewood,2717,Brighton,HALIBURTON KAWARTHA PR,0.81,0.77
+2021-08,Pinecrest Nursing Home (Bobcaygeon),2731,Bobcaygeon,HALIBURTON KAWARTHA PR,0.83,0.74
+2021-08,Regency Long Term Care Home,2511,Port Hope,HALIBURTON KAWARTHA PR,0.93,0.86
+2021-08,Streamway Villa,2666,Cobourg,HALIBURTON KAWARTHA PR,0.94,0.94
+2021-08,Victoria Manor Home for the Aged,M589,Lindsay,HALIBURTON KAWARTHA PR,0.91,0.9
+2021-08,Warkworth Place,2803,Warkworth,HALIBURTON KAWARTHA PR,0.9,0.86
+2021-08,Allendale,M536,Milton,HALTON,0.87,0.78
+2021-08,Bennett Health Care Centre,2816,Georgetown,HALTON,0.98,0.97
+2021-08,Billings Court Manor,2938,Burlington,HALTON,0.76,0.71
+2021-08,Burloak,2857,Burlington,HALTON,0.93,0.89
+2021-08,CAMA Woodlands Nursing Home,2774,Burlington,HALTON,0.92,0.89
+2021-08,Chartwell Brant Centre Long Term Care Residence,2900,Burlington,HALTON,0.95,0.9
+2021-08,Chartwell Waterford Long Term Care Residence,2908,Oakville,HALTON,0.95,0.92
+2021-08,Creek Way Village,M623,Burlington,HALTON,0.91,0.87
+2021-08,Extendicare Halton Hills,2892,Georgetown,HALTON,0.93,0.87
+2021-08,Hampton Terrace Care Centre,2846,Burlington,HALTON,0.88,0.87
+2021-08,Maple Villa Long Term Care Centre,2408,Burlington,HALTON,0.94,0.91
+2021-08,Mount Nemo Christian Nursing Home,2577,Burlington,HALTON,0.84,0.8
+2021-08,Northridge,2862,Oakville,HALTON,0.89,0.88
+2021-08,Post Inn Village,M620,Oakville,HALTON,0.9,0.87
+2021-08,The Village of Tansley Woods,2854,Burlington,HALTON,0.97,0.95
+2021-08,Wellington Park Care Centre,1023,Burlington,HALTON,0.87,0.79
+2021-08,West Oak Village,2870,Oakville,HALTON,0.97,0.9
+2021-08,Wyndham Manor Long Term Care Centre,2910,Oakville,HALTON,0.97,0.93
+2021-08,Alexander Place,2861,Waterdown,HAMILTON,1,0.89
+2021-08,Arbour Creek Long-Term Care Centre,2930,Hamilton,HAMILTON,0.87,0.84
+2021-08,BayWoods Place,2581,Hamilton,HAMILTON,0.9,0.84
+2021-08,Blackadar Continuing Care Centre,2641,Dundas,HAMILTON,0.94,0.84
+2021-08,Chartwell Willowgrove Long Term Care Residence,2921,Ancaster,HAMILTON,0.95,0.92
+2021-08,Clarion Nursing Home,2721,Stoney Creek,HAMILTON,0.84,0.8
+2021-08,Dundurn Place Care Centre,2739,Hamilton,HAMILTON,0.92,0.89
+2021-08,Extendicare Hamilton,2858,Hamilton,HAMILTON,0.91,0.89
+2021-08,Grace Villa Nursing Home,2741,Hamilton,HAMILTON,0.73,0.67
+2021-08,Hamilton Continuing Care,2706,Hamilton,HAMILTON,0.84,0.78
+2021-08,Heritage Green Nursing Home,2776,Stoney Creek,HAMILTON,0.81,0.71
+2021-08,Idlewyld Manor,2931,Hamilton,HAMILTON,0.93,0.91
+2021-08,Macassa Lodge,M552,Hamilton,HAMILTON,0.91,0.86
+2021-08,Orchard Terrace Care Centre,2477,Stoney Creek,HAMILTON,0.85,0.77
+2021-08,Parkview Nursing Centre,2700,Hamilton,HAMILTON,0.89,0.88
+2021-08,Pine Villa Nursing Home,2750,Stoney Creek,HAMILTON,0.83,0.8
+2021-08,Queen's Garden,2853,Hamilton,HAMILTON,0.93,0.89
+2021-08,Regina Gardens,2922,Hamilton,HAMILTON,0.91,0.87
+2021-08,Ridgeview,2849,Stoney Creek,HAMILTON,0.89,0.86
+2021-08,Shalom Village Nursing Home,2775,Hamilton,HAMILTON,0.88,0.86
+2021-08,"St. Joseph's Villa, Dundas",2975,Dundas,HAMILTON,0.81,0.73
+2021-08,St. Peter's Residence at Chedoke,2927,Hamilton,HAMILTON,0.89,0.85
+2021-08,The Meadows,2844,Ancaster,HAMILTON,0.92,0.9
+2021-08,The Village of Wentworth Heights,2841,Hamilton,HAMILTON,0.95,0.84
+2021-08,The Wellington Nursing Home,2784,Hamilton,HAMILTON,0.94,0.9
+2021-08,Victoria Gardens Long Term Care,2806,Hamilton,HAMILTON,0.89,0.87
+2021-08,Wentworth Lodge,M592,Dundas,HAMILTON,0.93,0.9
+2021-08,Belmont Long Term Care Facility,2901,Belleville,HASTINGS PRINCE EDWARD,0.89,0.84
+2021-08,Caressant Care Marmora,2718,Marmora,HASTINGS PRINCE EDWARD,0.88,0.86
+2021-08,Crown Ridge Place,2787,Trenton,HASTINGS PRINCE EDWARD,0.86,0.85
+2021-08,E. J. McQuigge Lodge,2668,Cannifton,HASTINGS PRINCE EDWARD,1,0.98
+2021-08,H.J. McFarland Memorial Home,M556,Picton,HASTINGS PRINCE EDWARD,0.94,0.93
+2021-08,Hallowell House,0891,Picton,HASTINGS PRINCE EDWARD,0.89,0.88
+2021-08,Hastings Centennial Manor,M537,Bancroft,HASTINGS PRINCE EDWARD,0.73,0.67
+2021-08,Hastings Manor Home for the Aged,M538,Belleville,HASTINGS PRINCE EDWARD,0.84,0.76
+2021-08,Kentwood Park,0893,Picton,HASTINGS PRINCE EDWARD,0.93,0.81
+2021-08,Moira Place Long-Term Care Home,2977,Tweed,HASTINGS PRINCE EDWARD,0.85,0.8
+2021-08,Stirling Manor Nursing Home,2470,Stirling,HASTINGS PRINCE EDWARD,0.85,0.83
+2021-08,Trent Valley Lodge,2337,Trenton,HASTINGS PRINCE EDWARD,0.86,0.82
+2021-08,West Lake Terrace,0997,Picton,HASTINGS PRINCE EDWARD,0.95,0.88
+2021-08,Westgate Lodge Nursing Home,2623,Belleville,HASTINGS PRINCE EDWARD,0.76,0.72
+2021-08,Blue Water Rest Home,2987,Zurich,HURON-PERTH,0.96,0.93
+2021-08,Braemar Retirement Centre,2788,Wingham,HURON-PERTH,0.73,0.72
+2021-08,Caressant Care Listowel Nursing Home,2664,Listowel,HURON-PERTH,0.84,0.76
+2021-08,Exeter Villa,2749,Exeter,HURON-PERTH,0.98,0.92
+2021-08,Greenwood Court,3023,Stratford,HURON-PERTH,0.87,0.85
+2021-08,Hillside Manor,1975,Stratford,HURON-PERTH,0.9,0.84
+2021-08,Huronlea Home for the Aged,M601,Brussels,HURON-PERTH,0.76,0.76
+2021-08,Huronview Home for the Aged,M541,Clinton,HURON-PERTH,0.7,0.67
+2021-08,Kingsway Lodge Nursing Home,2726,St. Marys,HURON-PERTH,0.98,0.98
+2021-08,Knollcrest Lodge,2996,Milverton,HURON-PERTH,0.8,0.79
+2021-08,Maitland Manor,0965,Goderich,HURON-PERTH,0.89,0.85
+2021-08,Mitchell Nursing Home,2689,Mitchell,HURON-PERTH,0.93,0.88
+2021-08,Queensway Long Term Care Home,0933,Hensall,HURON-PERTH,0.98,0.95
+2021-08,Ritz Lutheran Villa,3007,Mitchell,HURON-PERTH,0.93,0.88
+2021-08,Seaforth Long Term Care Home,1135,Seaforth,HURON-PERTH,0.94,0.94
+2021-08,Spruce Lodge Home for the Aged,M575,Stratford,HURON-PERTH,0.94,0.94
+2021-08,The Fordwich Village Nursing Home,0995,Fordwich,HURON-PERTH,1,1
+2021-08,Wildwood Care Centre,2802,St. Marys,HURON-PERTH,0.95,0.9
+2021-08,Arbour Heights,2982,Kingston,KINGSTON FRONTENAC L & A,0.95,0.94
+2021-08,Extendicare Kingston,2616,Kingston,KINGSTON FRONTENAC L & A,0.97,0.89
+2021-08,Fairmount Home for the Aged,M521,Glenburnie,KINGSTON FRONTENAC L & A,0.99,0.98
+2021-08,Friendly Manor Nursing Home,0934,Deseronto,KINGSTON FRONTENAC L & A,0.91,0.88
+2021-08,Helen Henderson Nursing Home,2728,Amherstview,KINGSTON FRONTENAC L & A,0.9,0.84
+2021-08,Lennox and Addington County General Hospital,7089,Napanee,KINGSTON FRONTENAC L & A,0.9,0.87
+2021-08,Pine Meadow Nursing Home,2796,Northbrook,KINGSTON FRONTENAC L & A,0.79,0.73
+2021-08,Providence Manor,3005,Kingston,KINGSTON FRONTENAC L & A,0.9,0.85
+2021-08,Rideaucrest Home,M569,Kingston,KINGSTON FRONTENAC L & A,0.93,0.9
+2021-08,The John M. Parrott Centre,M625,Napanee,KINGSTON FRONTENAC L & A,0.97,0.92
+2021-08,The Village Green Nursing Home,2681,Selby,KINGSTON FRONTENAC L & A,0.89,0.89
+2021-08,Trillium Retirement and Care Community,2790,Kingston,KINGSTON FRONTENAC L & A,0.99,0.98
+2021-08,Afton Park Place Long Term Care Community,2872,Sarnia,LAMBTON,0.87,0.71
+2021-08,Fiddick's Nursing Home,2673,Petrolia,LAMBTON,0.92,0.89
+2021-08,Lambton Meadowview Villa,M547,Petrolia,LAMBTON,0.83,0.79
+2021-08,Marshall Gowland Manor,M613,Sarnia,LAMBTON,0.91,0.88
+2021-08,North Lambton Lodge,M559,Forest,LAMBTON,0.89,0.87
+2021-08,Sumac Lodge,2573,Sarnia,LAMBTON,0.87,0.81
+2021-08,Trillium Villa Nursing Home,2217,Sarnia,LAMBTON,0.88,0.87
+2021-08,Twin Lakes Terrace Long Term Care Community,2889,Sarnia,LAMBTON,0.81,0.73
+2021-08,Vision Nursing Home,2659,Sarnia,LAMBTON,0.89,0.84
+2021-08,Watford Quality Care Centre,2652,Watford,LAMBTON,0.96,0.96
+2021-08,Almonte Country Haven,2692,Almonte,"LEEDS,GRENVILLE,LANARK",1,0.99
+2021-08,Bayfield Manor,2772,Kemptville,"LEEDS,GRENVILLE,LANARK",0.97,0.87
+2021-08,Broadview Nursing Centre,2684,Smiths Falls,"LEEDS,GRENVILLE,LANARK",0.88,0.8
+2021-08,Carveth Care Centre,2683,Gananoque,"LEEDS,GRENVILLE,LANARK",0.95,0.94
+2021-08,Fairview Manor,2973,Almonte,"LEEDS,GRENVILLE,LANARK",0.88,0.88
+2021-08,Hilltop Manor Nursing Home (Merrickville),2645,Merrickville,"LEEDS,GRENVILLE,LANARK",0.98,0.98
+2021-08,Kemptville District Hospital,7073,Kemptville,"LEEDS,GRENVILLE,LANARK",0.92,0.91
+2021-08,Lanark Lodge,M548,Perth,"LEEDS,GRENVILLE,LANARK",0.88,0.86
+2021-08,Maple View Lodge,M554,Athens,"LEEDS,GRENVILLE,LANARK",0.87,0.86
+2021-08,Perth Community Care Centre,0962,Perth,"LEEDS,GRENVILLE,LANARK",0.74,0.71
+2021-08,Rosebridge Manor,2671,Jasper,"LEEDS,GRENVILLE,LANARK",0.91,0.88
+2021-08,Sherwood Park Manor,2640,Brockville,"LEEDS,GRENVILLE,LANARK",0.83,0.75
+2021-08,St. Lawrence Lodge,M576,Brockville,"LEEDS,GRENVILLE,LANARK",0.82,0.82
+2021-08,Stoneridge Manor,2637,Carleton Place,"LEEDS,GRENVILLE,LANARK",0.88,0.81
+2021-08,Wellington House Nursing Home,2807,Prescott,"LEEDS,GRENVILLE,LANARK",0.95,0.85
+2021-08,Babcock Community Care Centre,2626,Wardsville,MIDDLESEX-LONDON,0.86,0.86
+2021-08,Chartwell London Long Term Care Residence,2919,London,MIDDLESEX-LONDON,0.96,0.93
+2021-08,Chartwell Parkhill Long Term Care Residence,2632,Parkhill,MIDDLESEX-LONDON,0.9,0.86
+2021-08,Chelsey Park,2655,London,MIDDLESEX-LONDON,0.95,0.89
+2021-08,Country Terrace,0907,Komoka,MIDDLESEX-LONDON,0.88,0.86
+2021-08,Craigholme,2622,Ailsa Craig,MIDDLESEX-LONDON,0.84,0.72
+2021-08,Dearness Home for Senior Citizens,M514,London,MIDDLESEX-LONDON,0.88,0.82
+2021-08,Earls Court Village,3047,London,MIDDLESEX-LONDON,0.89,0.85
+2021-08,Elmwood Place,3054,London,MIDDLESEX-LONDON,0.97,0.92
+2021-08,Extendicare London,2173,London,MIDDLESEX-LONDON,0.91,0.86
+2021-08,Henley Place,3045,London,MIDDLESEX-LONDON,0.76,0.65
+2021-08,Kensington Village,2729,London,MIDDLESEX-LONDON,0.91,0.9
+2021-08,McCormick Home,2965,London,MIDDLESEX-LONDON,1,0.98
+2021-08,McGarrell Place,2964,London,MIDDLESEX-LONDON,0.92,0.9
+2021-08,Meadow Park (London),2643,London,MIDDLESEX-LONDON,0.95,0.92
+2021-08,Middlesex Terrace,1030,Delaware,MIDDLESEX-LONDON,0.86,0.83
+2021-08,Mount Hope Centre for Long Term Care,C596,London,MIDDLESEX-LONDON,1,0.96
+2021-08,Oneida Nation of the Thames Long-Term Care Home (Tsi' Nu: yoyantle' Na' Tuhuwati,3042,Southwold,MIDDLESEX-LONDON,0.96,0.93
+2021-08,peopleCare Oakcrossing London,2980,London,MIDDLESEX-LONDON,0.91,0.87
+2021-08,Sprucedale Care Centre,2946,Strathroy,MIDDLESEX-LONDON,0.9,0.88
+2021-08,Strathmere Lodge,M627,Strathroy,MIDDLESEX-LONDON,0.85,0.83
+2021-08,The Village of Glendale Crossing,2979,London,MIDDLESEX-LONDON,0.87,0.57
+2021-08,Westmount Gardens Long Term Care Home,2878,London,MIDDLESEX-LONDON,0.95,0.92
+2021-08,"Albright Gardens Homes, Incorporated",2983,Beamsville,NIAGARA,0.81,0.78
+2021-08,Bella Senior Care Residences,2890,Niagara Falls,NIAGARA,0.78,0.75
+2021-08,Crescent Park Lodge,2587,Fort Erie,NIAGARA,0.86,0.83
+2021-08,Deer Park Villa,M611,Grimsby,NIAGARA,0.84,0.79
+2021-08,Douglas H. Rapelje Lodge,M604,Welland,NIAGARA,0.89,0.87
+2021-08,Extendicare St. Catharines,2321,St. Catharines,NIAGARA,0.94,0.89
+2021-08,Foyer Richelieu Welland,3022,Welland,NIAGARA,0.91,0.82
+2021-08,Garden City Manor,2364,St. Catharines,NIAGARA,0.82,0.77
+2021-08,Gilmore Lodge,M528,Fort Erie,NIAGARA,0.9,0.84
+2021-08,Heidehof Long Term Care Home,2960,St. Catharines,NIAGARA,0.87,0.86
+2021-08,Kilean Lodge,1866,Grimsby,NIAGARA,0.93,0.89
+2021-08,Linhaven,M551,St. Catharines,NIAGARA,0.86,0.82
+2021-08,Maple Park Lodge,2891,Fort Erie,NIAGARA,0.87,0.72
+2021-08,Mennonite Brethren Senior Citizens Home,3016,St. Catharines,NIAGARA,0.87,0.8
+2021-08,Millennium Trail Manor,2948,Niagara Falls,NIAGARA,0.83,0.78
+2021-08,"Niagara Health System, Welland Hospital Site, Extended Care Unit",2607,Welland,NIAGARA,0.87,0.82
+2021-08,Niagara Ina Grafton Gage Village,2994,St. Catharines,NIAGARA,0.86,0.81
+2021-08,Niagara Long Term Care Residence,2618,Niagara-On-The-Lake,NIAGARA,0.94,0.9
+2021-08,Northland Pointe,M610,Port Colborne,NIAGARA,0.91,0.83
+2021-08,Oakwood Park Lodge,2661,Niagara Falls,NIAGARA,0.89,0.85
+2021-08,Pleasant Manor Retirement Village,2799,Virgil,NIAGARA,0.93,0.89
+2021-08,R. H. Lawson Eventide Home,2991,Niagara Falls,NIAGARA,0.68,0.66
+2021-08,Royal Rose Place,3049,Welland,NIAGARA,0.91,0.85
+2021-08,Shalom Manor Long Term Care Home,3009,Grimsby,NIAGARA,0.83,0.79
+2021-08,The Henley House,2909,St. Catharines,NIAGARA,0.9,0.83
+2021-08,The Meadows of Dorchester,M515,Niagara Falls,NIAGARA,0.93,0.92
+2021-08,The Woodlands of Sunset,M617,Welland,NIAGARA,0.89,0.88
+2021-08,Tufford Nursing Home,2711,St. Catharines,NIAGARA,0.95,0.9
+2021-08,United Mennonite Home,2951,Vineland,NIAGARA,0.76,0.7
+2021-08,Upper Canada Lodge,M587,Niagara-On-The-Lake,NIAGARA,0.93,0.9
+2021-08,Valley Park Lodge,2737,Niagara Falls,NIAGARA,0.98,0.93
+2021-08,West Park Health Centre,1500,St. Catharines,NIAGARA,0.91,0.88
+2021-08,Algonquin Nursing Home,3052,Mattawa,NORTH BAY-PARRY SOUND,0.86,0.83
+2021-08,Au Chateau,M502,Sturgeon Falls,NORTH BAY-PARRY SOUND,0.86,0.81
+2021-08,Belvedere Heights,M503,Parry Sound,NORTH BAY-PARRY SOUND,0.91,0.86
+2021-08,Cassellholme,M509,North Bay,NORTH BAY-PARRY SOUND,0.93,0.91
+2021-08,Eastholme Home for the Aged,M517,Powassan,NORTH BAY-PARRY SOUND,0.79,0.74
+2021-08,Lakeland Long Term Care (Eldcap),2966,Parry Sound,NORTH BAY-PARRY SOUND,0.96,0.96
+2021-08,Lakeland Long Term Care Services,2958,Parry Sound,NORTH BAY-PARRY SOUND,0.96,0.96
+2021-08,Nipissing Manor Nursing Care Center,0920,Corbeil,NORTH BAY-PARRY SOUND,0.89,0.85
+2021-08,The West Nipissing General Hospital,7069,Sturgeon Falls,NORTH BAY-PARRY SOUND,0.86,0.84
+2021-08,Waters Edge Care Community,2598,North Bay,NORTH BAY-PARRY SOUND,0.95,0.88
+2021-08,Atikokan General Hospital,2756,Atikokan,NORTHWESTERN,0.87,0.85
+2021-08,Birchwood Terrace,2620,Kenora,NORTHWESTERN,0.91,0.9
+2021-08,EMO Health Centre,2831,Emo,NORTHWESTERN,0.83,0.83
+2021-08,Northwood Lodge,M607,Red Lake,NORTHWESTERN,0.96,0.93
+2021-08,Pinecrest (Kenora),M563,Kenora,NORTHWESTERN,0.95,0.93
+2021-08,Princess Court,M608,Dryden,NORTHWESTERN,0.79,0.77
+2021-08,Rainy River Health Centre,2820,Rainy River,NORTHWESTERN,0.98,0.95
+2021-08,Rainycrest,3033,Fort Frances,NORTHWESTERN,0.89,0.86
+2021-08,William A. 'Bill' George Extended Care Facility,2785,Sioux Lookout,NORTHWESTERN,1,1
+2021-08,Carleton Lodge,M508,Nepean,OTTAWA,0.93,0.92
+2021-08,Carlingview Manor,2420,Ottawa,OTTAWA,0.96,0.94
+2021-08,Centre d'Accueil Champlain,M511,Vanier,OTTAWA,0.89,0.85
+2021-08,Élisabeth-Bruyère Residence,2759,Ottawa,OTTAWA,0.9,0.86
+2021-08,Extendicare Laurier Manor,2665,Gloucester,OTTAWA,0.91,0.88
+2021-08,Extendicare Medex,2579,Ottawa,OTTAWA,0.91,0.88
+2021-08,Extendicare New Orchard Lodge,2302,Ottawa,OTTAWA,0.99,0.95
+2021-08,Extendicare Starwood,2485,Nepean,OTTAWA,0.95,0.95
+2021-08,Extendicare West End Villa,2709,Ottawa,OTTAWA,0.98,0.96
+2021-08,Forest Hill,2834,Kanata,OTTAWA,0.98,0.98
+2021-08,Garden Terrace,2882,Kanata,OTTAWA,0.93,0.89
+2021-08,Garry J. Armstrong Home,M622,Ottawa,OTTAWA,0.94,0.91
+2021-08,Glebe Centre,2811,Ottawa,OTTAWA,0.97,0.95
+2021-08,Granite Ridge Care Community,2879,Stittsville,OTTAWA,0.98,0.96
+2021-08,Hillel Lodge (The Bess and Moe Greenberg Family),3029,Ottawa,OTTAWA,0.92,0.89
+2021-08,Longfields Manor,2845,Nepean,OTTAWA,0.93,0.93
+2021-08,Madonna Care Community,2974,Orleans,OTTAWA,0.97,0.96
+2021-08,Manoir Marochel,2867,Ottawa,OTTAWA,0.93,0.87
+2021-08,Montfort,2886,Ottawa,OTTAWA,0.82,0.73
+2021-08,Peter D. Clark Centre,M609,Ottawa,OTTAWA,0.89,0.87
+2021-08,Residence Saint-Louis,3013,Ottawa,OTTAWA,0.94,0.84
+2021-08,Royal Ottawa Place,2933,Ottawa,OTTAWA,0.94,0.88
+2021-08,Sarsfield Colonial Home,0943,Sarsfield,OTTAWA,0.9,0.9
+2021-08,St. Patrick's Home,3015,Ottawa,OTTAWA,0.94,0.92
+2021-08,The Perley and Rideau Veterans' Health Centre,3025,Ottawa,OTTAWA,0.94,0.91
+2021-08,The Salvation Army Ottawa Grace Manor,2873,Ottawa,OTTAWA,0.96,0.96
+2021-08,Township of Osgoode Care Centre,2747,Metcalfe,OTTAWA,0.99,0.99
+2021-08,Villa Marconi,2818,Ottawa,OTTAWA,0.86,0.84
+2021-08,Burton Manor,2953,Brampton,PEEL,0.95,0
+2021-08,Camilla Care Community,2472,Mississauga,PEEL,0.97,0.97
+2021-08,Cawthra Gardens,2912,Mississauga,PEEL,0.96,0.95
+2021-08,Chartwell Wenleigh Long Term Care Residence,2833,Mississauga,PEEL,1,0.95
+2021-08,Cooksville Care Centre,2124,Mississauga,PEEL,0.86,0.81
+2021-08,Erin Mills Lodge Nursing Home,2736,Mississauga,PEEL,0.97,0.67
+2021-08,Extendicare Brampton,2847,Brampton,PEEL,0.94,0.94
+2021-08,Extendicare Mississauga,2884,Mississauga,PEEL,0.91,0.88
+2021-08,Faith Manor Nursing Home,2745,Brampton,PEEL,0.93,0.75
+2021-08,Grace Manor,2942,Brampton,PEEL,0.93,0.69
+2021-08,Hawthorn Woods Care Community,2887,Brampton,PEEL,0.91,0.84
+2021-08,King Nursing Home,0901,Bolton,PEEL,0.94,0.88
+2021-08,Malton Village Long Term Care Centre,M618,Mississauga,PEEL,0.86,0.81
+2021-08,Maple Grove Care Community,2911,Brampton,PEEL,0.93,0.89
+2021-08,Mississauga Long Term Care Facility,1078,Mississauga,PEEL,0.81,0.72
+2021-08,Peel Manor,M562,Brampton,PEEL,0.91,0.86
+2021-08,Sheridan Villa,M572,Mississauga,PEEL,0.84,0.83
+2021-08,Silverthorn Care Community,2956,Mississauga,PEEL,0.93,0.88
+2021-08,Streetsville Care Community,2648,Mississauga,PEEL,0.97,0.97
+2021-08,Tall Pines Long Term Care Centre,M616,Brampton,PEEL,0.87,0.84
+2021-08,The Village of Erin Meadows,2881,Mississauga,PEEL,1,0.88
+2021-08,The Village of Sandalwood Park,2859,Brampton,PEEL,0.94,0.92
+2021-08,Tullamore Care Community,0963,Brampton,PEEL,0.89,0.85
+2021-08,Tyndall Nursing Home,2656,Mississauga,PEEL,0.85,0.82
+2021-08,Vera M. Davis Community Care Centre,2734,Bolton,PEEL,0.92,0.91
+2021-08,Villa Forum,2855,Mississauga,PEEL,0.99,0.98
+2021-08,Woodhall Park Care Community,2928,Brampton,PEEL,0.9,0.81
+2021-08,Yee Hong Centre - Mississauga,2920,Mississauga,PEEL,0.97,0.96
+2021-08,Centennial Place Long-Term Care Home,2903,Millbrook,PETERBOROUGH,0.92,0.84
+2021-08,Extendicare Lakefield,2843,Lakefield,PETERBOROUGH,0.92,0.89
+2021-08,Extendicare Peterborough,2572,Peterborough,PETERBOROUGH,0.98,0.98
+2021-08,Fairhaven,M520,Peterborough,PETERBOROUGH,0.88,0.83
+2021-08,Pleasant Meadow Manor,2761,Norwood,PETERBOROUGH,0.81,0.75
+2021-08,Riverview Manor Nursing Home,2722,Peterborough,PETERBOROUGH,0.86,0.86
+2021-08,Springdale Country Manor,2413,Peterborough,PETERBOROUGH,0.93,0.9
+2021-08,St. Joseph's at Fleming,2935,Peterborough,PETERBOROUGH,0.92,0.87
+2021-08,Extendicare Kapuskasing,2610,Kapuskasing,PORCUPINE,0.78,0.77
+2021-08,Extendicare Timmins,3044,Timmins,PORCUPINE,0.97,0.93
+2021-08,Foyer Des Pionniers,2940,Hearst,PORCUPINE,0.87,0.84
+2021-08,Golden Manor,M530,Timmins,PORCUPINE,0.96,0.95
+2021-08,Hornepayne Community Hospital,2771,Hornepayne,PORCUPINE,0.86,0.82
+2021-08,North Centennial Manor,3027,Kapuskasing,PORCUPINE,0.78,0.76
+2021-08,Rosedale Centre,2766,Matheson,PORCUPINE,0.8,0.8
+2021-08,Smooth Rock Falls Hospital,2763,Smooth Rock Falls,PORCUPINE,0.88,0.87
+2021-08,South Centennial Manor,3028,Iroquois Falls,PORCUPINE,0.76,0.74
+2021-08,Villa Minto,2815,Cochrane,PORCUPINE,0.86,0.84
+2021-08,Bonnechere Manor,M506,Renfrew,RENFREW,0.91,0.91
+2021-08,Caressant Care Cobden,2827,Cobden,RENFREW,0.75,0.75
+2021-08,Groves Park Lodge,2646,Renfrew,RENFREW,0.86,0.85
+2021-08,Marianhill Nursing Home,2702,Pembroke,RENFREW,0.86,0.8
+2021-08,Miramichi Lodge,M621,Pembroke,RENFREW,0.9,0.9
+2021-08,North Renfrew Long-Term Care Services,3036,Deep River,RENFREW,0.97,0.97
+2021-08,The Four Seasons Lodge,2896,Deep River,RENFREW,0.95,0.89
+2021-08,"The Grove, Arnprior and District Nursing Home",2699,Arnprior,RENFREW,0.93,0.91
+2021-08,Valley Manor Nursing Home,2675,Barry's Bay,RENFREW,0.76,0.74
+2021-08,Bay Haven Nursing Home,2657,Collingwood,SIMCOE-MUSKOKA,0.95,0.95
+2021-08,Bob Rumball Home for The Deaf,2967,Barrie,SIMCOE-MUSKOKA,0.96,0.95
+2021-08,Bradford Valley Care Community,2905,Bradford,SIMCOE-MUSKOKA,0.94,0.91
+2021-08,Coleman Care Centre,2696,Barrie,SIMCOE-MUSKOKA,0.96,0.91
+2021-08,Collingwood Nursing Home,2781,Collingwood,SIMCOE-MUSKOKA,1,0.94
+2021-08,Creedan Valley Care Community,2633,Creemore,SIMCOE-MUSKOKA,0.95,0.94
+2021-08,Fairvern Nursing Home,2708,Huntsville,SIMCOE-MUSKOKA,0.86,0.84
+2021-08,Georgian Manor Home for the Aged,M527,Penetanguishene,SIMCOE-MUSKOKA,0.88,0.83
+2021-08,Good Samaritan Nursing Home,2588,Alliston,SIMCOE-MUSKOKA,0.87,0.68
+2021-08,Grove Park Home For Senior Citizens,2950,Barrie,SIMCOE-MUSKOKA,0.9,0.87
+2021-08,Hillcrest Village Care Centre,2828,Midland,SIMCOE-MUSKOKA,0.93,0.92
+2021-08,IOOF Seniors Home,2993,Barrie,SIMCOE-MUSKOKA,0.93,0.87
+2021-08,Leacock Care Centre,2835,Orillia,SIMCOE-MUSKOKA,0.91,0.9
+2021-08,Mill Creek Care Centre,2981,Barrie,SIMCOE-MUSKOKA,0.91,0.87
+2021-08,Muskoka Landing,2840,Huntsville,SIMCOE-MUSKOKA,0.92,0.88
+2021-08,Muskoka Shores Care Community,2819,Gravenhurst,SIMCOE-MUSKOKA,0.94,0.92
+2021-08,Oak Terrace,2593,Orillia,SIMCOE-MUSKOKA,0.85,0.84
+2021-08,Owen Hill Care Community,2584,Barrie,SIMCOE-MUSKOKA,0.95,0.88
+2021-08,Roberta Place,2839,Barrie,SIMCOE-MUSKOKA,0.96,0.93
+2021-08,Sara Vista,2710,Elmvale,SIMCOE-MUSKOKA,1,0.96
+2021-08,Simcoe Manor Home for the Aged,M573,Beeton,SIMCOE-MUSKOKA,0.85,0.85
+2021-08,Spencer House,2971,Orillia,SIMCOE-MUSKOKA,0.96,0.92
+2021-08,Stayner Care Centre,2735,Stayner,SIMCOE-MUSKOKA,0.95,0.92
+2021-08,Sunset Manor Home for Senior Citizens,M581,Collingwood,SIMCOE-MUSKOKA,0.89,0.8
+2021-08,The Pines,M564,Bracebridge,SIMCOE-MUSKOKA,0.98,0.93
+2021-08,The Villa Care Centre,1101,Midland,SIMCOE-MUSKOKA,1,0.93
+2021-08,Trillium Manor Home for the Aged,M585,Orillia,SIMCOE-MUSKOKA,0.92,0.89
+2021-08,Victoria Village Manor,2914,Barrie,SIMCOE-MUSKOKA,0.93,0.9
+2021-08,Woods Park Care Centre,2821,Barrie,SIMCOE-MUSKOKA,0.93,0.88
+2021-08,Bobier Villa,M603,Dutton,SOUTH WEST,0.94,0.88
+2021-08,Caressant Care Courtland,2826,Courtland,SOUTH WEST,0.83,0.83
+2021-08,Caressant Care on Bonnie Place,2730,St Thomas,SOUTH WEST,0.92,0.87
+2021-08,Caressant Care on Mary Bucke,2627,St. Thomas,SOUTH WEST,0.64,0.55
+2021-08,Caressant Care Woodstock Nursing Home,2636,Woodstock,SOUTH WEST,0.87,0.83
+2021-08,Chartwell Aylmer Long Term Care Residence,2740,Aylmer,SOUTH WEST,0.95,0.94
+2021-08,Elgin Manor,M518,St. Thomas,SOUTH WEST,0.9,0.87
+2021-08,Extendicare Port Stanley,2669,Port Stanley,SOUTH WEST,0.97,0.92
+2021-08,Maple Manor Nursing Home,1049,Tillsonburg,SOUTH WEST,0.8,0.77
+2021-08,peopleCare Tavistock,2614,Tavistock,SOUTH WEST,0.85,0.84
+2021-08,Secord Trails Care Community,2628,Ingersoll,SOUTH WEST,0.89,0.83
+2021-08,Terrace Lodge,M583,Aylmer,SOUTH WEST,0.77,0.76
+2021-08,The Maples Home for Seniors,2093,Tavistock,SOUTH WEST,0.92,0.88
+2021-08,Valleyview Home,M628,St. Thomas,SOUTH WEST,0.87,0.84
+2021-08,Woodingford Lodge - Ingersoll,M614,Ingersoll,SOUTH WEST,0.83,0.79
+2021-08,Woodingford Lodge - Tillsonburg,M615,Tillsonburg,SOUTH WEST,0.89,0.87
+2021-08,Woodingford Lodge - Woodstock,M632,Woodstock,SOUTH WEST,0.75,0.74
+2021-08,Elizabeth Centre,2868,Val Caron,SUDBURY,0.9,0.84
+2021-08,Espanola General Hospital (operating as Espanola Nursing Home-Eldcap),2755,Espanola,SUDBURY,0.9,0.88
+2021-08,Espanola General Hospital (operating as Espanola Nursing Home-LTC),2932,Espanola,SUDBURY,0.9,0.88
+2021-08,Extendicare Falconbridge,2590,Sudbury,SUDBURY,0.81,0.8
+2021-08,Extendicare York,2604,Sudbury,SUDBURY,0.81,0.73
+2021-08,Finlandia Hoivakoti Nursing Home,2829,Sudbury,SUDBURY,0.93,0.9
+2021-08,Manitoulin Centennial Manor Home for the Aged,M553,Little Current,SUDBURY,0.95,0.93
+2021-08,Manitoulin Lodge,2667,Gore Bay,SUDBURY,0.84,0.81
+2021-08,Pioneer Manor,M566,Sudbury,SUDBURY,0.82,0.76
+2021-08,St. Gabriel's Villa of Sudbury,3039,Chelmsford,SUDBURY,0.91,0.73
+2021-08,"St. Joseph's Villa, Sudbury",2913,Sudbury,SUDBURY,0.82,0.79
+2021-08,The Bignucolo Residence,2864,Chapleau,SUDBURY,0.88,0.85
+2021-08,Wikwemikong Nursing Home,1856,Wikwemikong,SUDBURY,0.96,0.93
+2021-08,Bethammi Nursing Home,2687,Thunder Bay,THUNDER BAY,0.81,0.79
+2021-08,Geraldton District Hospital,2764,Geraldton,THUNDER BAY,0.84,0.77
+2021-08,Hogarth Riverview Manor,2923,Thunder Bay,THUNDER BAY,0.77,0.74
+2021-08,Nipigon District Memorial Hospital,2793,Nipigon,THUNDER BAY,0.97,0.91
+2021-08,Pioneer Ridge,M599,Thunder Bay,THUNDER BAY,0.87,0.86
+2021-08,Santé Manitouwadge Health,2810,Manitouwadge,THUNDER BAY,0.9,0.9
+2021-08,Southbridge Lakehead,1159,Thunder Bay,THUNDER BAY,0.93,0.92
+2021-08,Southbridge Pinewood,2962,Thunder Bay,THUNDER BAY,0.89,0.87
+2021-08,Southbridge Roseview,2866,Thunder Bay,THUNDER BAY,0.78,0.75
+2021-08,Wilkes Terrace,3040,Terrace Bay,THUNDER BAY,0.91,0.91
+2021-08,Extendicare Kirkland Lake,2670,Kirkland Lake,TIMISKAMING,0.9,0.81
+2021-08,Extendicare Tri-Town,2615,Haileybury,TIMISKAMING,0.87,0.85
+2021-08,Northview Nursing Home,2585,Englehart,TIMISKAMING,0.77,0.71
+2021-08,Teck Pioneer Residence,M619,Kirkland Lake,TIMISKAMING,0.84,0.8
+2021-08,Temiskaming Lodge,2698,Haileybury,TIMISKAMING,0.84,0.77
+2021-08,Altamont Care Community,0956,Scarborough,TORONTO,0.87,0.83
+2021-08,Apotex The Jewish Home for the Aged,2824,Toronto,TORONTO,0.85,0.83
+2021-08,Belmont House,2985,Toronto,TORONTO,0.95,0.94
+2021-08,Bendale Acres,M504,Scarborough,TORONTO,0.92,0.91
+2021-08,Carefree Lodge,M596,North York,TORONTO,0.88,0.87
+2021-08,Castleview Wychwood Towers,M510,Toronto,TORONTO,0.94,0.93
+2021-08,Cedarvale Terrace,2591,Toronto,TORONTO,0.96,0.94
+2021-08,Chartwell Gibson Long Term Care Residence,2556,North York,TORONTO,0.92,0.9
+2021-08,Chartwell Trilogy Long Term Care Residence,2899,Scarborough,TORONTO,0.9,0.82
+2021-08,Chartwell Westbury Long Term Care Residence,2943,Etobicoke,TORONTO,0.94,0.92
+2021-08,Chartwell White Eagle Long Term Care Residence,2583,Toronto,TORONTO,0.82,0.82
+2021-08,Cheltenham Care Community,0922,North York,TORONTO,0.95,0.91
+2021-08,Chester Village,2970,Toronto,TORONTO,0.92,0.92
+2021-08,Copernicus Lodge,2937,Toronto,TORONTO,0.65,0.63
+2021-08,Craiglee Nursing Home,2503,Scarborough,TORONTO,0.95,0.92
+2021-08,Cummer Lodge,M512,North York,TORONTO,0.89,0.87
+2021-08,Deerwood Creek Care Community,2837,Etobicoke,TORONTO,0.83,0.79
+2021-08,Dom Lipa,2794,Etobicoke,TORONTO,0.96,0.94
+2021-08,Downsview Long Term Care Centre,1041,North York,TORONTO,0.87,0.84
+2021-08,Eatonville Care Centre,2468,Etobicoke,TORONTO,0.91,0.89
+2021-08,Ehatare Nursing Home,2804,Scarborough,TORONTO,0.91,0.91
+2021-08,Elm Grove Living Centre,2515,Toronto,TORONTO,0.99,0.99
+2021-08,Extendicare Bayview,2460,North York,TORONTO,0.98,0.97
+2021-08,Extendicare Guildwood,2164,Scarborough,TORONTO,0.93,0.87
+2021-08,Extendicare Rouge Valley,2883,Toronto,TORONTO,0.94,0.93
+2021-08,Extendicare Scarborough,2117,Scarborough,TORONTO,0.85,0.83
+2021-08,Fairview Nursing Home,2723,Toronto,TORONTO,0.94,0.93
+2021-08,Fieldstone Commons Care Community,2906,Scarborough,TORONTO,0.96,0.94
+2021-08,Fosterbrooke,2625,Newcastle,TORONTO,0.96,0.94
+2021-08,Fountain View Care Community,2836,Toronto,TORONTO,0.95,0.93
+2021-08,Fudger House,M524,Toronto,TORONTO,0.96,0.95
+2021-08,Garden Court Nursing Home,1133,Toronto,TORONTO,0.97,0.97
+2021-08,Harmony Hills Care Community,2832,Toronto,TORONTO,0.93,0.91
+2021-08,Harold and Grace Baker Centre,2732,Toronto,TORONTO,0.98,0.96
+2021-08,Hawthorne Place Care Centre,2586,North York,TORONTO,0.91,0.86
+2021-08,Hellenic Care for Seniors (Toronto),2798,Toronto,TORONTO,0.93,0.9
+2021-08,Hellenic Home - Scarborough,2941,Scarborough,TORONTO,0.95,0.94
+2021-08,Humber Valley Terrace,2716,Etobicoke,TORONTO,0.93,0.91
+2021-08,Ina Grafton Gage Home,3034,Scarborough,TORONTO,0.92,0.88
+2021-08,Isabel and Arthur Meighen Manor,3031,Toronto,TORONTO,0.94,0.92
+2021-08,Ivan Franko Home (Etobicoke),C530,Toronto,TORONTO,0.75,0.71
+2021-08,Kennedy Lodge,2654,Scarborough,TORONTO,0.95,0.95
+2021-08,Kipling Acres,M545,Etobicoke,TORONTO,0.88,0.86
+2021-08,Labdara Lithuanian Nursing Home,2860,Etobicoke,TORONTO,0.56,0.51
+2021-08,Lakeshore Lodge,M595,Toronto,TORONTO,0.87,0.87
+2021-08,Lakeside Long Term Care Centre,2929,Toronto,TORONTO,0.95,0.95
+2021-08,Main Street Terrace,2589,Toronto,TORONTO,0.94,0.9
+2021-08,Maynard Nursing Home,2211,Toronto,TORONTO,0.95,0.93
+2021-08,McCall Centre Long Term Care Interim Unit,7086,Etobicoke,TORONTO,0.94,0.85
+2021-08,Midland Gardens Care Community,2789,Scarborough,TORONTO,0.97,0.95
+2021-08,Mon Sheong Home for the Aged,3002,Toronto,TORONTO,0.98,0.97
+2021-08,Mon Sheong Scarborough Long Term Care Centre,2944,Scarborough,TORONTO,0.98,0.96
+2021-08,Nisbet Lodge,3003,Toronto,TORONTO,0.96,0.93
+2021-08,Norfinch Care Community,2918,North York,TORONTO,0.95,0.92
+2021-08,North Park Nursing Home,0909,North York,TORONTO,0.98,0.96
+2021-08,Norwood Nursing Home,2201,Toronto,TORONTO,0.88,0.88
+2021-08,Providence Healthcare,3006,Toronto,TORONTO,0.94,0.93
+2021-08,Rockcliffe Care Community,2131,Scarborough,TORONTO,0.96,0.95
+2021-08,Rose of Sharon Korean Long Term Care,3038,Toronto,TORONTO,0.95,0.95
+2021-08,Seniors' Health Centre,2744,North York,TORONTO,0.86,0.84
+2021-08,Seven Oaks,M571,Scarborough,TORONTO,0.86,0.82
+2021-08,Shepherd Lodge,2782,Toronto,TORONTO,0.91,0.87
+2021-08,Sherbourne Place,2754,Toronto,TORONTO,0.97,0.96
+2021-08,St. Clair O'Connor Community Nursing Home,2719,Toronto,TORONTO,0.96,0.96
+2021-08,St. George Care Community,2594,Toronto,TORONTO,0.92,0.86
+2021-08,Suomi-Koti Toronto Nursing Home,2792,Toronto,TORONTO,1,0.99
+2021-08,Tendercare Living Centre,2649,Scarborough,TORONTO,0.95,0.92
+2021-08,The Heritage Nursing Home,2582,Toronto,TORONTO,0.98,0.98
+2021-08,The Kensington Gardens,2852,Toronto,TORONTO,0.97,0.96
+2021-08,The O'Neill Centre,2631,Toronto,TORONTO,0.96,0.93
+2021-08,The Village of Humber Heights,2957,Etobicoke,TORONTO,0.96,0.9
+2021-08,The Wexford,3021,Scarborough,TORONTO,0.97,0.97
+2021-08,Thompson House,3017,North York,TORONTO,0.93,0.92
+2021-08,Tony Stacey Centre for Veterans' Care,3001,Toronto,TORONTO,0.9,0.84
+2021-08,True Davidson Acres,M586,Toronto,TORONTO,0.85,0.83
+2021-08,Ukrainian Canadian Care Centre,2809,Etobicoke,TORONTO,0.69,0.67
+2021-08,Valleyview Residence,2954,North York,TORONTO,0.9,0.89
+2021-08,Vermont Square,2575,Toronto,TORONTO,0.94,0.91
+2021-08,Villa Colombo Homes for the Aged,3020,Toronto,TORONTO,0.97,0.96
+2021-08,Wellesley Central Place,2959,Toronto,TORONTO,0.99,0.99
+2021-08,Wesburn Manor,M612,Etobicoke,TORONTO,0.86,0.85
+2021-08,West Park Long Term Care Centre,2848,Toronto,TORONTO,0.75,0.74
+2021-08,Weston Terrace Care Community,2874,Toronto,TORONTO,0.91,0.86
+2021-08,Westside,2663,Etobicoke,TORONTO,0.92,0.9
+2021-08,Yee Hong Centre - Scarborough Finch,2934,Scarborough,TORONTO,0.97,0.95
+2021-08,Yee Hong Centre - Scarborough McNicoll,2801,Scarborough,TORONTO,0.98,0.96
+2021-08,Barnswallow Place Care Community,2830,Elmira,WATERLOO,0.88,0.83
+2021-08,Cambridge Country Manor,2651,Cambridge,WATERLOO,0.94,0.92
+2021-08,Chartwell Elmira Long Term Care Residence,2471,Elmira,WATERLOO,0.91,0.91
+2021-08,Chartwell Westmount Long Term Care Residence,2880,Kitchener,WATERLOO,0.9,0.86
+2021-08,Columbia Forest,2856,Waterloo,WATERLOO,0.89,0.87
+2021-08,Derbecker's Heritage House,2134,St. Jacobs,WATERLOO,0.91,0.89
+2021-08,Fairview Mennonite Home,2992,Cambridge,WATERLOO,0.92,0.88
+2021-08,Forest Heights,2707,Kitchener,WATERLOO,0.86,0.85
+2021-08,Golden Years Nursing Home,1033,Cambridge,WATERLOO,0.92,0.91
+2021-08,Lanark Heights Long Term Care Centre,2917,Kitchener,WATERLOO,0.96,0.95
+2021-08,Nithview Home,3004,New Hamburg,WATERLOO,0.71,0.71
+2021-08,Parkwood Mennonite Home,2952,Waterloo,WATERLOO,0.94,0.91
+2021-08,peopleCare A.R. Goudie Kitchener,2990,Kitchener,WATERLOO,0.94,0.94
+2021-08,peopleCare Hilltop Manor Cambridge,2606,Cambridge,WATERLOO,0.94,0.93
+2021-08,Pinehaven Nursing Home,2805,Waterloo,WATERLOO,0.93,0.92
+2021-08,Riverbend Place,2753,Cambridge,WATERLOO,0.97,0.97
+2021-08,Saint Luke's Place,3014,Cambridge,WATERLOO,0.96,0.94
+2021-08,St. Andrew's Terrace Long Term Care Community,2926,Cambridge,WATERLOO,0.84,0.77
+2021-08,Stirling Heights,2863,Cambridge,WATERLOO,0.98,0.95
+2021-08,Sunnyside Home,M578,Kitchener,WATERLOO,0.87,0.86
+2021-08,The Village at University Gates,3048,Waterloo,WATERLOO,0.93,0.78
+2021-08,The Village of Winston Park,2783,Kitchener,WATERLOO,0.92,0.92
+2021-08,Trinity Village Care Centre,2580,Kitchener,WATERLOO,0.93,0.91
+2021-08,Twin Oaks of Maryhill,2752,Maryhill,WATERLOO,0.98,0.93
+2021-08,Avalon Retirement Centre,2715,Orangeville,WELLINGTON-DUFFERIN-GUELPH,0.89,0.85
+2021-08,Caressant Care Arthur Nursing Home,2748,Arthur,WELLINGTON-DUFFERIN-GUELPH,0.95,0.92
+2021-08,Caressant Care Fergus Nursing Home,2603,Fergus,WELLINGTON-DUFFERIN-GUELPH,0.86,0.79
+2021-08,Caressant Care Harriston,2595,Harriston,WELLINGTON-DUFFERIN-GUELPH,0.83,0.79
+2021-08,Dufferin Oaks,M516,Shelburne,WELLINGTON-DUFFERIN-GUELPH,0.84,0.81
+2021-08,Eden House Nursing Home,2777,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.89,0.87
+2021-08,LaPointe-Fisher Nursing Home,2358,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.92,0.88
+2021-08,Morriston Park Nursing Home,2727,Puslinch,WELLINGTON-DUFFERIN-GUELPH,1,1
+2021-08,Royal Terrace,2767,Palmerston,WELLINGTON-DUFFERIN-GUELPH,0.89,0.83
+2021-08,Shelburne Long Term Care Home,2762,Shelburne,WELLINGTON-DUFFERIN-GUELPH,0.91,0.89
+2021-08,"St. Joseph's Health Centre, Guelph",3011,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.96,0.51
+2021-08,Strathcona Long Term Care,3051,Mount Forest,WELLINGTON-DUFFERIN-GUELPH,0.82,0.77
+2021-08,The Elliott Long Term Care Residence,M633,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.99,0.98
+2021-08,The Village of Riverside Glen,2915,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.95,0.86
+2021-08,Wellington Terrace Long-Term Care Home,M629,Fergus,WELLINGTON-DUFFERIN-GUELPH,0.94,0.92
+2021-08,Banwell Gardens Care Centre,2263,Tecumseh,WINDSOR-ESSEX,0.81,0.74
+2021-08,Berkshire Care Centre,2541,Windsor,WINDSOR-ESSEX,0.87,0.82
+2021-08,Brouillette Manor,2301,Tecumseh,WINDSOR-ESSEX,0.98,0.95
+2021-08,Chartwell Royal Oak Long Term Care Residence,2939,Kingsville,WINDSOR-ESSEX,0.85,0.8
+2021-08,Chateau Park Long Term Care Home,2712,Windsor,WINDSOR-ESSEX,0.94,0.89
+2021-08,Country Village Homes - Woodslee,2576,Woodslee,WINDSOR-ESSEX,0.77,0.75
+2021-08,Extendicare Southwood Lakes,2842,Windsor,WINDSOR-ESSEX,0.88,0.85
+2021-08,Extendicare Tecumseh,2904,Tecumseh,WINDSOR-ESSEX,0.82,0.79
+2021-08,Franklin Gardens Long Term Care Home,2602,Leamington,WINDSOR-ESSEX,0.84,0.78
+2021-08,Heron Terrace Long Term Care Community,2898,Windsor,WINDSOR-ESSEX,0.94,0.89
+2021-08,Huron Lodge Long Term Care Home,M631,Windsor,WINDSOR-ESSEX,0.74,0.71
+2021-08,Iler Lodge,2129,Essex,WINDSOR-ESSEX,0.85,0.84
+2021-08,Leamington Mennonite Home Long Term Care Residence,3035,Leamington,WINDSOR-ESSEX,0.89,0.88
+2021-08,Regency Park Long Term Care Home,2760,Windsor,WINDSOR-ESSEX,0.82,0.77
+2021-08,Richmond Terrace,1149,Amherstburg,WINDSOR-ESSEX,0.84,0.84
+2021-08,Riverside Place,2972,Windsor,WINDSOR-ESSEX,0.86,0.84
+2021-08,Sun Parlor Home for Senior Citizens,M579,Leamington,WINDSOR-ESSEX,0.88,0.86
+2021-08,The Village at St. Clair,3046,Windsor,WINDSOR-ESSEX,0.86,0.79
+2021-08,The Village of Aspen Lake,3037,Windsor,WINDSOR-ESSEX,0.86,0.82
+2021-08,Bethany Lodge,2986,Markham,YORK REGION,0.94,0.91
+2021-08,Bloomington Cove Care Community,2697,Stouffville,YORK REGION,0.99,0.98
+2021-08,Cedarvale Lodge Retirement and Care Community,2769,Keswick,YORK REGION,0.91,0.82
+2021-08,Chartwell Aurora Long Term Care Residence,2630,Aurora,YORK REGION,0.89,0.87
+2021-08,Chartwell Pine Grove Long Term Care Residence,2808,Woodbridge,YORK REGION,0.95,0.93
+2021-08,Chartwell Woodhaven Long Term Care Residence,2888,Markham,YORK REGION,0.96,0.95
+2021-08,Eagle Terrace,2240,Newmarket,YORK REGION,0.93,0.89
+2021-08,Elginwood,2869,Richmond Hill,YORK REGION,0.99,0.99
+2021-08,King City Lodge Nursing Home,2113,King City,YORK REGION,0.96,0.89
+2021-08,Kristus Darzs Latvian Home,2997,Woodbridge,YORK REGION,0.95,0.91
+2021-08,Langstaff Square Care Community,2907,Richmond Hill,YORK REGION,0.92,0.86
+2021-08,Mackenzie Health Long Term Care Facility,2825,Richmond Hill,YORK REGION,0.82,0.82
+2021-08,MacKenzie Place,2611,Newmarket,YORK REGION,1,0.98
+2021-08,Mariann Home,2619,Richmond Hill,YORK REGION,0.98,0.98
+2021-08,Markhaven,2924,Markham,YORK REGION,0.95,0.94
+2021-08,Mon Sheong Richmond Hill Long Term Care Centre,2897,Richmond Hill,YORK REGION,0.97,0.96
+2021-08,Parkview Home Long-Term Care,2968,Stouffville,YORK REGION,0.95,0.93
+2021-08,River Glen Haven Nursing Home,1021,Sutton West,YORK REGION,0.84,0.8
+2021-08,Sherwood Court Long Term Care Centre,2894,Maple,YORK REGION,0.98,0.95
+2021-08,Southlake Residential Care Village,2955,Newmarket,YORK REGION,0.92,0.87
+2021-08,The Willows Estate Nursing Home,2174,Aurora,YORK REGION,0.96,0.95
+2021-08,Union Villa,3018,Unionville,YORK REGION,0.96,0.95
+2021-08,Villa Colombo Seniors Centre (Vaughan),2969,Vaughan,YORK REGION,0.97,0.92
+2021-08,Villa Leonardo Gambin,2947,Woodbridge,YORK REGION,0.88,0.86
+2021-08,Woodbridge Vista Care Community,2945,Woodbridge,YORK REGION,0.65,0.52
+2021-08,Yee Hong Centre - Markham,2876,Markham,YORK REGION,0.95,0.91
+2021-08,York Region Maple Health Centre,M605,Maple,YORK REGION,0.88,0.87
+2021-08,York Region Newmarket Health Centre,M534,Newmarket,YORK REGION,0.9,0.88
+2021-09,Algoma Manor Nursing Home,3041,Thessalon,ALGOMA,0.94,0.93
+2021-09,Cedarwood Lodge,7093,Sault Ste. Marie,ALGOMA,0.97,0.96
+2021-09,Extendicare Maple View of Sault Ste. Marie,3043,Sault Ste. Marie,ALGOMA,0.95,0.88
+2021-09,Extendicare Van Daele,2609,Sault Ste. Marie,ALGOMA,0.97,0.93
+2021-09,F. J. Davey Home,2936,Sault Ste. Marie,ALGOMA,0.86,0.86
+2021-09,Lady Dunn Health Centre (Wawa),2875,Wawa,ALGOMA,0.94,0.94
+2021-09,Mauno Kaihla Koti,2780,Sault Ste. Marie,ALGOMA,1,0.96
+2021-09,North Shore Health Network - Eldcap Unit,2795,Blind River,ALGOMA,1,1
+2021-09,North Shore Health Network - LTC Unit,2865,Blind River,ALGOMA,0.98,0.95
+2021-09,St. Joseph's Manor,2877,Elliot Lake,ALGOMA,0.99,0.97
+2021-09,Brierwood Gardens LTC,2678,Brantford,BRANT,0.87,0.85
+2021-09,Fox Ridge Care Community,2570,Brantford,BRANT,0.97,0.95
+2021-09,Hardy Terrace,2720,Brantford,BRANT,0.93,0.92
+2021-09,Iroquois Lodge Nursing Home,2724,Ohsweken,BRANT,0.77,0.76
+2021-09,John Noble Home,M544,Brantford,BRANT,0.86,0.81
+2021-09,Park Lane Terrace,2779,Paris,BRANT,0.93,0.89
+2021-09,St. Joseph's Lifecare Centre,2976,Brantford,BRANT,0.88,0.86
+2021-09,Telfer Place,2742,Paris,BRANT,0.94,0.87
+2021-09,Blenheim Community Village,2695,Blenheim,CHATHAM-KENT,0.94,0.92
+2021-09,Copper Terrace,1115,Chatham,CHATHAM-KENT,0.87,0.8
+2021-09,Fairfield Park,2823,Wallaceburg,CHATHAM-KENT,0.88,0.81
+2021-09,Meadow Park Nursing Home (Chatham),2685,Chatham,CHATHAM-KENT,0.99,0.95
+2021-09,Riverview Gardens,M626,Chatham,CHATHAM-KENT,0.83,0.82
+2021-09,Tilbury Manor Nursing Home,1064,Tilbury,CHATHAM-KENT,0.87,0.8
+2021-09,Village on the Ridge,2765,Ridgetown,CHATHAM-KENT,0.97,0.91
+2021-09,Bay Ridges,2895,Pickering,DURHAM,0.94,0.87
+2021-09,Bon Air Long Term Care Residence,2613,Cannington,DURHAM,0.97,0.92
+2021-09,Chartwell Ballycliffe Long Term Care Residence,2658,Ajax,DURHAM,1,0.94
+2021-09,Chartwell Wynfield Long Term Care Residence,2885,Oshawa,DURHAM,0.95,0.92
+2021-09,Extendicare Oshawa,2439,Oshawa,DURHAM,0.92,0.9
+2021-09,Fairview Lodge,M522,Whitby,DURHAM,0.9,0.88
+2021-09,Glen Hill Strathaven,2605,Bowmanville,DURHAM,0.94,0.93
+2021-09,Glen Hill Terrace,3053,Whitby,DURHAM,0.95,0.94
+2021-09,Hillsdale Estates,M539,Oshawa,DURHAM,0.85,0.84
+2021-09,Hillsdale Terraces,M630,Oshawa,DURHAM,0.92,0.9
+2021-09,Lakeview Manor,M546,Beaverton,DURHAM,0.92,0.91
+2021-09,Orchard Villa,2693,Pickering,DURHAM,0.92,0.84
+2021-09,Port Perry Place,2629,Port Perry,DURHAM,0.94,0.93
+2021-09,ReachView Village,2635,Uxbridge,DURHAM,0.93,0.91
+2021-09,Sunnycrest Nursing Home,1013,Whitby,DURHAM,0.95,0.9
+2021-09,The Village of Taunton Mills,2902,Whitby,DURHAM,0.98,0.89
+2021-09,Thorntonview,2534,Oshawa,DURHAM,1,0.95
+2021-09,Winbourne Park,2871,Ajax,DURHAM,0.96,0.91
+2021-09,Caressant Care Bourget,1160,Bourget,EASTERN ONTARIO,0.98,0.97
+2021-09,Centre d'Accueil Roger Seguin,2988,Clarence Creek,EASTERN ONTARIO,0.9,0.89
+2021-09,Champlain Long Term Care Residence,0925,L'orignal,EASTERN ONTARIO,0.99,0.99
+2021-09,Dundas Manor Nursing Home,2674,Winchester,EASTERN ONTARIO,1,1
+2021-09,Foyer St-Viateur Nursing Home,2746,Limoges,EASTERN ONTARIO,0.91,0.89
+2021-09,Glen-Stor-Dun Lodge,M529,Cornwall,EASTERN ONTARIO,0.86,0.8
+2021-09,Heartwood,2088,Cornwall,EASTERN ONTARIO,0.96,0.94
+2021-09,Lancaster Long Term Care Residence,2680,Lancaster,EASTERN ONTARIO,0.97,0.91
+2021-09,Maxville Manor,3000,Maxville,EASTERN ONTARIO,0.85,0.83
+2021-09,Parisien Manor,1131,Cornwall,EASTERN ONTARIO,0.96,0.93
+2021-09,Pinecrest (Plantagenet),2797,Plantagenet,EASTERN ONTARIO,0.9,0.82
+2021-09,Residence Prescott et Russell,M567,Hawkesbury,EASTERN ONTARIO,0.84,0.81
+2021-09,Sandfield Place,2778,Cornwall,EASTERN ONTARIO,0.95,0.95
+2021-09,St. Jacques Nursing Home,2691,Embrun,EASTERN ONTARIO,0.97,0.96
+2021-09,St. Joseph's Continuing Care Centre,3012,Cornwall,EASTERN ONTARIO,0.92,0.88
+2021-09,The Palace,2642,Alexandria,EASTERN ONTARIO,0.95,0.9
+2021-09,Tsiionkwanonhsote,2800,Akwesasne,EASTERN ONTARIO,0.79,0.75
+2021-09,Woodland Villa,2743,Long Sault,EASTERN ONTARIO,0.92,0.85
+2021-09,Brucelea Haven Long Term Care Home - Corporation of the County of Bruce,M507,Walkerton,GREY-BRUCE,0.82,0.77
+2021-09,Country Lane Long Term Care Residence,1027,Chatsworth,GREY-BRUCE,0.88,0.83
+2021-09,Elgin Abbey Nursing Home,2725,Chesley,GREY-BRUCE,0.93,0.93
+2021-09,Errinrung Long Term Care Home,2513,Thornbury,GREY-BRUCE,0.81,0.81
+2021-09,Gateway Haven Long Term Care Home,M526,Wiarton,GREY-BRUCE,0.89,0.86
+2021-09,Georgian Heights,2638,Owen Sound,GREY-BRUCE,0.9,0.88
+2021-09,Golden Dawn Nursing Home,2705,Lion's Head,GREY-BRUCE,0.93,0.86
+2021-09,Grey Gables Home for the Aged,M606,Markdale,GREY-BRUCE,0.91,0.88
+2021-09,Hanover Care Centre,2770,Hanover,GREY-BRUCE,0.98,0.91
+2021-09,Lee Manor Home,M549,Owen Sound,GREY-BRUCE,0.87,0.86
+2021-09,Maple View,2690,Owen Sound,GREY-BRUCE,1,0.98
+2021-09,Meaford Long Term Care - a peopleCare Community,2612,Meaford,GREY-BRUCE,0.97,0.93
+2021-09,Parkview Manor Health Care Centre,1053,Chesley,GREY-BRUCE,0.95,0.87
+2021-09,Pinecrest Manor,2600,Lucknow,GREY-BRUCE,0.92,0.86
+2021-09,Rockwood Terrace Home for the Aged,M570,Durham,GREY-BRUCE,0.83,0.82
+2021-09,Southampton Care Centre,2597,Southampton,GREY-BRUCE,0.96,0.93
+2021-09,Summit Place,2624,Owen Sound,GREY-BRUCE,0.95,0.92
+2021-09,The Village Seniors Community,2599,Hanover,GREY-BRUCE,0.96,0.94
+2021-09,Trillium Court,2773,Kincardine,GREY-BRUCE,0.98,0.94
+2021-09,Anson Place Care Centre,2786,Hagersville,HALDIMAND-NORFOLK,0.94,0.87
+2021-09,Cedarwood Village,2768,Simcoe,HALDIMAND-NORFOLK,0.93,0.89
+2021-09,Delhi Long Term Care Centre,2660,Delhi,HALDIMAND-NORFOLK,0.91,0.86
+2021-09,Dover Cliffs,1056,Port Dover,HALDIMAND-NORFOLK,0.96,0.87
+2021-09,Edgewater Gardens Long Term Care Centre,2963,Dunnville,HALDIMAND-NORFOLK,0.96,0.95
+2021-09,Gardenview Long Term Care Home,2961,Townsend,HALDIMAND-NORFOLK,0.81,0.73
+2021-09,Grandview Lodge / Dunnville,M532,Dunnville,HALDIMAND-NORFOLK,0.87,0.86
+2021-09,Norview Lodge,M624,Simcoe,HALDIMAND-NORFOLK,0.82,0.79
+2021-09,The Norfolk Hospital Nursing Home,2621,Simcoe,HALDIMAND-NORFOLK,0.81,0.72
+2021-09,Burnbrae Gardens Long Term Care Residence,2686,Campbellford,HALIBURTON KAWARTHA PR,0.94,0.89
+2021-09,Caressant Care Lindsay Nursing Home,2701,Lindsay,HALIBURTON KAWARTHA PR,0.99,0.93
+2021-09,Caressant Care on McLaughlin Road,2916,Lindsay,HALIBURTON KAWARTHA PR,0.97,0.93
+2021-09,Case Manor Care Community,0958,Bobcaygeon,HALIBURTON KAWARTHA PR,0.93,0.86
+2021-09,Extendicare Cobourg,2851,Cobourg,HALIBURTON KAWARTHA PR,0.97,0.92
+2021-09,Extendicare Haliburton,2644,Haliburton,HALIBURTON KAWARTHA PR,0.97,0.97
+2021-09,Extendicare Kawartha Lakes,2838,Lindsay,HALIBURTON KAWARTHA PR,0.93,0.91
+2021-09,Extendicare Port Hope,2925,Port Hope,HALIBURTON KAWARTHA PR,0.96,0.89
+2021-09,Fenelon Court,2850,Fenelon Falls,HALIBURTON KAWARTHA PR,0.99,0.93
+2021-09,Frost Manor,2703,Lindsay,HALIBURTON KAWARTHA PR,0.96,0.93
+2021-09,Golden Plough Lodge,M531,Cobourg,HALIBURTON KAWARTHA PR,0.94,0.93
+2021-09,Highland Wood,3030,Haliburton,HALIBURTON KAWARTHA PR,0.91,0.91
+2021-09,Hope Street Terrace,2639,Port Hope,HALIBURTON KAWARTHA PR,0.96,0.94
+2021-09,Hyland Crest,3050,Minden,HALIBURTON KAWARTHA PR,0.87,0.87
+2021-09,Maplewood,2717,Brighton,HALIBURTON KAWARTHA PR,0.89,0.78
+2021-09,Pinecrest Nursing Home (Bobcaygeon),2731,Bobcaygeon,HALIBURTON KAWARTHA PR,0.86,0.77
+2021-09,Regency Long Term Care Home,2511,Port Hope,HALIBURTON KAWARTHA PR,0.92,0.91
+2021-09,Streamway Villa,2666,Cobourg,HALIBURTON KAWARTHA PR,0.93,0.91
+2021-09,Victoria Manor Home for the Aged,M589,Lindsay,HALIBURTON KAWARTHA PR,0.92,0.92
+2021-09,Warkworth Place,2803,Warkworth,HALIBURTON KAWARTHA PR,0.92,0.88
+2021-09,Allendale,M536,Milton,HALTON,0.88,0.79
+2021-09,Bennett Health Care Centre,2816,Georgetown,HALTON,0.98,0.98
+2021-09,Billings Court Manor,2938,Burlington,HALTON,0.83,0.79
+2021-09,Burloak,2857,Burlington,HALTON,0.98,0.92
+2021-09,CAMA Woodlands Nursing Home,2774,Burlington,HALTON,0.93,0.91
+2021-09,Chartwell Brant Centre Long Term Care Residence,2900,Burlington,HALTON,0.97,0.93
+2021-09,Chartwell Waterford Long Term Care Residence,2908,Oakville,HALTON,0.97,0.94
+2021-09,Creek Way Village,M623,Burlington,HALTON,0.93,0.91
+2021-09,Extendicare Halton Hills,2892,Georgetown,HALTON,0.96,0.95
+2021-09,Hampton Terrace Care Centre,2846,Burlington,HALTON,1,0.97
+2021-09,Maple Villa Long Term Care Centre,2408,Burlington,HALTON,0.97,0.94
+2021-09,Mount Nemo Christian Nursing Home,2577,Burlington,HALTON,0.86,0.83
+2021-09,Northridge,2862,Oakville,HALTON,0.96,0.9
+2021-09,Post Inn Village,M620,Oakville,HALTON,0.92,0.9
+2021-09,The Village of Tansley Woods,2854,Burlington,HALTON,0.98,0.97
+2021-09,Wellington Park Care Centre,1023,Burlington,HALTON,0.92,0.86
+2021-09,West Oak Village,2870,Oakville,HALTON,0.99,0.96
+2021-09,Wyndham Manor Long Term Care Centre,2910,Oakville,HALTON,0.98,0.96
+2021-09,Alexander Place,2861,Waterdown,HAMILTON,0.98,0.9
+2021-09,Arbour Creek Long-Term Care Centre,2930,Hamilton,HAMILTON,0.9,0.88
+2021-09,BayWoods Place,2581,Hamilton,HAMILTON,0.99,0.96
+2021-09,Blackadar Continuing Care Centre,2641,Dundas,HAMILTON,1,0.98
+2021-09,Chartwell Willowgrove Long Term Care Residence,2921,Ancaster,HAMILTON,0.98,0.95
+2021-09,Clarion Nursing Home,2721,Stoney Creek,HAMILTON,0.86,0.81
+2021-09,Dundurn Place Care Centre,2739,Hamilton,HAMILTON,0.98,0.96
+2021-09,Extendicare Hamilton,2858,Hamilton,HAMILTON,0.94,0.92
+2021-09,Grace Villa Nursing Home,2741,Hamilton,HAMILTON,0.91,0.86
+2021-09,Hamilton Continuing Care,2706,Hamilton,HAMILTON,0.95,0.83
+2021-09,Heritage Green Nursing Home,2776,Stoney Creek,HAMILTON,0.81,0.74
+2021-09,Idlewyld Manor,2931,Hamilton,HAMILTON,0.95,0.94
+2021-09,Macassa  Lodge,M552,Hamilton,HAMILTON,0.94,0.9
+2021-09,Orchard Terrace Care Centre,2477,Stoney Creek,HAMILTON,0.92,0.86
+2021-09,Parkview Nursing Centre,2700,Hamilton,HAMILTON,0.96,0.94
+2021-09,Pine Villa Nursing Home,2750,Stoney Creek,HAMILTON,0.87,0.82
+2021-09,Queen's Garden,2853,Hamilton,HAMILTON,0.99,0.91
+2021-09,Regina Gardens,2922,Hamilton,HAMILTON,0.95,0.91
+2021-09,Ridgeview,2849,Stoney Creek,HAMILTON,0.92,0.9
+2021-09,Shalom Village Nursing Home,2775,Hamilton,HAMILTON,0.96,0.91
+2021-09,"St. Joseph's Villa, Dundas",2975,Dundas,HAMILTON,0.87,0.84
+2021-09,St. Peter's Residence at Chedoke,2927,Hamilton,HAMILTON,0.96,0.89
+2021-09,The Meadows,2844,Ancaster,HAMILTON,0.97,0.95
+2021-09,The Village of Wentworth Heights,2841,Hamilton,HAMILTON,0.97,0.93
+2021-09,The Wellington Nursing Home,2784,Hamilton,HAMILTON,0.95,0.94
+2021-09,Victoria Gardens Long Term Care,2806,Hamilton,HAMILTON,0.91,0.89
+2021-09,Wentworth Lodge,M592,Dundas,HAMILTON,0.94,0.92
+2021-09,Belmont Long Term Care Facility,2901,Belleville,HASTINGS PRINCE EDWARD,0.94,0.87
+2021-09,Caressant Care Marmora,2718,Marmora,HASTINGS PRINCE EDWARD,0.96,0.95
+2021-09,Crown Ridge Place,2787,Trenton,HASTINGS PRINCE EDWARD,0.88,0.85
+2021-09,E. J. McQuigge Lodge,2668,Cannifton,HASTINGS PRINCE EDWARD,0.99,0.98
+2021-09,H.J. McFarland Memorial Home,M556,Picton,HASTINGS PRINCE EDWARD,0.94,0.93
+2021-09,Hallowell House,0891,Picton,HASTINGS PRINCE EDWARD,0.97,0.92
+2021-09,Hastings Centennial Manor,M537,Bancroft,HASTINGS PRINCE EDWARD,0.84,0.71
+2021-09,Hastings Manor Home for the Aged,M538,Belleville,HASTINGS PRINCE EDWARD,0.93,0.85
+2021-09,Kentwood Park,0893,Picton,HASTINGS PRINCE EDWARD,0.97,0.93
+2021-09,Moira Place Long-Term Care Home,2977,Tweed,HASTINGS PRINCE EDWARD,0.86,0.83
+2021-09,Stirling Manor Nursing Home,2470,Stirling,HASTINGS PRINCE EDWARD,0.89,0.84
+2021-09,Trent Valley Lodge,2337,Trenton,HASTINGS PRINCE EDWARD,0.9,0.86
+2021-09,West Lake Terrace,0997,Picton,HASTINGS PRINCE EDWARD,0.98,0.91
+2021-09,Westgate Lodge Nursing Home,2623,Belleville,HASTINGS PRINCE EDWARD,0.96,0.83
+2021-09,Blue Water Rest Home,2987,Zurich,HURON-PERTH,0.99,0.96
+2021-09,Braemar Retirement Centre,2788,Wingham,HURON-PERTH,0.84,0.82
+2021-09,Caressant Care Listowel Nursing Home,2664,Listowel,HURON-PERTH,0.96,0.82
+2021-09,Exeter Villa,2749,Exeter,HURON-PERTH,0.98,0.98
+2021-09,Greenwood Court,3023,Stratford,HURON-PERTH,0.91,0.91
+2021-09,Hillside Manor,1975,Stratford,HURON-PERTH,0.97,0.95
+2021-09,Huronlea Home for the Aged,M601,Brussels,HURON-PERTH,0.85,0.8
+2021-09,Huronview Home for the Aged,M541,Clinton,HURON-PERTH,0.81,0.77
+2021-09,Kingsway Lodge Nursing Home,2726,St. Marys,HURON-PERTH,1,0.98
+2021-09,Knollcrest Lodge,2996,Milverton,HURON-PERTH,0.87,0.83
+2021-09,Maitland Manor,0965,Goderich,HURON-PERTH,0.94,0.93
+2021-09,Mitchell Nursing Home,2689,Mitchell,HURON-PERTH,0.95,0.92
+2021-09,Queensway Long Term Care Home,0933,Hensall,HURON-PERTH,0.99,0.98
+2021-09,Ritz Lutheran Villa,3007,Mitchell,HURON-PERTH,0.94,0.92
+2021-09,Seaforth Long Term Care Home,1135,Seaforth,HURON-PERTH,1,0.99
+2021-09,Spruce Lodge Home for the Aged,M575,Stratford,HURON-PERTH,0.96,0.95
+2021-09,The Fordwich Village Nursing Home,0995,Fordwich,HURON-PERTH,1,1
+2021-09,Wildwood Care Centre,2802,St. Marys,HURON-PERTH,0.95,0.93
+2021-09,Arbour Heights,2982,Kingston,KINGSTON FRONTENAC L & A,1,0.96
+2021-09,Extendicare Kingston,2616,Kingston,KINGSTON FRONTENAC L & A,0.99,0.9
+2021-09,Fairmount Home for the Aged,M521,Glenburnie,KINGSTON FRONTENAC L & A,0.95,0.92
+2021-09,Friendly Manor Nursing Home,0934,Deseronto,KINGSTON FRONTENAC L & A,0.91,0.88
+2021-09,Helen Henderson Nursing Home,2728,Amherstview,KINGSTON FRONTENAC L & A,0.98,0.95
+2021-09,Lennox and Addington County General Hospital,7089,Napanee,KINGSTON FRONTENAC L & A,1,0.92
+2021-09,Pine Meadow Nursing Home,2796,Northbrook,KINGSTON FRONTENAC L & A,0.81,0.75
+2021-09,Providence Manor,3005,Kingston,KINGSTON FRONTENAC L & A,0.99,0.94
+2021-09,Rideaucrest Home,M569,Kingston,KINGSTON FRONTENAC L & A,0.93,0.92
+2021-09,The John M. Parrott Centre,M625,Napanee,KINGSTON FRONTENAC L & A,0.94,0.92
+2021-09,The Village Green Nursing Home,2681,Selby,KINGSTON FRONTENAC L & A,0.89,0.86
+2021-09,Trillium Retirement and Care Community,2790,Kingston,KINGSTON FRONTENAC L & A,0.99,0.98
+2021-09,Afton Park Place Long Term Care Community,2872,Sarnia,LAMBTON,0.95,0.84
+2021-09,Fiddick's Nursing Home,2673,Petrolia,LAMBTON,0.98,0.94
+2021-09,Lambton Meadowview Villa,M547,Petrolia,LAMBTON,0.85,0.81
+2021-09,Marshall Gowland Manor,M613,Sarnia,LAMBTON,0.92,0.89
+2021-09,North Lambton Lodge,M559,Forest,LAMBTON,0.96,0.92
+2021-09,Sumac Lodge,2573,Sarnia,LAMBTON,0.94,0.88
+2021-09,Trillium Villa Nursing Home,2217,Sarnia,LAMBTON,0.95,0.89
+2021-09,Twin Lakes Terrace Long Term Care Community,2889,Sarnia,LAMBTON,0.92,0.85
+2021-09,Vision Nursing Home,2659,Sarnia,LAMBTON,0.96,0.89
+2021-09,Watford Quality Care Centre,2652,Watford,LAMBTON,1,1
+2021-09,Almonte Country Haven,2692,Almonte,"LEEDS,GRENVILLE,LANARK",1,1
+2021-09,Bayfield Manor,2772,Kemptville,"LEEDS,GRENVILLE,LANARK",0.99,0.94
+2021-09,Broadview Nursing Centre,2684,Smiths Falls,"LEEDS,GRENVILLE,LANARK",0.88,0.83
+2021-09,Carveth Care Centre,2683,Gananoque,"LEEDS,GRENVILLE,LANARK",0.94,0.93
+2021-09,Fairview Manor,2973,Almonte,"LEEDS,GRENVILLE,LANARK",0.98,0.95
+2021-09,Hilltop Manor Nursing Home (Merrickville),2645,Merrickville,"LEEDS,GRENVILLE,LANARK",0.99,0.99
+2021-09,Kemptville District Hospital,7073,Kemptville,"LEEDS,GRENVILLE,LANARK",0.97,0.95
+2021-09,Lanark Lodge,M548,Perth,"LEEDS,GRENVILLE,LANARK",0.94,0.92
+2021-09,Maple View Lodge,M554,Athens,"LEEDS,GRENVILLE,LANARK",0.94,0.91
+2021-09,Perth Community Care Centre,0962,Perth,"LEEDS,GRENVILLE,LANARK",0.99,0.97
+2021-09,Rosebridge Manor,2671,Jasper,"LEEDS,GRENVILLE,LANARK",1,0.97
+2021-09,Sherwood Park Manor,2640,Brockville,"LEEDS,GRENVILLE,LANARK",0.87,0.8
+2021-09,St. Lawrence Lodge,M576,Brockville,"LEEDS,GRENVILLE,LANARK",0.88,0.82
+2021-09,Stoneridge Manor,2637,Carleton Place,"LEEDS,GRENVILLE,LANARK",0.98,0.94
+2021-09,Wellington House Nursing Home,2807,Prescott,"LEEDS,GRENVILLE,LANARK",0.96,0.87
+2021-09,Babcock Community Care Centre,2626,Wardsville,MIDDLESEX-LONDON,0.87,0.85
+2021-09,Chartwell London Long Term Care Residence,2919,London,MIDDLESEX-LONDON,0.97,0.96
+2021-09,Chartwell Parkhill Long Term Care Residence,2632,Parkhill,MIDDLESEX-LONDON,0.93,0.88
+2021-09,Chelsey Park,2655,London,MIDDLESEX-LONDON,0.97,0.92
+2021-09,Country Terrace,0907,Komoka,MIDDLESEX-LONDON,0.96,0.95
+2021-09,Craigholme,2622,Ailsa Craig,MIDDLESEX-LONDON,0.83,0.78
+2021-09,Dearness Home for Senior Citizens,M514,London,MIDDLESEX-LONDON,0.92,0.87
+2021-09,Earls Court Village,3047,London,MIDDLESEX-LONDON,0.92,0.9
+2021-09,Elmwood Place,3054,London,MIDDLESEX-LONDON,1,0.98
+2021-09,Extendicare London,2173,London,MIDDLESEX-LONDON,0.97,0.95
+2021-09,Henley Place,3045,London,MIDDLESEX-LONDON,0.95,0.88
+2021-09,Kensington Village,2729,London,MIDDLESEX-LONDON,0.97,0.93
+2021-09,McCormick Home,2965,London,MIDDLESEX-LONDON,0.95,0.92
+2021-09,McGarrell Place,2964,London,MIDDLESEX-LONDON,0.93,0.9
+2021-09,Meadow Park (London),2643,London,MIDDLESEX-LONDON,0.99,0.96
+2021-09,Middlesex Terrace,1030,Delaware,MIDDLESEX-LONDON,0.93,0.9
+2021-09,Mount Hope Centre for Long Term Care,C596,London,MIDDLESEX-LONDON,0.88,0.85
+2021-09,Oneida Nation of the Thames Long-Term Care Home (Tsi' Nu: yoyantle' Na' Tuhuwati,3042,Southwold,MIDDLESEX-LONDON,,
+2021-09,peopleCare Oakcrossing London,2980,London,MIDDLESEX-LONDON,0.93,0.9
+2021-09,Sprucedale Care Centre,2946,Strathroy,MIDDLESEX-LONDON,0.92,0.91
+2021-09,Strathmere Lodge,M627,Strathroy,MIDDLESEX-LONDON,0.9,0.87
+2021-09,The Village of Glendale Crossing,2979,London,MIDDLESEX-LONDON,1,0.79
+2021-09,Westmount Gardens Long Term Care Home,2878,London,MIDDLESEX-LONDON,0.99,0.97
+2021-09,"Albright Gardens Homes, Incorporated",2983,Beamsville,NIAGARA,0.83,0.8
+2021-09,Bella Senior Care Residences,2890,Niagara Falls,NIAGARA,0.87,0.79
+2021-09,Crescent Park Lodge,2587,Fort Erie,NIAGARA,0.93,0.91
+2021-09,Deer Park Villa,M611,Grimsby,NIAGARA,0.92,0.89
+2021-09,Douglas H. Rapelje Lodge,M604,Welland,NIAGARA,0.98,0.93
+2021-09,Extendicare St. Catharines,2321,St. Catharines,NIAGARA,0.95,0.91
+2021-09,Foyer Richelieu Welland,3022,Welland,NIAGARA,0.95,0.93
+2021-09,Garden City Manor,2364,St. Catharines,NIAGARA,1,0.96
+2021-09,Gilmore Lodge,M528,Fort Erie,NIAGARA,0.94,0.89
+2021-09,Heidehof Long Term Care Home,2960,St. Catharines,NIAGARA,0.96,0.93
+2021-09,Kilean Lodge,1866,Grimsby,NIAGARA,0.97,0.97
+2021-09,Linhaven,M551,St. Catharines,NIAGARA,0.95,0.93
+2021-09,Maple Park Lodge,2891,Fort Erie,NIAGARA,0.96,0.86
+2021-09,Mennonite Brethren Senior Citizens Home,3016,St. Catharines,NIAGARA,0.88,0.85
+2021-09,Millennium Trail Manor,2948,Niagara Falls,NIAGARA,0.88,0.85
+2021-09,"Niagara Health System, Welland Hospital Site, Extended Care Unit",2607,Welland,NIAGARA,0.89,0.89
+2021-09,Niagara Ina Grafton Gage Village,2994,St. Catharines,NIAGARA,0.9,0.84
+2021-09,Niagara Long Term Care Residence,2618,Niagara-On-The-Lake,NIAGARA,0.98,0.93
+2021-09,Northland Pointe,M610,Port Colborne,NIAGARA,0.96,0.92
+2021-09,Oakwood Park Lodge,2661,Niagara Falls,NIAGARA,0.91,0.86
+2021-09,Pleasant Manor Retirement Village,2799,Virgil,NIAGARA,0.95,0.93
+2021-09,R. H. Lawson Eventide Home,2991,Niagara Falls,NIAGARA,0.83,0.77
+2021-09,Royal Rose Place,3049,Welland,NIAGARA,0.97,0.9
+2021-09,Shalom Manor Long Term Care Home,3009,Grimsby,NIAGARA,0.85,0.77
+2021-09,The Henley House,2909,St. Catharines,NIAGARA,0.94,0.91
+2021-09,The Meadows of Dorchester,M515,Niagara Falls,NIAGARA,0.96,0.93
+2021-09,The Woodlands of Sunset,M617,Welland,NIAGARA,0.98,0.93
+2021-09,Tufford Nursing Home,2711,St. Catharines,NIAGARA,0.97,0.97
+2021-09,United Mennonite Home,2951,Vineland,NIAGARA,0.83,0.76
+2021-09,Upper Canada Lodge,M587,Niagara-On-The-Lake,NIAGARA,0.93,0.93
+2021-09,Valley Park Lodge,2737,Niagara Falls,NIAGARA,1,1
+2021-09,West Park Health Centre,1500,St. Catharines,NIAGARA,0.98,0.95
+2021-09,Algonquin Nursing Home,3052,Mattawa,NORTH BAY-PARRY SOUND,0.93,0.91
+2021-09,Au Chateau,M502,Sturgeon Falls,NORTH BAY-PARRY SOUND,0.94,0.87
+2021-09,Belvedere Heights,M503,Parry Sound,NORTH BAY-PARRY SOUND,0.91,0.89
+2021-09,Cassellholme,M509,North Bay,NORTH BAY-PARRY SOUND,0.91,0.9
+2021-09,Eastholme Home for the Aged,M517,Powassan,NORTH BAY-PARRY SOUND,0.83,0.82
+2021-09,Lakeland Long Term Care (Eldcap),2966,Parry Sound,NORTH BAY-PARRY SOUND,0.96,0.96
+2021-09,Lakeland Long Term Care Services,2958,Parry Sound,NORTH BAY-PARRY SOUND,0.96,0.96
+2021-09,Nipissing Manor Nursing Care Center,0920,Corbeil,NORTH BAY-PARRY SOUND,0.89,0.87
+2021-09,The West Nipissing General Hospital,7069,Sturgeon Falls,NORTH BAY-PARRY SOUND,0.88,0.86
+2021-09,Waters Edge Care Community,2598,North Bay,NORTH BAY-PARRY SOUND,0.95,0.92
+2021-09,Atikokan General Hospital,2756,Atikokan,NORTHWESTERN,0.91,0.9
+2021-09,Birchwood Terrace,2620,Kenora,NORTHWESTERN,0.95,0.91
+2021-09,EMO Health Centre,2831,Emo,NORTHWESTERN,0.87,0.79
+2021-09,Northwood Lodge,M607,Red Lake,NORTHWESTERN,1,0.95
+2021-09,Pinecrest (Kenora),M563,Kenora,NORTHWESTERN,0.97,0.95
+2021-09,Princess Court,M608,Dryden,NORTHWESTERN,0.89,0.79
+2021-09,Rainy River Health Centre,2820,Rainy River,NORTHWESTERN,0.98,0.96
+2021-09,Rainycrest,3033,Fort Frances,NORTHWESTERN,0.9,0.89
+2021-09,William A. 'Bill' George Extended Care Facility,2785,Sioux Lookout,NORTHWESTERN,1,0.49
+2021-09,Carleton Lodge,M508,Nepean,OTTAWA,0.97,0.93
+2021-09,Carlingview Manor,2420,Ottawa,OTTAWA,0.98,0.96
+2021-09,Centre d'Accueil Champlain,M511,Vanier,OTTAWA,0.97,0.81
+2021-09,Élisabeth-Bruyère Residence,2759,Ottawa,OTTAWA,0.98,0.9
+2021-09,Extendicare Laurier Manor,2665,Gloucester,OTTAWA,0.95,0.93
+2021-09,Extendicare Medex,2579,Ottawa,OTTAWA,0.96,0.91
+2021-09,Extendicare New Orchard Lodge,2302,Ottawa,OTTAWA,0.99,0.98
+2021-09,Extendicare Starwood,2485,Nepean,OTTAWA,0.98,0.98
+2021-09,Extendicare West End Villa,2709,Ottawa,OTTAWA,0.99,0.99
+2021-09,Forest Hill,2834,Kanata,OTTAWA,0.99,0.97
+2021-09,Garden Terrace,2882,Kanata,OTTAWA,0.93,0.89
+2021-09,Garry J. Armstrong Home,M622,Ottawa,OTTAWA,0.97,0.94
+2021-09,Glebe Centre,2811,Ottawa,OTTAWA,0.99,0.96
+2021-09,Granite Ridge Care Community,2879,Stittsville,OTTAWA,0.99,0.98
+2021-09,Hillel Lodge (The Bess and Moe Greenberg Family),3029,Ottawa,OTTAWA,0.94,0.93
+2021-09,Longfields Manor,2845,Nepean,OTTAWA,0.95,0.94
+2021-09,Madonna Care Community,2974,Orleans,OTTAWA,0.97,0.96
+2021-09,Manoir Marochel,2867,Ottawa,OTTAWA,0.98,0.88
+2021-09,Montfort,2886,Ottawa,OTTAWA,0.94,0.89
+2021-09,Peter D. Clark Centre,M609,Ottawa,OTTAWA,0.95,0.9
+2021-09,Residence Saint-Louis,3013,Ottawa,OTTAWA,0.97,0.94
+2021-09,Royal Ottawa Place,2933,Ottawa,OTTAWA,0.98,0.94
+2021-09,Sarsfield Colonial Home,0943,Sarsfield,OTTAWA,0.91,0.91
+2021-09,St. Patrick's Home,3015,Ottawa,OTTAWA,0.96,0.95
+2021-09,The Perley and Rideau Veterans' Health Centre,3025,Ottawa,OTTAWA,0.99,0.95
+2021-09,The Salvation Army Ottawa Grace Manor,2873,Ottawa,OTTAWA,0.98,0.98
+2021-09,Township of Osgoode Care Centre,2747,Metcalfe,OTTAWA,0.99,0.98
+2021-09,Villa Marconi,2818,Ottawa,OTTAWA,0.94,0.89
+2021-09,Burton Manor,2953,Brampton,PEEL,0.93,0.9
+2021-09,Camilla Care Community,2472,Mississauga,PEEL,0.98,0.96
+2021-09,Cawthra Gardens,2912,Mississauga,PEEL,0.99,0.97
+2021-09,Chartwell Wenleigh Long Term Care Residence,2833,Mississauga,PEEL,0.96,0.95
+2021-09,Cooksville Care Centre,2124,Mississauga,PEEL,0.96,0.93
+2021-09,Erin Mills Lodge Nursing Home,2736,Mississauga,PEEL,1,0.92
+2021-09,Extendicare Brampton,2847,Brampton,PEEL,0.95,0.94
+2021-09,Extendicare Mississauga,2884,Mississauga,PEEL,0.95,0.92
+2021-09,Faith Manor Nursing Home,2745,Brampton,PEEL,0.95,0.89
+2021-09,Grace Manor,2942,Brampton,PEEL,0.95,0.86
+2021-09,Hawthorn Woods Care Community,2887,Brampton,PEEL,0.93,0.91
+2021-09,King Nursing Home,0901,Bolton,PEEL,0.96,0.89
+2021-09,Malton Village Long Term Care Centre,M618,Mississauga,PEEL,0.86,0.83
+2021-09,Maple Grove Care Community,2911,Brampton,PEEL,0.94,0.92
+2021-09,Mississauga Long Term Care Facility,1078,Mississauga,PEEL,0.87,0.83
+2021-09,Peel Manor,M562,Brampton,PEEL,0.92,0.9
+2021-09,Sheridan Villa,M572,Mississauga,PEEL,0.85,0.84
+2021-09,Silverthorn Care Community,2956,Mississauga,PEEL,0.95,0.93
+2021-09,Streetsville Care Community,2648,Mississauga,PEEL,0.99,0.98
+2021-09,Tall Pines Long Term Care Centre,M616,Brampton,PEEL,0.87,0.86
+2021-09,The Village of Erin Meadows,2881,Mississauga,PEEL,0.93,0.92
+2021-09,The Village of Sandalwood Park,2859,Brampton,PEEL,0.95,0.94
+2021-09,Tullamore Care Community,0963,Brampton,PEEL,0.95,0.92
+2021-09,Tyndall Nursing Home,2656,Mississauga,PEEL,0.88,0.86
+2021-09,Vera M. Davis Community Care Centre,2734,Bolton,PEEL,0.94,0.92
+2021-09,Villa Forum,2855,Mississauga,PEEL,0.99,0.99
+2021-09,Woodhall Park Care Community,2928,Brampton,PEEL,0.95,0.91
+2021-09,Yee Hong Centre - Mississauga,2920,Mississauga,PEEL,1,0.98
+2021-09,Centennial Place Long-Term Care Home,2903,Millbrook,PETERBOROUGH,0.91,0.87
+2021-09,Extendicare Lakefield,2843,Lakefield,PETERBOROUGH,0.95,0.94
+2021-09,Extendicare Peterborough,2572,Peterborough,PETERBOROUGH,0.99,0.99
+2021-09,Fairhaven,M520,Peterborough,PETERBOROUGH,1,0.83
+2021-09,Pleasant Meadow Manor,2761,Norwood,PETERBOROUGH,0.93,0.88
+2021-09,Riverview Manor Nursing Home,2722,Peterborough,PETERBOROUGH,0.92,0.87
+2021-09,Springdale Country Manor,2413,Peterborough,PETERBOROUGH,1,0.96
+2021-09,St. Joseph's at Fleming,2935,Peterborough,PETERBOROUGH,0.94,0.91
+2021-09,Extendicare Kapuskasing,2610,Kapuskasing,PORCUPINE,0.92,0.86
+2021-09,Extendicare Timmins,3044,Timmins,PORCUPINE,0.98,0.97
+2021-09,Foyer Des Pionniers,2940,Hearst,PORCUPINE,0.9,0.9
+2021-09,Golden Manor,M530,Timmins,PORCUPINE,0.98,0.95
+2021-09,Hornepayne Community Hospital,2771,Hornepayne,PORCUPINE,0.97,0.9
+2021-09,North Centennial Manor,3027,Kapuskasing,PORCUPINE,0.81,0.77
+2021-09,Rosedale Centre,2766,Matheson,PORCUPINE,0.8,0.8
+2021-09,Smooth Rock Falls Hospital,2763,Smooth Rock Falls,PORCUPINE,0.87,0.86
+2021-09,South Centennial Manor,3028,Iroquois Falls,PORCUPINE,0.8,0.76
+2021-09,Villa Minto,2815,Cochrane,PORCUPINE,0.91,0.88
+2021-09,Bonnechere Manor,M506,Renfrew,RENFREW,0.95,0.9
+2021-09,Caressant Care Cobden,2827,Cobden,RENFREW,0.88,0.78
+2021-09,Groves Park Lodge,2646,Renfrew,RENFREW,0.9,0.89
+2021-09,Marianhill Nursing Home,2702,Pembroke,RENFREW,0.89,0.84
+2021-09,Miramichi Lodge,M621,Pembroke,RENFREW,0.9,0.9
+2021-09,North Renfrew Long-Term Care Services,3036,Deep River,RENFREW,0.98,0.96
+2021-09,The Four Seasons Lodge,2896,Deep River,RENFREW,1,0.98
+2021-09,"The Grove, Arnprior and District Nursing Home",2699,Arnprior,RENFREW,0.93,0.89
+2021-09,Valley Manor Nursing Home,2675,Barry's Bay,RENFREW,0.76,0.72
+2021-09,Bay Haven Nursing Home,2657,Collingwood,SIMCOE-MUSKOKA,0.98,0.97
+2021-09,Bob Rumball Home for The Deaf,2967,Barrie,SIMCOE-MUSKOKA,0.96,0.94
+2021-09,Bradford Valley Care Community,2905,Bradford,SIMCOE-MUSKOKA,0.96,0.91
+2021-09,Coleman Care Centre,2696,Barrie,SIMCOE-MUSKOKA,0.97,0.95
+2021-09,Collingwood Nursing Home,2781,Collingwood,SIMCOE-MUSKOKA,0.92,0.87
+2021-09,Creedan Valley Care Community,2633,Creemore,SIMCOE-MUSKOKA,0.96,0.95
+2021-09,Fairvern Nursing Home,2708,Huntsville,SIMCOE-MUSKOKA,0.84,0.83
+2021-09,Georgian Manor Home for the Aged,M527,Penetanguishene,SIMCOE-MUSKOKA,0.93,0.91
+2021-09,Good Samaritan Nursing Home,2588,Alliston,SIMCOE-MUSKOKA,0.9,0.78
+2021-09,Grove Park Home For Senior Citizens,2950,Barrie,SIMCOE-MUSKOKA,0.92,0.9
+2021-09,Hillcrest Village Care Centre,2828,Midland,SIMCOE-MUSKOKA,0.96,0.96
+2021-09,IOOF Seniors Home,2993,Barrie,SIMCOE-MUSKOKA,0.95,0.94
+2021-09,Leacock Care Centre,2835,Orillia,SIMCOE-MUSKOKA,0.94,0.86
+2021-09,Mill Creek Care Centre,2981,Barrie,SIMCOE-MUSKOKA,0.92,0.91
+2021-09,Muskoka Landing,2840,Huntsville,SIMCOE-MUSKOKA,0.91,0.9
+2021-09,Muskoka Shores Care Community,2819,Gravenhurst,SIMCOE-MUSKOKA,0.95,0.95
+2021-09,Oak Terrace,2593,Orillia,SIMCOE-MUSKOKA,0.92,0.87
+2021-09,Owen Hill Care Community,2584,Barrie,SIMCOE-MUSKOKA,0.99,0.96
+2021-09,Roberta Place,2839,Barrie,SIMCOE-MUSKOKA,0.96,0.9
+2021-09,Sara Vista,2710,Elmvale,SIMCOE-MUSKOKA,1,1
+2021-09,Simcoe Manor Home for the Aged,M573,Beeton,SIMCOE-MUSKOKA,0.91,0.88
+2021-09,Spencer House,2971,Orillia,SIMCOE-MUSKOKA,0.97,0.95
+2021-09,Stayner Care Centre,2735,Stayner,SIMCOE-MUSKOKA,0.98,0.95
+2021-09,Sunset Manor Home for Senior Citizens,M581,Collingwood,SIMCOE-MUSKOKA,0.94,0.83
+2021-09,The Pines,M564,Bracebridge,SIMCOE-MUSKOKA,0.84,0.84
+2021-09,The Villa Care Centre,1101,Midland,SIMCOE-MUSKOKA,1,0.97
+2021-09,Trillium Manor Home for the Aged,M585,Orillia,SIMCOE-MUSKOKA,0.97,0.9
+2021-09,Victoria Village Manor,2914,Barrie,SIMCOE-MUSKOKA,0.94,0.94
+2021-09,Woods Park Care Centre,2821,Barrie,SIMCOE-MUSKOKA,1,0.91
+2021-09,Bobier Villa,M603,Dutton,SOUTH WEST,0.96,0.94
+2021-09,Caressant Care Courtland,2826,Courtland,SOUTH WEST,0.97,0.9
+2021-09,Caressant Care on Bonnie Place,2730,St Thomas,SOUTH WEST,0.96,0.91
+2021-09,Caressant Care on Mary Bucke,2627,St. Thomas,SOUTH WEST,0.93,0.85
+2021-09,Caressant Care Woodstock Nursing Home,2636,Woodstock,SOUTH WEST,0.93,0.89
+2021-09,Chartwell Aylmer Long Term Care Residence,2740,Aylmer,SOUTH WEST,0.95,0.95
+2021-09,Elgin Manor,M518,St. Thomas,SOUTH WEST,0.94,0.92
+2021-09,Extendicare Port Stanley,2669,Port Stanley,SOUTH WEST,0.98,0.91
+2021-09,Maple Manor Nursing Home,1049,Tillsonburg,SOUTH WEST,0.94,0.88
+2021-09,peopleCare Tavistock,2614,Tavistock,SOUTH WEST,0.9,0.87
+2021-09,Secord Trails Care Community,2628,Ingersoll,SOUTH WEST,0.94,0.89
+2021-09,Terrace Lodge,M583,Aylmer,SOUTH WEST,0.81,0.79
+2021-09,The Maples Home for Seniors,2093,Tavistock,SOUTH WEST,0.96,0.9
+2021-09,Valleyview Home,M628,St. Thomas,SOUTH WEST,0.89,0.88
+2021-09,Woodingford Lodge - Ingersoll,M614,Ingersoll,SOUTH WEST,0.87,0.84
+2021-09,Woodingford Lodge - Tillsonburg,M615,Tillsonburg,SOUTH WEST,0.92,0.88
+2021-09,Woodingford Lodge - Woodstock,M632,Woodstock,SOUTH WEST,0.9,0.87
+2021-09,Elizabeth Centre,2868,Val Caron,SUDBURY,0.94,0.88
+2021-09,Espanola General Hospital (operating as Espanola Nursing Home-Eldcap),2755,Espanola,SUDBURY,0.91,0.91
+2021-09,Espanola General Hospital (operating as Espanola Nursing Home-LTC),2932,Espanola,SUDBURY,0.91,0.91
+2021-09,Extendicare Falconbridge,2590,Sudbury,SUDBURY,0.86,0.84
+2021-09,Extendicare York,2604,Sudbury,SUDBURY,0.95,0.87
+2021-09,Finlandia Hoivakoti Nursing Home,2829,Sudbury,SUDBURY,0.95,0.93
+2021-09,Manitoulin Centennial Manor Home for the Aged,M553,Little Current,SUDBURY,0.93,0.92
+2021-09,Manitoulin Lodge,2667,Gore Bay,SUDBURY,0.88,0.86
+2021-09,Pioneer Manor,M566,Sudbury,SUDBURY,0.82,0.78
+2021-09,St. Gabriel's Villa of Sudbury,3039,Chelmsford,SUDBURY,0.92,0.9
+2021-09,"St. Joseph's Villa, Sudbury",2913,Sudbury,SUDBURY,0.86,0.86
+2021-09,The Bignucolo Residence,2864,Chapleau,SUDBURY,0.93,0.89
+2021-09,Wikwemikong Nursing Home,1856,Wikwemikong,SUDBURY,1,0.93
+2021-09,Bethammi Nursing Home,2687,Thunder Bay,THUNDER BAY,0.9,0.88
+2021-09,Geraldton District Hospital,2764,Geraldton,THUNDER BAY,0.83,0.78
+2021-09,Hogarth Riverview Manor,2923,Thunder Bay,THUNDER BAY,0.84,0.83
+2021-09,Nipigon District Memorial Hospital,2793,Nipigon,THUNDER BAY,0.99,0.97
+2021-09,Pioneer Ridge,M599,Thunder Bay,THUNDER BAY,0.88,0.86
+2021-09,Santé Manitouwadge Health,2810,Manitouwadge,THUNDER BAY,0.96,0.96
+2021-09,Southbridge Lakehead,1159,Thunder Bay,THUNDER BAY,0.96,0.94
+2021-09,Southbridge Pinewood,2962,Thunder Bay,THUNDER BAY,0.96,0.92
+2021-09,Southbridge Roseview,2866,Thunder Bay,THUNDER BAY,0.95,0.92
+2021-09,Wilkes Terrace,3040,Terrace Bay,THUNDER BAY,0.89,0.89
+2021-09,Extendicare Kirkland Lake,2670,Kirkland Lake,TIMISKAMING,0.95,0.88
+2021-09,Extendicare Tri-Town,2615,Haileybury,TIMISKAMING,0.94,0.87
+2021-09,Northview Nursing Home,2585,Englehart,TIMISKAMING,0.79,0.77
+2021-09,Teck Pioneer Residence,M619,Kirkland Lake,TIMISKAMING,0.83,0.8
+2021-09,Temiskaming Lodge,2698,Haileybury,TIMISKAMING,0.95,0.85
+2021-09,Altamont Care Community,0956,Scarborough,TORONTO,0.95,0.88
+2021-09,Apotex The Jewish Home for the Aged,2824,Toronto,TORONTO,0.93,0.88
+2021-09,Belmont House,2985,Toronto,TORONTO,0.96,0.95
+2021-09,Bendale Acres,M504,Scarborough,TORONTO,0.94,0.92
+2021-09,Carefree Lodge,M596,North York,TORONTO,0.92,0.88
+2021-09,Castleview Wychwood Towers,M510,Toronto,TORONTO,0.96,0.94
+2021-09,Cedarvale Terrace,2591,Toronto,TORONTO,0.99,0.98
+2021-09,Chartwell Gibson Long Term Care Residence,2556,North York,TORONTO,0.96,0.94
+2021-09,Chartwell Trilogy Long Term Care Residence,2899,Scarborough,TORONTO,0.96,0.94
+2021-09,Chartwell Westbury Long Term Care Residence,2943,Etobicoke,TORONTO,0.98,0.95
+2021-09,Chartwell White Eagle Long Term Care Residence,2583,Toronto,TORONTO,0.91,0.83
+2021-09,Cheltenham Care Community,0922,North York,TORONTO,1,0.97
+2021-09,Chester Village,2970,Toronto,TORONTO,0.96,0.95
+2021-09,Copernicus Lodge,2937,Toronto,TORONTO,0.67,0.63
+2021-09,Craiglee Nursing Home,2503,Scarborough,TORONTO,0.97,0.94
+2021-09,Cummer Lodge,M512,North York,TORONTO,0.95,0.91
+2021-09,Deerwood Creek Care Community,2837,Etobicoke,TORONTO,0.93,0.86
+2021-09,Dom Lipa,2794,Etobicoke,TORONTO,0.98,0.96
+2021-09,Downsview Long Term Care Centre,1041,North York,TORONTO,0.84,0.81
+2021-09,Eatonville Care Centre,2468,Etobicoke,TORONTO,0.97,0.94
+2021-09,Ehatare Nursing Home,2804,Scarborough,TORONTO,0.97,0.97
+2021-09,Elm Grove Living Centre,2515,Toronto,TORONTO,0.99,0.99
+2021-09,Extendicare Bayview,2460,North York,TORONTO,0.99,0.98
+2021-09,Extendicare Guildwood,2164,Scarborough,TORONTO,0.96,0.96
+2021-09,Extendicare Rouge Valley,2883,Toronto,TORONTO,0.98,0.97
+2021-09,Extendicare Scarborough,2117,Scarborough,TORONTO,0.94,0.91
+2021-09,Fairview Nursing Home,2723,Toronto,TORONTO,0.97,0.95
+2021-09,Fieldstone Commons Care Community,2906,Scarborough,TORONTO,0.96,0.94
+2021-09,Fosterbrooke,2625,Newcastle,TORONTO,0.95,0.93
+2021-09,Fountain View Care Community,2836,Toronto,TORONTO,0.98,0.95
+2021-09,Fudger House,M524,Toronto,TORONTO,0.97,0.97
+2021-09,Garden Court Nursing Home,1133,Toronto,TORONTO,0.97,0.97
+2021-09,Harmony Hills Care Community,2832,Toronto,TORONTO,0.96,0.94
+2021-09,Harold and Grace Baker Centre,2732,Toronto,TORONTO,1,1
+2021-09,Hawthorne Place Care Centre,2586,North York,TORONTO,0.94,0.88
+2021-09,Hellenic Care for Seniors (Toronto),2798,Toronto,TORONTO,0.99,0.97
+2021-09,Hellenic Home - Scarborough,2941,Scarborough,TORONTO,0.97,0.96
+2021-09,Humber Valley Terrace,2716,Etobicoke,TORONTO,0.95,0.93
+2021-09,Ina Grafton Gage Home,3034,Scarborough,TORONTO,0.96,0.91
+2021-09,Isabel and Arthur Meighen Manor,3031,Toronto,TORONTO,1,0.97
+2021-09,Ivan Franko Home (Etobicoke),C530,Toronto,TORONTO,0.75,0.74
+2021-09,Kennedy Lodge,2654,Scarborough,TORONTO,0.99,0.97
+2021-09,Kipling Acres,M545,Etobicoke,TORONTO,0.96,0.9
+2021-09,Labdara Lithuanian Nursing Home,2860,Etobicoke,TORONTO,0.64,0.62
+2021-09,Lakeshore Lodge,M595,Toronto,TORONTO,1,0.96
+2021-09,Lakeside Long Term Care Centre,2929,Toronto,TORONTO,0.98,0.95
+2021-09,Main Street Terrace,2589,Toronto,TORONTO,0.97,0.96
+2021-09,Maynard Nursing Home,2211,Toronto,TORONTO,1,0.96
+2021-09,McCall Centre Long Term Care Interim Unit,7086,Etobicoke,TORONTO,1,0.92
+2021-09,Midland Gardens Care Community,2789,Scarborough,TORONTO,0.98,0.97
+2021-09,Mon Sheong Home for the Aged,3002,Toronto,TORONTO,0.98,0.97
+2021-09,Mon Sheong Scarborough Long Term Care Centre,2944,Scarborough,TORONTO,1,0.98
+2021-09,Nisbet Lodge,3003,Toronto,TORONTO,0.94,0.91
+2021-09,Norfinch Care Community,2918,North York,TORONTO,0.98,0.96
+2021-09,North Park Nursing Home,0909,North York,TORONTO,0.99,0.98
+2021-09,Norwood Nursing Home,2201,Toronto,TORONTO,0.91,0.91
+2021-09,Providence Healthcare,3006,Toronto,TORONTO,0.98,0.96
+2021-09,Rockcliffe Care Community,2131,Scarborough,TORONTO,0.99,0.96
+2021-09,Rose of Sharon Korean Long Term Care,3038,Toronto,TORONTO,0.99,0.99
+2021-09,Seniors' Health Centre,2744,North York,TORONTO,0.94,0.86
+2021-09,Seven Oaks,M571,Scarborough,TORONTO,0.96,0.88
+2021-09,Shepherd Lodge,2782,Toronto,TORONTO,0.93,0.89
+2021-09,Sherbourne Place,2754,Toronto,TORONTO,0.97,0.97
+2021-09,St. Clair O'Connor Community Nursing Home,2719,Toronto,TORONTO,0.96,0.96
+2021-09,St. George Care Community,2594,Toronto,TORONTO,0.98,0.95
+2021-09,Suomi-Koti Toronto Nursing Home,2792,Toronto,TORONTO,1,0.99
+2021-09,Tendercare Living Centre,2649,Scarborough,TORONTO,0.99,0.97
+2021-09,The Heritage Nursing Home,2582,Toronto,TORONTO,0.99,0.98
+2021-09,The Kensington Gardens,2852,Toronto,TORONTO,0.99,0.97
+2021-09,The O'Neill Centre,2631,Toronto,TORONTO,0.97,0.95
+2021-09,The Village of Humber Heights,2957,Etobicoke,TORONTO,1,0.94
+2021-09,The Wexford,3021,Scarborough,TORONTO,0.99,0.97
+2021-09,Thompson House,3017,North York,TORONTO,0.95,0.95
+2021-09,Tony Stacey Centre for Veterans' Care,3001,Toronto,TORONTO,0.99,0.96
+2021-09,True Davidson Acres,M586,Toronto,TORONTO,0.96,0.92
+2021-09,Ukrainian Canadian Care Centre,2809,Etobicoke,TORONTO,0.82,0.74
+2021-09,Valleyview Residence,2954,North York,TORONTO,0.91,0.9
+2021-09,Villa Colombo Homes for the Aged,3020,Toronto,TORONTO,0.98,0.97
+2021-09,Wellesley Central Place,2959,Toronto,TORONTO,0.99,0.99
+2021-09,Wesburn Manor,M612,Etobicoke,TORONTO,0.91,0.87
+2021-09,West Park Long Term Care Centre,2848,Toronto,TORONTO,0.85,0.79
+2021-09,Weston Terrace Care Community,2874,Toronto,TORONTO,0.96,0.94
+2021-09,Westside,2663,Etobicoke,TORONTO,0.95,0.92
+2021-09,Yee Hong Centre - Scarborough Finch,2934,Scarborough,TORONTO,0.98,0.97
+2021-09,Yee Hong Centre - Scarborough McNicoll,2801,Scarborough,TORONTO,0.99,0.98
+2021-09,Barnswallow Place Care Community,2830,Elmira,WATERLOO,0.96,0.89
+2021-09,Cambridge Country Manor,2651,Cambridge,WATERLOO,0.97,0.94
+2021-09,Chartwell Elmira Long Term Care Residence,2471,Elmira,WATERLOO,0.95,0.91
+2021-09,Chartwell Westmount Long Term Care Residence,2880,Kitchener,WATERLOO,0.94,0.91
+2021-09,Columbia Forest,2856,Waterloo,WATERLOO,0.94,0.92
+2021-09,Derbecker's Heritage House,2134,St. Jacobs,WATERLOO,0.94,0.91
+2021-09,Fairview Mennonite Home,2992,Cambridge,WATERLOO,0.97,0.95
+2021-09,Forest Heights,2707,Kitchener,WATERLOO,0.92,0.87
+2021-09,Golden Years Nursing Home,1033,Cambridge,WATERLOO,0.96,0.94
+2021-09,Lanark Heights Long Term Care Centre,2917,Kitchener,WATERLOO,0.98,0.96
+2021-09,Nithview Home,3004,New Hamburg,WATERLOO,0.83,0.82
+2021-09,Parkwood Mennonite Home,2952,Waterloo,WATERLOO,0.96,0.92
+2021-09,peopleCare A.R. Goudie Kitchener,2990,Kitchener,WATERLOO,0.95,0.94
+2021-09,peopleCare Hilltop Manor Cambridge,2606,Cambridge,WATERLOO,0.99,0.93
+2021-09,Pinehaven Nursing Home,2805,Waterloo,WATERLOO,1,0.97
+2021-09,Riverbend Place,2753,Cambridge,WATERLOO,0.96,0.96
+2021-09,Saint Luke's Place,3014,Cambridge,WATERLOO,0.97,0.97
+2021-09,St. Andrew's Terrace Long Term Care Community,2926,Cambridge,WATERLOO,0.88,0.82
+2021-09,Stirling Heights,2863,Cambridge,WATERLOO,0.98,0.96
+2021-09,Sunnyside Home,M578,Kitchener,WATERLOO,0.87,0.87
+2021-09,The Village at University Gates,3048,Waterloo,WATERLOO,0.97,0.94
+2021-09,The Village of Winston Park,2783,Kitchener,WATERLOO,0.94,0.94
+2021-09,Trinity Village Care Centre,2580,Kitchener,WATERLOO,0.94,0.92
+2021-09,Twin Oaks of Maryhill,2752,Maryhill,WATERLOO,0.98,0.93
+2021-09,Avalon Retirement Centre,2715,Orangeville,WELLINGTON-DUFFERIN-GUELPH,0.94,0.91
+2021-09,Caressant Care Arthur Nursing Home,2748,Arthur,WELLINGTON-DUFFERIN-GUELPH,0.97,0.96
+2021-09,Caressant Care Fergus Nursing Home,2603,Fergus,WELLINGTON-DUFFERIN-GUELPH,0.86,0.86
+2021-09,Caressant Care Harriston,2595,Harriston,WELLINGTON-DUFFERIN-GUELPH,0.89,0.8
+2021-09,Dufferin Oaks,M516,Shelburne,WELLINGTON-DUFFERIN-GUELPH,0.88,0.85
+2021-09,Eden House Nursing Home,2777,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.9,0.9
+2021-09,LaPointe-Fisher Nursing Home,2358,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.97,0.94
+2021-09,Morriston Park Nursing Home,2727,Puslinch,WELLINGTON-DUFFERIN-GUELPH,1,1
+2021-09,Royal Terrace,2767,Palmerston,WELLINGTON-DUFFERIN-GUELPH,0.91,0.88
+2021-09,Shelburne Long Term Care Home,2762,Shelburne,WELLINGTON-DUFFERIN-GUELPH,0.94,0.91
+2021-09,"St. Joseph's Health Centre, Guelph",3011,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.86,0.84
+2021-09,Strathcona Long Term Care,3051,Mount Forest,WELLINGTON-DUFFERIN-GUELPH,,
+2021-09,The Elliott Long Term Care Residence,M633,Guelph,WELLINGTON-DUFFERIN-GUELPH,1,1
+2021-09,The Village of Riverside Glen,2915,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.94,0.9
+2021-09,Wellington Terrace Long-Term Care Home,M629,Fergus,WELLINGTON-DUFFERIN-GUELPH,0.97,0.95
+2021-09,Banwell Gardens Care Centre,2263,Tecumseh,WINDSOR-ESSEX,0.91,0.84
+2021-09,Berkshire Care Centre,2541,Windsor,WINDSOR-ESSEX,0.94,0.85
+2021-09,Brouillette Manor,2301,Tecumseh,WINDSOR-ESSEX,0.99,0.98
+2021-09,Chartwell Royal Oak Long Term Care Residence,2939,Kingsville,WINDSOR-ESSEX,0.93,0.9
+2021-09,Chateau Park Long Term Care Home,2712,Windsor,WINDSOR-ESSEX,0.98,0.94
+2021-09,Country Village Homes - Woodslee,2576,Woodslee,WINDSOR-ESSEX,0.93,0.89
+2021-09,Extendicare Southwood Lakes,2842,Windsor,WINDSOR-ESSEX,0.87,0.82
+2021-09,Extendicare Tecumseh,2904,Tecumseh,WINDSOR-ESSEX,0.93,0.84
+2021-09,Franklin Gardens Long Term Care Home,2602,Leamington,WINDSOR-ESSEX,0.94,0.86
+2021-09,Heron Terrace Long Term Care Community,2898,Windsor,WINDSOR-ESSEX,0.97,0.96
+2021-09,Huron Lodge Long Term Care Home,M631,Windsor,WINDSOR-ESSEX,0.85,0.77
+2021-09,Iler Lodge,2129,Essex,WINDSOR-ESSEX,0.95,0.89
+2021-09,Leamington Mennonite Home Long Term Care Residence,3035,Leamington,WINDSOR-ESSEX,1,1
+2021-09,Regency Park Long Term Care Home,2760,Windsor,WINDSOR-ESSEX,0.92,0.85
+2021-09,Richmond Terrace,1149,Amherstburg,WINDSOR-ESSEX,0.87,0.85
+2021-09,Riverside Place,2972,Windsor,WINDSOR-ESSEX,0.94,0.92
+2021-09,Sun Parlor Home for Senior Citizens,M579,Leamington,WINDSOR-ESSEX,0.98,0.94
+2021-09,The Village at St. Clair,3046,Windsor,WINDSOR-ESSEX,0.94,0.9
+2021-09,The Village of Aspen Lake,3037,Windsor,WINDSOR-ESSEX,0.93,0.87
+2021-09,Bethany Lodge,2986,Markham,YORK REGION,0.94,0.91
+2021-09,Bloomington Cove Care Community,2697,Stouffville,YORK REGION,0.99,0.98
+2021-09,Cedarvale Lodge Retirement and Care Community,2769,Keswick,YORK REGION,0.96,0.91
+2021-09,Chartwell Aurora Long Term Care Residence,2630,Aurora,YORK REGION,0.92,0.9
+2021-09,Chartwell Pine Grove Long Term Care Residence,2808,Woodbridge,YORK REGION,0.97,0.94
+2021-09,Chartwell Woodhaven Long Term Care Residence,2888,Markham,YORK REGION,0.97,0.95
+2021-09,Eagle Terrace,2240,Newmarket,YORK REGION,0.95,0.93
+2021-09,Elginwood,2869,Richmond Hill,YORK REGION,1,0.99
+2021-09,King City Lodge Nursing Home,2113,King City,YORK REGION,0.93,0.93
+2021-09,Kristus Darzs Latvian Home,2997,Woodbridge,YORK REGION,0.94,0.94
+2021-09,Langstaff Square Care Community,2907,Richmond Hill,YORK REGION,0.99,0.95
+2021-09,Mackenzie Health Long Term Care Facility,2825,Richmond Hill,YORK REGION,0.97,0.93
+2021-09,MacKenzie Place,2611,Newmarket,YORK REGION,1,0.99
+2021-09,Mariann Home,2619,Richmond Hill,YORK REGION,0.98,0.98
+2021-09,Markhaven,2924,Markham,YORK REGION,0.95,0.95
+2021-09,Mon Sheong Richmond Hill Long Term Care Centre,2897,Richmond Hill,YORK REGION,0.97,0.97
+2021-09,Parkview Home Long-Term Care,2968,Stouffville,YORK REGION,0.96,0.94
+2021-09,River Glen Haven Nursing Home,1021,Sutton West,YORK REGION,0.86,0.86
+2021-09,Sherwood Court Long Term Care Centre,2894,Maple,YORK REGION,0.99,0.98
+2021-09,Southlake Residential Care Village,2955,Newmarket,YORK REGION,0.94,0.91
+2021-09,The Willows Estate Nursing Home,2174,Aurora,YORK REGION,1,0.95
+2021-09,Union Villa,3018,Unionville,YORK REGION,0.97,0.97
+2021-09,Villa Colombo Seniors Centre (Vaughan),2969,Vaughan,YORK REGION,0.99,0.98
+2021-09,Villa Leonardo Gambin,2947,Woodbridge,YORK REGION,0.93,0.89
+2021-09,Woodbridge Vista Care Community,2945,Woodbridge,YORK REGION,0.89,0.8
+2021-09,Yee Hong Centre - Markham,2876,Markham,YORK REGION,0.99,0.99
+2021-09,York Region Maple Health Centre,M605,Maple,YORK REGION,0.89,0.86
+2021-09,York Region Newmarket Health Centre,M534,Newmarket,YORK REGION,0.93,0.9
+2021-10,Algoma Manor Nursing Home,3041,Thessalon,ALGOMA,1,0.99
+2021-10,Cedarwood Lodge,7093,Sault Ste. Marie,ALGOMA,1,0.96
+2021-10,Extendicare Maple View of Sault Ste. Marie,3043,Sault Ste. Marie,ALGOMA,1,0.98
+2021-10,Extendicare Van Daele,2609,Sault Ste. Marie,ALGOMA,1,1
+2021-10,F. J. Davey Home,2936,Sault Ste. Marie,ALGOMA,0.93,0.92
+2021-10,Lady Dunn Health Centre (Wawa),2875,Wawa,ALGOMA,1,0.99
+2021-10,Mauno Kaihla Koti,2780,Sault Ste. Marie,ALGOMA,1,0.99
+2021-10,North Shore Health Network - Eldcap Unit,2795,Blind River,ALGOMA,1,1
+2021-10,North Shore Health Network - LTC Unit,2865,Blind River,ALGOMA,1,1
+2021-10,St. Joseph's Manor,2877,Elliot Lake,ALGOMA,0.99,0.96
+2021-10,Brierwood Gardens LTC,2678,Brantford,BRANT,0.99,0.99
+2021-10,Fox Ridge Care Community,2570,Brantford,BRANT,1,0.97
+2021-10,Hardy Terrace,2720,Brantford,BRANT,1,0.98
+2021-10,Iroquois Lodge Nursing Home,2724,Ohsweken,BRANT,0.89,0.88
+2021-10,John Noble Home,M544,Brantford,BRANT,0.85,0.83
+2021-10,Park Lane Terrace,2779,Paris,BRANT,1,0.96
+2021-10,St. Joseph's Lifecare Centre,2976,Brantford,BRANT,0.94,0.91
+2021-10,Telfer Place,2742,Paris,BRANT,1,0.96
+2021-10,Blenheim Community Village,2695,Blenheim,CHATHAM-KENT,0.99,0.99
+2021-10,Copper Terrace,1115,Chatham,CHATHAM-KENT,0.94,0.9
+2021-10,Fairfield Park,2823,Wallaceburg,CHATHAM-KENT,0.94,0.87
+2021-10,Meadow Park Nursing Home (Chatham),2685,Chatham,CHATHAM-KENT,0.99,0.99
+2021-10,Riverview Gardens,M626,Chatham,CHATHAM-KENT,0.9,0.86
+2021-10,Tilbury Manor Nursing Home,1064,Tilbury,CHATHAM-KENT,1,0.98
+2021-10,Village on the Ridge,2765,Ridgetown,CHATHAM-KENT,1,0.98
+2021-10,Bay Ridges,2895,Pickering,DURHAM,1,0.97
+2021-10,Bon Air Long Term Care Residence,2613,Cannington,DURHAM,0.98,0.95
+2021-10,Chartwell Ballycliffe Long Term Care Residence,2658,Ajax,DURHAM,0.9,0.87
+2021-10,Chartwell Wynfield Long Term Care Residence,2885,Oshawa,DURHAM,1,0.97
+2021-10,Extendicare Oshawa,2439,Oshawa,DURHAM,1,0.99
+2021-10,Fairview Lodge,M522,Whitby,DURHAM,0.96,0.91
+2021-10,Glen Hill Strathaven,2605,Bowmanville,DURHAM,0.96,0.95
+2021-10,Glen Hill Terrace,3053,Whitby,DURHAM,0.97,0.96
+2021-10,Hillsdale Estates,M539,Oshawa,DURHAM,0.95,0.9
+2021-10,Hillsdale Terraces,M630,Oshawa,DURHAM,0.96,0.91
+2021-10,Lakeview Manor,M546,Beaverton,DURHAM,1,0.96
+2021-10,Orchard Villa,2693,Pickering,DURHAM,1,0.99
+2021-10,Port Perry Place,2629,Port Perry,DURHAM,1,0.97
+2021-10,ReachView Village,2635,Uxbridge,DURHAM,1,0.97
+2021-10,Sunnycrest Nursing Home,1013,Whitby,DURHAM,1,0.99
+2021-10,The Village of Taunton Mills,2902,Whitby,DURHAM,1,0.93
+2021-10,Thorntonview,2534,Oshawa,DURHAM,1,0.97
+2021-10,Winbourne Park,2871,Ajax,DURHAM,0.97,0.95
+2021-10,Caressant Care Bourget,1160,Bourget,EASTERN ONTARIO,1,1
+2021-10,Centre d'Accueil Roger Seguin,2988,Clarence Creek,EASTERN ONTARIO,0.94,0.89
+2021-10,Champlain Long Term Care Residence,0925,L'orignal,EASTERN ONTARIO,1,1
+2021-10,Dundas Manor Nursing Home,2674,Winchester,EASTERN ONTARIO,1,1
+2021-10,Foyer St-Viateur Nursing Home,2746,Limoges,EASTERN ONTARIO,0.94,0.91
+2021-10,Glen-Stor-Dun Lodge,M529,Cornwall,EASTERN ONTARIO,0.95,0.89
+2021-10,Heartwood,2088,Cornwall,EASTERN ONTARIO,1,0.98
+2021-10,Lancaster Long Term Care Residence,2680,Lancaster,EASTERN ONTARIO,1,0.94
+2021-10,Maxville Manor,3000,Maxville,EASTERN ONTARIO,0.97,0.94
+2021-10,Parisien Manor,1131,Cornwall,EASTERN ONTARIO,1,0.98
+2021-10,Pinecrest (Plantagenet),2797,Plantagenet,EASTERN ONTARIO,1,0.97
+2021-10,Residence Prescott et Russell,M567,Hawkesbury,EASTERN ONTARIO,0.96,0.87
+2021-10,Sandfield Place,2778,Cornwall,EASTERN ONTARIO,1,1
+2021-10,St. Jacques Nursing Home,2691,Embrun,EASTERN ONTARIO,1,0.96
+2021-10,St. Joseph's Continuing Care Centre,3012,Cornwall,EASTERN ONTARIO,0.95,0.92
+2021-10,The Palace,2642,Alexandria,EASTERN ONTARIO,0.97,0.97
+2021-10,Tsiionkwanonhsote,2800,Akwesasne,EASTERN ONTARIO,0.96,0.87
+2021-10,Woodland Villa,2743,Long Sault,EASTERN ONTARIO,1,1
+2021-10,Brucelea Haven Long Term Care Home - Corporation of the County of Bruce,M507,Walkerton,GREY-BRUCE,0.94,0.83
+2021-10,Country Lane Long Term Care Residence,1027,Chatsworth,GREY-BRUCE,1,0.93
+2021-10,Elgin Abbey Nursing Home,2725,Chesley,GREY-BRUCE,0.96,0.96
+2021-10,Errinrung Long Term Care Home,2513,Thornbury,GREY-BRUCE,0.98,0.98
+2021-10,Gateway Haven Long Term Care Home,M526,Wiarton,GREY-BRUCE,0.95,0.91
+2021-10,Georgian Heights,2638,Owen Sound,GREY-BRUCE,1,1
+2021-10,Golden Dawn Nursing Home,2705,Lion's Head,GREY-BRUCE,0.85,0.85
+2021-10,Grey Gables Home for the Aged,M606,Markdale,GREY-BRUCE,0.99,0.96
+2021-10,Hanover Care Centre,2770,Hanover,GREY-BRUCE,1,0.98
+2021-10,Lee Manor Home,M549,Owen Sound,GREY-BRUCE,0.93,0.89
+2021-10,Maple View,2690,Owen Sound,GREY-BRUCE,1,1
+2021-10,Meaford Long Term Care - a peopleCare Community,2612,Meaford,GREY-BRUCE,1,0.99
+2021-10,Parkview Manor Health Care Centre,1053,Chesley,GREY-BRUCE,1,0.95
+2021-10,Pinecrest Manor,2600,Lucknow,GREY-BRUCE,1,0.96
+2021-10,Rockwood Terrace Home for the Aged,M570,Durham,GREY-BRUCE,0.92,0.86
+2021-10,Southampton Care Centre,2597,Southampton,GREY-BRUCE,0.96,0.96
+2021-10,Summit Place,2624,Owen Sound,GREY-BRUCE,1,1
+2021-10,The Village Seniors Community,2599,Hanover,GREY-BRUCE,1,1
+2021-10,Trillium Court,2773,Kincardine,GREY-BRUCE,1,1
+2021-10,Anson Place Care Centre,2786,Hagersville,HALDIMAND-NORFOLK,1,0.93
+2021-10,Cedarwood Village,2768,Simcoe,HALDIMAND-NORFOLK,1,0.97
+2021-10,Delhi Long Term Care Centre,2660,Delhi,HALDIMAND-NORFOLK,1,0.9
+2021-10,Dover Cliffs,1056,Port Dover,HALDIMAND-NORFOLK,1,1
+2021-10,Edgewater Gardens Long Term Care Centre,2963,Dunnville,HALDIMAND-NORFOLK,1,0.95
+2021-10,Gardenview Long Term Care Home,2961,Townsend,HALDIMAND-NORFOLK,0.92,0.82
+2021-10,Grandview Lodge / Dunnville,M532,Dunnville,HALDIMAND-NORFOLK,0.92,0.89
+2021-10,Norview Lodge,M624,Simcoe,HALDIMAND-NORFOLK,0.95,0.86
+2021-10,The Norfolk Hospital Nursing Home,2621,Simcoe,HALDIMAND-NORFOLK,0.84,0.66
+2021-10,Burnbrae Gardens Long Term Care Residence,2686,Campbellford,HALIBURTON KAWARTHA PR,0.94,0.92
+2021-10,Caressant Care Lindsay Nursing Home,2701,Lindsay,HALIBURTON KAWARTHA PR,1,0.99
+2021-10,Caressant Care on McLaughlin Road,2916,Lindsay,HALIBURTON KAWARTHA PR,1,0.99
+2021-10,Case Manor Care Community,0958,Bobcaygeon,HALIBURTON KAWARTHA PR,0.93,0.86
+2021-10,Extendicare Cobourg,2851,Cobourg,HALIBURTON KAWARTHA PR,0.99,0.98
+2021-10,Extendicare Haliburton,2644,Haliburton,HALIBURTON KAWARTHA PR,1,1
+2021-10,Extendicare Kawartha Lakes,2838,Lindsay,HALIBURTON KAWARTHA PR,0.98,0.98
+2021-10,Extendicare Port Hope,2925,Port Hope,HALIBURTON KAWARTHA PR,0.99,0.99
+2021-10,Fenelon Court,2850,Fenelon Falls,HALIBURTON KAWARTHA PR,1,0.98
+2021-10,Frost Manor,2703,Lindsay,HALIBURTON KAWARTHA PR,1,0.97
+2021-10,Golden Plough Lodge,M531,Cobourg,HALIBURTON KAWARTHA PR,0.96,0.95
+2021-10,Highland Wood,3030,Haliburton,HALIBURTON KAWARTHA PR,0.95,0.94
+2021-10,Hyland Crest,2639,Minden,HALIBURTON KAWARTHA PR,0.98,0.91
+2021-10,Hope Street Terrace,3050,Minden,HALIBURTON KAWARTHA PR,1,0.96
+2021-10,Maplewood,2717,Brighton,HALIBURTON KAWARTHA PR,1,1
+2021-10,Pinecrest Nursing Home (Bobcaygeon),2731,Bobcaygeon,HALIBURTON KAWARTHA PR,0.89,0.83
+2021-10,Regency Long Term Care Home,2511,Port Hope,HALIBURTON KAWARTHA PR,1,0.99
+2021-10,Streamway Villa,2666,Cobourg,HALIBURTON KAWARTHA PR,1,1
+2021-10,Victoria Manor Home for the Aged,M589,Lindsay,HALIBURTON KAWARTHA PR,0.96,0.94
+2021-10,Warkworth Place,2803,Warkworth,HALIBURTON KAWARTHA PR,1,1
+2021-10,Allendale,M536,Milton,HALTON,0.96,0.88
+2021-10,Bennett Health Care Centre,2816,Georgetown,HALTON,0.99,0.99
+2021-10,Billings Court Manor,2938,Burlington,HALTON,0.93,0.91
+2021-10,CAMA Woodlands Nursing Home,2774,Burlington,HALTON,0.97,0.94
+2021-10,Chartwell Brant Centre Long Term Care Residence,2900,Burlington,HALTON,1,0.99
+2021-10,Chartwell Waterford Long Term Care Residence,2908,Oakville,HALTON,1,0.99
+2021-10,Creek Way Village,M623,Burlington,HALTON,0.97,0.95
+2021-10,Extendicare Halton Hills,2892,Georgetown,HALTON,1,1
+2021-10,Burloak,2857,Burlington,HALTON,1,1
+2021-10,Hampton Terrace Care Centre,2846,Burlington,HALTON,1,1
+2021-10,Maple Villa Long Term Care Centre,2408,Burlington,HALTON,0.98,0.97
+2021-10,Mount Nemo Christian Nursing Home,2577,Burlington,HALTON,0.93,0.88
+2021-10,Northridge,2862,Oakville,HALTON,1,1
+2021-10,Post Inn Village,M620,Oakville,HALTON,0.96,0.93
+2021-10,The Village of Tansley Woods,2854,Burlington,HALTON,0.98,0.98
+2021-10,Wellington Park Care Centre,1023,Burlington,HALTON,1,0.98
+2021-10,West Oak Village,2870,Oakville,HALTON,1,0.99
+2021-10,Wyndham Manor Long Term Care Centre,2910,Oakville,HALTON,1,1
+2021-10,Alexander Place,2861,Waterdown,HAMILTON,0.99,0.99
+2021-10,Arbour Creek Long-Term Care Centre,2930,Hamilton,HAMILTON,0.93,0.92
+2021-10,BayWoods Place,2581,Hamilton,HAMILTON,1,0.99
+2021-10,Blackadar Continuing Care Centre,2641,Dundas,HAMILTON,1,1
+2021-10,Chartwell Willowgrove Long Term Care Residence,2921,Ancaster,HAMILTON,1,0.99
+2021-10,Clarion Nursing Home,2721,Stoney Creek,HAMILTON,1,0.97
+2021-10,Dundurn Place Care Centre,2739,Hamilton,HAMILTON,1,0.99
+2021-10,Extendicare Hamilton,2858,Hamilton,HAMILTON,1,1
+2021-10,Grace Villa Nursing Home,2741,Hamilton,HAMILTON,0.96,0.91
+2021-10,Hamilton Continuing Care,2706,Hamilton,HAMILTON,1,0.97
+2021-10,Heritage Green Nursing Home,2776,Stoney Creek,HAMILTON,0.91,0.83
+2021-10,Idlewyld Manor,2931,Hamilton,HAMILTON,1,0.97
+2021-10,Macassa  Lodge,M552,Hamilton,HAMILTON,0.98,0.96
+2021-10,Orchard Terrace Care Centre,2477,Stoney Creek,HAMILTON,0.94,0.9
+2021-10,Parkview Nursing Centre,2700,Hamilton,HAMILTON,0.98,0.97
+2021-10,Pine Villa Nursing Home,2750,Stoney Creek,HAMILTON,1,1
+2021-10,Queen's Garden,2853,Hamilton,HAMILTON,1,1
+2021-10,Regina Gardens,2922,Hamilton,HAMILTON,1,0.99
+2021-10,Ridgeview,2849,Stoney Creek,HAMILTON,1,0.97
+2021-10,Shalom Village Nursing Home,2775,Hamilton,HAMILTON,0.99,0.97
+2021-10,"St. Joseph's Villa, Dundas",2975,Dundas,HAMILTON,1,0.95
+2021-10,St. Peter's Residence at Chedoke,2927,Hamilton,HAMILTON,0.99,0.95
+2021-10,The Meadows,2844,Ancaster,HAMILTON,0.98,0.96
+2021-10,The Village of Wentworth Heights,2841,Hamilton,HAMILTON,0.97,0.97
+2021-10,The Wellington Nursing Home,2784,Hamilton,HAMILTON,0.98,0.96
+2021-10,Victoria Gardens Long Term Care,2806,Hamilton,HAMILTON,0.97,0.92
+2021-10,Wentworth Lodge,M592,Dundas,HAMILTON,0.96,0.94
+2021-10,Belmont Long Term Care Facility,2901,Belleville,HASTINGS PRINCE EDWARD,0.97,0.95
+2021-10,Caressant Care Marmora,2718,Marmora,HASTINGS PRINCE EDWARD,0.96,0.93
+2021-10,Crown Ridge Place,2787,Trenton,HASTINGS PRINCE EDWARD,0.94,0.88
+2021-10,E. J. McQuigge Lodge,2668,Cannifton,HASTINGS PRINCE EDWARD,1,1
+2021-10,H.J. McFarland Memorial Home,M556,Picton,HASTINGS PRINCE EDWARD,0.95,0.93
+2021-10,Hallowell House,0891,Picton,HASTINGS PRINCE EDWARD,1,0.98
+2021-10,Hastings Centennial Manor,M537,Bancroft,HASTINGS PRINCE EDWARD,0.91,0.89
+2021-10,Hastings Manor Home for the Aged,M538,Belleville,HASTINGS PRINCE EDWARD,0.98,0.96
+2021-10,Kentwood Park,0893,Picton,HASTINGS PRINCE EDWARD,0.97,0.97
+2021-10,Moira Place Long-Term Care Home,2977,Tweed,HASTINGS PRINCE EDWARD,1,0.94
+2021-10,Stirling Manor Nursing Home,2470,Stirling,HASTINGS PRINCE EDWARD,0.93,0.89
+2021-10,Trent Valley Lodge,2337,Trenton,HASTINGS PRINCE EDWARD,0.9,0.86
+2021-10,West Lake Terrace,0997,Picton,HASTINGS PRINCE EDWARD,1,0.98
+2021-10,Westgate Lodge Nursing Home,2623,Belleville,HASTINGS PRINCE EDWARD,0.98,0.97
+2021-10,Blue Water Rest Home,2987,Zurich,HURON-PERTH,0.99,0.97
+2021-10,Braemar Retirement Centre,2788,Wingham,HURON-PERTH,0.93,0.89
+2021-10,Caressant Care Listowel Nursing Home,2664,Listowel,HURON-PERTH,0.98,0.94
+2021-10,Exeter Villa,2749,Exeter,HURON-PERTH,0.98,0.98
+2021-10,Greenwood Court,3023,Stratford,HURON-PERTH,1,1
+2021-10,Hillside Manor,1975,Stratford,HURON-PERTH,1,0.98
+2021-10,Huronlea Home for the Aged,M601,Brussels,HURON-PERTH,1,0.95
+2021-10,Huronview Home for the Aged,M541,Clinton,HURON-PERTH,0.98,0.92
+2021-10,Kingsway Lodge Nursing Home,2726,St. Marys,HURON-PERTH,1,0.98
+2021-10,Knollcrest Lodge,2996,Milverton,HURON-PERTH,0.9,0.88
+2021-10,Maitland Manor,0965,Goderich,HURON-PERTH,1,1
+2021-10,Mitchell Nursing Home,2689,Mitchell,HURON-PERTH,0.97,0.97
+2021-10,Queensway Long Term Care Home,0933,Hensall,HURON-PERTH,1,1
+2021-10,Ritz Lutheran Villa,3007,Mitchell,HURON-PERTH,0.98,0.97
+2021-10,Seaforth Long Term Care Home,1135,Seaforth,HURON-PERTH,1,0.99
+2021-10,Spruce Lodge Home for the Aged,M575,Stratford,HURON-PERTH,0.98,0.97
+2021-10,The Fordwich Village Nursing Home,0995,Fordwich,HURON-PERTH,1,1
+2021-10,Wildwood Care Centre,2802,St. Marys,HURON-PERTH,1,1
+2021-10,Arbour Heights,2982,Kingston,KINGSTON FRONTENAC L & A,1,1
+2021-10,Extendicare Kingston,2616,Kingston,KINGSTON FRONTENAC L & A,0.99,0.99
+2021-10,Fairmount Home for the Aged,M521,Glenburnie,KINGSTON FRONTENAC L & A,0.97,0.95
+2021-10,Friendly Manor Nursing Home,0934,Deseronto,KINGSTON FRONTENAC L & A,1,0.97
+2021-10,Helen Henderson Nursing Home,2728,Amherstview,KINGSTON FRONTENAC L & A,1,0.99
+2021-10,Lennox and Addington County General Hospital,7089,Napanee,KINGSTON FRONTENAC L & A,1,1
+2021-10,Pine Meadow Nursing Home,2796,Northbrook,KINGSTON FRONTENAC L & A,1,0.94
+2021-10,Providence Manor,3005,Kingston,KINGSTON FRONTENAC L & A,1,1
+2021-10,Rideaucrest Home,M569,Kingston,KINGSTON FRONTENAC L & A,0.95,0.92
+2021-10,The John M. Parrott Centre,M625,Napanee,KINGSTON FRONTENAC L & A,0.98,0.94
+2021-10,The Village Green Nursing Home,2681,Selby,KINGSTON FRONTENAC L & A,0.97,0.93
+2021-10,Trillium Retirement and Care Community,2790,Kingston,KINGSTON FRONTENAC L & A,0.99,0.99
+2021-10,Afton Park Place Long Term Care Community,2872,Sarnia,LAMBTON,0.98,0.92
+2021-10,Fiddick's Nursing Home,2673,Petrolia,LAMBTON,0.99,0.97
+2021-10,Lambton Meadowview Villa,M547,Petrolia,LAMBTON,0.95,0.88
+2021-10,Marshall Gowland Manor,M613,Sarnia,LAMBTON,0.98,0.93
+2021-10,North Lambton Lodge,M559,Forest,LAMBTON,1,0.96
+2021-10,Sumac Lodge,2573,Sarnia,LAMBTON,1,0.98
+2021-10,Trillium Villa Nursing Home,2217,Sarnia,LAMBTON,1,0.99
+2021-10,Twin Lakes Terrace Long Term Care Community,2889,Sarnia,LAMBTON,1,1
+2021-10,Vision Nursing Home,2659,Sarnia,LAMBTON,1,0.98
+2021-10,Watford Quality Care Centre,2652,Watford,LAMBTON,1,1
+2021-10,Almonte Country Haven,2692,Almonte,"LEEDS,GRENVILLE,LANARK",1,1
+2021-10,Bayfield Manor,2772,Kemptville,"LEEDS,GRENVILLE,LANARK",1,1
+2021-10,Broadview Nursing Centre,2684,Smiths Falls,"LEEDS,GRENVILLE,LANARK",0.81,0.77
+2021-10,Carveth Care Centre,2683,Gananoque,"LEEDS,GRENVILLE,LANARK",0.96,0.94
+2021-10,Fairview Manor,2973,Almonte,"LEEDS,GRENVILLE,LANARK",0.99,0.96
+2021-10,Hilltop Manor Nursing Home (Merrickville),2645,Merrickville,"LEEDS,GRENVILLE,LANARK",0.99,0.98
+2021-10,Kemptville District Hospital,7073,Kemptville,"LEEDS,GRENVILLE,LANARK",0.97,0.96
+2021-10,Lanark Lodge,M548,Perth,"LEEDS,GRENVILLE,LANARK",1,0.98
+2021-10,Maple View Lodge,M554,Athens,"LEEDS,GRENVILLE,LANARK",0.99,0.96
+2021-10,Perth Community Care Centre,0962,Perth,"LEEDS,GRENVILLE,LANARK",0.99,0.97
+2021-10,Rosebridge Manor,2671,Jasper,"LEEDS,GRENVILLE,LANARK",1,1
+2021-10,Sherwood Park Manor,2640,Brockville,"LEEDS,GRENVILLE,LANARK",0.94,0.9
+2021-10,St. Lawrence Lodge,M576,Brockville,"LEEDS,GRENVILLE,LANARK",0.95,0.91
+2021-10,Stoneridge Manor,2637,Carleton Place,"LEEDS,GRENVILLE,LANARK",0.99,0.97
+2021-10,Wellington House Nursing Home,2807,Prescott,"LEEDS,GRENVILLE,LANARK",1,0.99
+2021-10,Babcock Community Care Centre,2626,Wardsville,MIDDLESEX-LONDON,0.94,0.9
+2021-10,Chartwell London Long Term Care Residence,2919,London,MIDDLESEX-LONDON,1,1
+2021-10,Chartwell Parkhill Long Term Care Residence,2632,Parkhill,MIDDLESEX-LONDON,1,0.98
+2021-10,Chelsey Park,2655,London,MIDDLESEX-LONDON,0.99,0.99
+2021-10,Country Terrace,0907,Komoka,MIDDLESEX-LONDON,0.99,0.99
+2021-10,Craigholme,2622,Ailsa Craig,MIDDLESEX-LONDON,0.97,0.91
+2021-10,Dearness Home for Senior Citizens,M514,London,MIDDLESEX-LONDON,0.99,0.97
+2021-10,Earls Court Village,3047,London,MIDDLESEX-LONDON,0.99,0.91
+2021-10,Elmwood Place,3054,London,MIDDLESEX-LONDON,1,0.98
+2021-10,Extendicare London,2173,London,MIDDLESEX-LONDON,1,0.99
+2021-10,Henley Place,3045,London,MIDDLESEX-LONDON,0.99,0.99
+2021-10,Kensington Village,2729,London,MIDDLESEX-LONDON,0.99,0.97
+2021-10,McCormick Home,2965,London,MIDDLESEX-LONDON,0.98,0.95
+2021-10,McGarrell Place,2964,London,MIDDLESEX-LONDON,1,0.99
+2021-10,Meadow Park (London),2643,London,MIDDLESEX-LONDON,1,1
+2021-10,Middlesex Terrace,1030,Delaware,MIDDLESEX-LONDON,0.97,0.95
+2021-10,Mount Hope Centre for Long Term Care,C596,London,MIDDLESEX-LONDON,1,0.96
+2021-10,Oneida Nation of the Thames Long-Term Care Home (Tsi' Nu: yoyantle' Na' Tuhuwati,3042,Southwold,MIDDLESEX-LONDON,0.98,0.97
+2021-10,peopleCare Oakcrossing London,2980,London,MIDDLESEX-LONDON,0.96,0.92
+2021-10,Sprucedale Care Centre,2946,Strathroy,MIDDLESEX-LONDON,0.94,0.93
+2021-10,Strathmere Lodge,M627,Strathroy,MIDDLESEX-LONDON,0.94,0.92
+2021-10,The Village of Glendale Crossing,2979,London,MIDDLESEX-LONDON,0.86,0.85
+2021-10,Westmount Gardens Long Term Care Home,2878,London,MIDDLESEX-LONDON,1,1
+2021-10,"Albright Gardens Homes, Incorporated",2983,Beamsville,NIAGARA,0.94,0.9
+2021-10,Bella Senior Care Residences,2890,Niagara Falls,NIAGARA,0.95,0.89
+2021-10,Crescent Park Lodge,2587,Fort Erie,NIAGARA,0.97,0.94
+2021-10,Deer Park Villa,M611,Grimsby,NIAGARA,0.97,0.97
+2021-10,Douglas H. Rapelje Lodge,M604,Welland,NIAGARA,1,0.95
+2021-10,Extendicare St. Catharines,2321,St. Catharines,NIAGARA,0.99,0.99
+2021-10,Foyer Richelieu Welland,3022,Welland,NIAGARA,0.97,0.94
+2021-10,Garden City Manor,2364,St. Catharines,NIAGARA,1,1
+2021-10,Gilmore Lodge,M528,Fort Erie,NIAGARA,1,1
+2021-10,Heidehof Long Term Care Home,2960,St. Catharines,NIAGARA,0.98,0.96
+2021-10,Kilean Lodge,1866,Grimsby,NIAGARA,1,1
+2021-10,Linhaven,M551,St. Catharines,NIAGARA,1,0.99
+2021-10,Maple Park Lodge,2891,Fort Erie,NIAGARA,1,0.97
+2021-10,Mennonite Brethren Senior Citizens Home,3016,St. Catharines,NIAGARA,0.96,0.91
+2021-10,Millennium Trail Manor,2948,Niagara Falls,NIAGARA,1,0.93
+2021-10,"Niagara Health System, Welland Hospital Site, Extended Care Unit",2607,Welland,NIAGARA,0.93,0.89
+2021-10,Niagara Ina Grafton Gage Village,2994,St. Catharines,NIAGARA,0.97,0.94
+2021-10,Niagara Long Term Care Residence,2618,Niagara-On-The-Lake,NIAGARA,1,1
+2021-10,Northland Pointe,M610,Port Colborne,NIAGARA,1,0.99
+2021-10,Oakwood Park Lodge,2661,Niagara Falls,NIAGARA,1,0.97
+2021-10,Pleasant Manor Retirement Village,2799,Virgil,NIAGARA,0.98,0.96
+2021-10,R. H. Lawson Eventide Home,2991,Niagara Falls,NIAGARA,0.93,0.88
+2021-10,Royal Rose Place,3049,Welland,NIAGARA,0.96,0.96
+2021-10,Shalom Manor Long Term Care Home,3009,Grimsby,NIAGARA,0.9,0.88
+2021-10,The Henley House,2909,St. Catharines,NIAGARA,0.97,0.96
+2021-10,The Meadows of Dorchester,M515,Niagara Falls,NIAGARA,1,0.99
+2021-10,The Woodlands of Sunset,M617,Welland,NIAGARA,1,0.99
+2021-10,Tufford Nursing Home,2711,St. Catharines,NIAGARA,1,0.99
+2021-10,United Mennonite Home,2951,Vineland,NIAGARA,0.9,0.84
+2021-10,Upper Canada Lodge,M587,Niagara-On-The-Lake,NIAGARA,1,0.97
+2021-10,Valley Park Lodge,2737,Niagara Falls,NIAGARA,1,1
+2021-10,West Park Health Centre,1500,St. Catharines,NIAGARA,1,1
+2021-10,Algonquin Nursing Home,3052,Mattawa,NORTH BAY-PARRY SOUND,0.97,0.91
+2021-10,Au Chateau,M502,Sturgeon Falls,NORTH BAY-PARRY SOUND,1,1
+2021-10,Belvedere Heights,M503,Parry Sound,NORTH BAY-PARRY SOUND,0.94,0.91
+2021-10,Cassellholme,M509,North Bay,NORTH BAY-PARRY SOUND,0.91,0.89
+2021-10,Eastholme Home for the Aged,M517,Powassan,NORTH BAY-PARRY SOUND,0.98,0.91
+2021-10,Lakeland Long Term Care (Eldcap),2966,Parry Sound,NORTH BAY-PARRY SOUND,0.99,0.99
+2021-10,Lakeland Long Term Care Services,2958,Parry Sound,NORTH BAY-PARRY SOUND,0.99,0.99
+2021-10,Nipissing Manor Nursing Care Center,0920,Corbeil,NORTH BAY-PARRY SOUND,0.98,0.93
+2021-10,The West Nipissing General Hospital,7069,Sturgeon Falls,NORTH BAY-PARRY SOUND,0.95,0.91
+2021-10,Waters Edge Care Community,2598,North Bay,NORTH BAY-PARRY SOUND,0.98,0.97
+2021-10,Atikokan General Hospital,2756,Atikokan,NORTHWESTERN,0.98,0.9
+2021-10,Wiigwas Elder and Senior Care,2620,Kenora,NORTHWESTERN,0.97,0.93
+2021-10,EMO Health Centre,2831,Emo,NORTHWESTERN,0.92,0.9
+2021-10,Northwood Lodge,M607,Red Lake,NORTHWESTERN,1,0.98
+2021-10,Pinecrest (Kenora),M563,Kenora,NORTHWESTERN,1,0.97
+2021-10,Princess Court,M608,Dryden,NORTHWESTERN,0.99,0.91
+2021-10,Rainy River Health Centre,2820,Rainy River,NORTHWESTERN,0.98,0.98
+2021-10,Rainycrest,3033,Fort Frances,NORTHWESTERN,0.96,0.92
+2021-10,William A. 'Bill' George Extended Care Facility,2785,Sioux Lookout,NORTHWESTERN,1,1
+2021-10,Carleton Lodge,M508,Nepean,OTTAWA,0.98,0.97
+2021-10,Carlingview Manor,2420,Ottawa,OTTAWA,1,0.99
+2021-10,Centre d'Accueil Champlain,M511,Vanier,OTTAWA,0.97,0.96
+2021-10,Élisabeth-Bruyère Residence,2759,Ottawa,OTTAWA,1,0.96
+2021-10,Extendicare Laurier Manor,2665,Gloucester,OTTAWA,1,1
+2021-10,Extendicare Medex,2579,Ottawa,OTTAWA,0.98,0.96
+2021-10,Extendicare New Orchard Lodge,2302,Ottawa,OTTAWA,1,1
+2021-10,Extendicare Starwood,2485,Nepean,OTTAWA,1,1
+2021-10,Extendicare West End Villa,2709,Ottawa,OTTAWA,1,1
+2021-10,Forest Hill,2834,Kanata,OTTAWA,1,1
+2021-10,Garden Terrace,2882,Kanata,OTTAWA,0.99,0.99
+2021-10,Garry J. Armstrong Home,M622,Ottawa,OTTAWA,0.99,0.98
+2021-10,Glebe Centre,2811,Ottawa,OTTAWA,1,0.99
+2021-10,Granite Ridge Care Community,2879,Stittsville,OTTAWA,1,0.99
+2021-10,Hillel Lodge (The Bess and Moe Greenberg Family),3029,Ottawa,OTTAWA,0.96,0.95
+2021-10,Longfields Manor,2845,Nepean,OTTAWA,0.99,0.99
+2021-10,Madonna Care Community,2974,Orleans,OTTAWA,0.98,0.98
+2021-10,Manoir Marochel,2867,Ottawa,OTTAWA,1,0.98
+2021-10,Montfort,2886,Ottawa,OTTAWA,1,0.93
+2021-10,Peter D. Clark Centre,M609,Ottawa,OTTAWA,0.86,0.84
+2021-10,Residence Saint-Louis,3013,Ottawa,OTTAWA,0.99,0.97
+2021-10,Royal Ottawa Place,2933,Ottawa,OTTAWA,1,1
+2021-10,Sarsfield Colonial Home,0943,Sarsfield,OTTAWA,0.93,0.93
+2021-10,St. Patrick's Home,3015,Ottawa,OTTAWA,0.98,0.97
+2021-10,The Perley and Rideau Veterans' Health Centre,3025,Ottawa,OTTAWA,1,1
+2021-10,The Salvation Army Ottawa Grace Manor,2873,Ottawa,OTTAWA,1,0.98
+2021-10,Township of Osgoode Care Centre,2747,Metcalfe,OTTAWA,0.99,0.99
+2021-10,Villa Marconi,2818,Ottawa,OTTAWA,0.98,0.96
+2021-10,Burton Manor,2953,Brampton,PEEL,1,1
+2021-10,Camilla Care Community,2472,Mississauga,PEEL,0.98,0.97
+2021-10,Cawthra Gardens,2912,Mississauga,PEEL,1,1
+2021-10,Chartwell Wenleigh Long Term Care Residence,2833,Mississauga,PEEL,1,0.99
+2021-10,Cooksville Care Centre,2124,Mississauga,PEEL,1,0.97
+2021-10,Erin Mills Lodge Nursing Home,2736,Mississauga,PEEL,1,1
+2021-10,Extendicare Brampton,2847,Brampton,PEEL,1,0.99
+2021-10,Extendicare Mississauga,2884,Mississauga,PEEL,0.99,0.98
+2021-10,Faith Manor Nursing Home,2745,Brampton,PEEL,0.98,0.96
+2021-10,Grace Manor,2942,Brampton,PEEL,0.98,0.95
+2021-10,Hawthorn Woods Care Community,2887,Brampton,PEEL,0.98,0.97
+2021-10,King Nursing Home,0901,Bolton,PEEL,0.94,0.93
+2021-10,Malton Village Long Term Care Centre,M618,Mississauga,PEEL,0.86,0.82
+2021-10,Maple Grove Care Community,2911,Brampton,PEEL,1,0.99
+2021-10,Mississauga Long Term Care Facility,1078,Mississauga,PEEL,0.96,0.88
+2021-10,Peel Manor,M562,Brampton,PEEL,0.95,0.92
+2021-10,Sheridan Villa,M572,Mississauga,PEEL,0.95,0.88
+2021-10,Silverthorn Care Community,2956,Mississauga,PEEL,1,0.98
+2021-10,Streetsville Care Community,2648,Mississauga,PEEL,1,0.97
+2021-10,Tall Pines Long Term Care Centre,M616,Brampton,PEEL,0.91,0.88
+2021-10,The Village of Erin Meadows,2881,Mississauga,PEEL,0.98,0.95
+2021-10,The Village of Sandalwood Park,2859,Brampton,PEEL,1,1
+2021-10,Tullamore Care Community,0963,Brampton,PEEL,1,0.98
+2021-10,Tyndall Nursing Home,2656,Mississauga,PEEL,0.96,0.91
+2021-10,Vera M. Davis Community Care Centre,2734,Bolton,PEEL,1,0.96
+2021-10,Villa Forum,2855,Mississauga,PEEL,0.98,0.98
+2021-10,Woodhall Park Care Community,2928,Brampton,PEEL,1,0.98
+2021-10,Yee Hong Centre - Mississauga,2920,Mississauga,PEEL,1,1
+2021-10,Centennial Place Long-Term Care Home,2903,Millbrook,PETERBOROUGH,1,0.97
+2021-10,Extendicare Lakefield,2843,Lakefield,PETERBOROUGH,1,0.99
+2021-10,Extendicare Peterborough,2572,Peterborough,PETERBOROUGH,1,1
+2021-10,Fairhaven,M520,Peterborough,PETERBOROUGH,1,0.92
+2021-10,Pleasant Meadow Manor,2761,Norwood,PETERBOROUGH,1,1
+2021-10,Riverview Manor Nursing Home,2722,Peterborough,PETERBOROUGH,0.92,0.9
+2021-10,Springdale Country Manor,2413,Peterborough,PETERBOROUGH,1,1
+2021-10,St. Joseph's at Fleming,2935,Peterborough,PETERBOROUGH,0.97,0.92
+2021-10,Extendicare Kapuskasing,2610,Kapuskasing,PORCUPINE,0.99,0.96
+2021-10,Extendicare Timmins,3044,Timmins,PORCUPINE,1,1
+2021-10,Foyer Des Pionniers,2940,Hearst,PORCUPINE,0.97,0.91
+2021-10,Golden Manor,M530,Timmins,PORCUPINE,1,0.99
+2021-10,Hornepayne Community Hospital,2771,Hornepayne,PORCUPINE,1,0.95
+2021-10,North Centennial Manor,3027,Kapuskasing,PORCUPINE,0.91,0.85
+2021-10,Rosedale Centre,2766,Matheson,PORCUPINE,0.9,0.83
+2021-10,Smooth Rock Falls Hospital,2763,Smooth Rock Falls,PORCUPINE,0.88,0.84
+2021-10,South Centennial Manor,3028,Iroquois Falls,PORCUPINE,0.97,0.88
+2021-10,Villa Minto,2815,Cochrane,PORCUPINE,0.98,0.95
+2021-10,Bonnechere Manor,M506,Renfrew,RENFREW,0.99,0.97
+2021-10,Caressant Care Cobden,2827,Cobden,RENFREW,0.86,0.82
+2021-10,Groves Park Lodge,2646,Renfrew,RENFREW,0.96,0.91
+2021-10,Marianhill Nursing Home,2702,Pembroke,RENFREW,0.95,0.9
+2021-10,Miramichi Lodge,M621,Pembroke,RENFREW,0.93,0.9
+2021-10,North Renfrew Long-Term Care Services,3036,Deep River,RENFREW,1,1
+2021-10,The Four Seasons Lodge,2896,Deep River,RENFREW,0.94,0.94
+2021-10,"The Grove, Arnprior and District Nursing Home",2699,Arnprior,RENFREW,0.94,0.93
+2021-10,Valley Manor Nursing Home,2675,Barry's Bay,RENFREW,0.84,0.8
+2021-10,Bay Haven Nursing Home,2657,Collingwood,SIMCOE-MUSKOKA,1,0.99
+2021-10,Bob Rumball Home for The Deaf,2967,Barrie,SIMCOE-MUSKOKA,0.97,0.95
+2021-10,Bradford Valley Care Community,2905,Bradford,SIMCOE-MUSKOKA,1,0.99
+2021-10,Coleman Care Centre,2696,Barrie,SIMCOE-MUSKOKA,1,0.98
+2021-10,Collingwood Nursing Home,2781,Collingwood,SIMCOE-MUSKOKA,0.91,0.83
+2021-10,Creedan Valley Care Community,2633,Creemore,SIMCOE-MUSKOKA,1,1
+2021-10,Fairvern Nursing Home,2708,Huntsville,SIMCOE-MUSKOKA,0.93,0.91
+2021-10,Georgian Manor Home for the Aged,M527,Penetanguishene,SIMCOE-MUSKOKA,1,0.97
+2021-10,Good Samaritan Nursing Home,2588,Alliston,SIMCOE-MUSKOKA,0.89,0.89
+2021-10,Grove Park Home For Senior Citizens,2950,Barrie,SIMCOE-MUSKOKA,0.94,0.91
+2021-10,Hillcrest Village Care Centre,2828,Midland,SIMCOE-MUSKOKA,0.97,0.97
+2021-10,IOOF Seniors Home,2993,Barrie,SIMCOE-MUSKOKA,0.96,0.95
+2021-10,Leacock Care Centre,2835,Orillia,SIMCOE-MUSKOKA,1,0.97
+2021-10,Mill Creek Care Centre,2981,Barrie,SIMCOE-MUSKOKA,0.99,0.98
+2021-10,Muskoka Landing,2840,Huntsville,SIMCOE-MUSKOKA,1,0.97
+2021-10,Muskoka Shores Care Community,2819,Gravenhurst,SIMCOE-MUSKOKA,1,1
+2021-10,Oak Terrace,2593,Orillia,SIMCOE-MUSKOKA,0.99,0.98
+2021-10,Owen Hill Care Community,2584,Barrie,SIMCOE-MUSKOKA,1,1
+2021-10,Roberta Place,2839,Barrie,SIMCOE-MUSKOKA,1,0.99
+2021-10,Sara Vista,2710,Elmvale,SIMCOE-MUSKOKA,1,1
+2021-10,Simcoe Manor Home for the Aged,M573,Beeton,SIMCOE-MUSKOKA,0.96,0.93
+2021-10,Spencer House,2971,Orillia,SIMCOE-MUSKOKA,1,1
+2021-10,Stayner Care Centre,2735,Stayner,SIMCOE-MUSKOKA,1,1
+2021-10,Sunset Manor Home for Senior Citizens,M581,Collingwood,SIMCOE-MUSKOKA,1,0.93
+2021-10,The Pines,M564,Bracebridge,SIMCOE-MUSKOKA,0.85,0.85
+2021-10,The Villa Care Centre,1101,Midland,SIMCOE-MUSKOKA,1,0.99
+2021-10,Trillium Manor Home for the Aged,M585,Orillia,SIMCOE-MUSKOKA,0.99,0.97
+2021-10,Victoria Village Manor,2914,Barrie,SIMCOE-MUSKOKA,0.97,0.94
+2021-10,Woods Park Care Centre,2821,Barrie,SIMCOE-MUSKOKA,0.99,0.99
+2021-10,Bobier Villa,M603,Dutton,SOUTH WEST,0.98,0.97
+2021-10,Caressant Care Courtland,2826,Courtland,SOUTH WEST,1,1
+2021-10,Caressant Care on Bonnie Place,2730,St Thomas,SOUTH WEST,0.92,0.91
+2021-10,Caressant Care on Mary Bucke,2627,St. Thomas,SOUTH WEST,1,0.99
+2021-10,Caressant Care Woodstock Nursing Home,2636,Woodstock,SOUTH WEST,1,0.96
+2021-10,Chartwell Aylmer Long Term Care Residence,2740,Aylmer,SOUTH WEST,1,1
+2021-10,Elgin Manor,M518,St. Thomas,SOUTH WEST,0.98,0.93
+2021-10,Extendicare Port Stanley,2669,Port Stanley,SOUTH WEST,1,1
+2021-10,Maple Manor Nursing Home,1049,Tillsonburg,SOUTH WEST,1,0.98
+2021-10,peopleCare Tavistock,2614,Tavistock,SOUTH WEST,0.94,0.93
+2021-10,Secord Trails Care Community,2628,Ingersoll,SOUTH WEST,0.95,0.91
+2021-10,Terrace Lodge,M583,Aylmer,SOUTH WEST,0.95,0.87
+2021-10,The Maples Home for Seniors,2093,Tavistock,SOUTH WEST,1,0.96
+2021-10,Valleyview Home,M628,St. Thomas,SOUTH WEST,0.99,0.96
+2021-10,Woodingford Lodge - Ingersoll,M614,Ingersoll,SOUTH WEST,1,1
+2021-10,Woodingford Lodge - Tillsonburg,M615,Tillsonburg,SOUTH WEST,1,0.98
+2021-10,Woodingford Lodge - Woodstock,M632,Woodstock,SOUTH WEST,1,0.95
+2021-10,Elizabeth Centre,2868,Val Caron,SUDBURY,1,0.98
+2021-10,Espanola General Hospital (operating as Espanola Nursing Home-Eldcap),2755,Espanola,SUDBURY,1,0.96
+2021-10,Espanola General Hospital (operating as Espanola Nursing Home-LTC),2932,Espanola,SUDBURY,1,0.96
+2021-10,Extendicare Falconbridge,2590,Sudbury,SUDBURY,1,0.99
+2021-10,Extendicare York,2604,Sudbury,SUDBURY,0.99,0.98
+2021-10,Finlandia Hoivakoti Nursing Home,2829,Sudbury,SUDBURY,0.98,0.97
+2021-10,Manitoulin Centennial Manor Home for the Aged,M553,Little Current,SUDBURY,0.95,0.95
+2021-10,Manitoulin Lodge,2667,Gore Bay,SUDBURY,0.93,0.89
+2021-10,Pioneer Manor,M566,Sudbury,SUDBURY,0.93,0.88
+2021-10,St. Gabriel's Villa of Sudbury,3039,Chelmsford,SUDBURY,0.93,0.88
+2021-10,"St. Joseph's Villa, Sudbury",2913,Sudbury,SUDBURY,0.95,0.91
+2021-10,The Bignucolo Residence,2864,Chapleau,SUDBURY,1,0.95
+2021-10,Wikwemikong Nursing Home,1856,Wikwemikong,SUDBURY,0.98,0.97
+2021-10,Bethammi Nursing Home,2687,Thunder Bay,THUNDER BAY,0.99,0.9
+2021-10,Geraldton District Hospital,2764,Geraldton,THUNDER BAY,1,0.89
+2021-10,Hogarth Riverview Manor,2923,Thunder Bay,THUNDER BAY,0.92,0.89
+2021-10,Nipigon District Memorial Hospital,2793,Nipigon,THUNDER BAY,1,1
+2021-10,Pioneer Ridge,M599,Thunder Bay,THUNDER BAY,0.92,0.9
+2021-10,Santé Manitouwadge Health,2810,Manitouwadge,THUNDER BAY,0.97,0.97
+2021-10,Southbridge Lakehead,1159,Thunder Bay,THUNDER BAY,1,0.98
+2021-10,Southbridge Pinewood,2962,Thunder Bay,THUNDER BAY,0.96,0.95
+2021-10,Southbridge Roseview,2866,Thunder Bay,THUNDER BAY,1,0.99
+2021-10,Wilkes Terrace,3040,Terrace Bay,THUNDER BAY,0.98,0.95
+2021-10,Extendicare Kirkland Lake,2670,Kirkland Lake,TIMISKAMING,1,0.99
+2021-10,Extendicare Tri-Town,2615,Haileybury,TIMISKAMING,0.97,0.95
+2021-10,Northview Nursing Home,2585,Englehart,TIMISKAMING,0.92,0.81
+2021-10,Teck Pioneer Residence,M619,Kirkland Lake,TIMISKAMING,0.94,0.82
+2021-10,Temiskaming Lodge,2698,Haileybury,TIMISKAMING,1,0.96
+2021-10,Altamont Care Community,0956,Scarborough,TORONTO,1,0.97
+2021-10,Apotex The Jewish Home for the Aged,2824,Toronto,TORONTO,0.96,0.95
+2021-10,Belmont House,2985,Toronto,TORONTO,0.99,0.97
+2021-10,Bendale Acres,M504,Scarborough,TORONTO,0.98,0.95
+2021-10,Carefree Lodge,M596,North York,TORONTO,0.94,0.91
+2021-10,Castleview Wychwood Towers,M510,Toronto,TORONTO,0.98,0.96
+2021-10,Cedarvale Terrace,2591,Toronto,TORONTO,1,0.96
+2021-10,Chartwell Gibson Long Term Care Residence,2556,North York,TORONTO,1,0.97
+2021-10,Chartwell Trilogy Long Term Care Residence,2899,Scarborough,TORONTO,1,0.98
+2021-10,Chartwell Westbury Long Term Care Residence,2943,Etobicoke,TORONTO,1,0.99
+2021-10,Chartwell White Eagle Long Term Care Residence,2583,Toronto,TORONTO,1,0.97
+2021-10,Cheltenham Care Community,0922,North York,TORONTO,1,1
+2021-10,Chester Village,2970,Toronto,TORONTO,0.99,0.97
+2021-10,Copernicus Lodge,2937,Toronto,TORONTO,1,0.88
+2021-10,Craiglee Nursing Home,2503,Scarborough,TORONTO,1,0.98
+2021-10,Cummer Lodge,M512,North York,TORONTO,0.97,0.95
+2021-10,Deerwood Creek Care Community,2837,Etobicoke,TORONTO,0.99,0.95
+2021-10,Dom Lipa,2794,Etobicoke,TORONTO,0.99,0.98
+2021-10,Downsview Long Term Care Centre,1041,North York,TORONTO,0.94,0.86
+2021-10,Eatonville Care Centre,2468,Etobicoke,TORONTO,0.97,0.97
+2021-10,Ehatare Nursing Home,2804,Scarborough,TORONTO,0.97,0.94
+2021-10,Elm Grove Living Centre,2515,Toronto,TORONTO,1,0.99
+2021-10,Extendicare Bayview,2460,North York,TORONTO,1,1
+2021-10,Extendicare Guildwood,2164,Scarborough,TORONTO,0.99,0.98
+2021-10,Extendicare Rouge Valley,2883,Toronto,TORONTO,1,0.99
+2021-10,Extendicare Scarborough,2117,Scarborough,TORONTO,1,1
+2021-10,Fairview Nursing Home,2723,Toronto,TORONTO,0.97,0.95
+2021-10,Fieldstone Commons Care Community,2906,Scarborough,TORONTO,1,1
+2021-10,Fountain View Care Community,2836,Toronto,TORONTO,1,0.99
+2021-10,Fosterbrooke,2625,Newcastle,TORONTO,0.98,0.96
+2021-10,Fudger House,M524,Toronto,TORONTO,0.99,0.98
+2021-10,Garden Court Nursing Home,1133,Toronto,TORONTO,0.97,0.97
+2021-10,Harmony Hills Care Community,2832,Toronto,TORONTO,1,0.99
+2021-10,Harold and Grace Baker Centre,2732,Toronto,TORONTO,0.99,0.99
+2021-10,Hawthorne Place Care Centre,2586,North York,TORONTO,0.99,0.98
+2021-10,Hellenic Care for Seniors (Toronto),2798,Toronto,TORONTO,1,1
+2021-10,Hellenic Home - Scarborough,2941,Scarborough,TORONTO,1,1
+2021-10,Humber Valley Terrace,2716,Etobicoke,TORONTO,1,0.99
+2021-10,Ina Grafton Gage Home,3034,Scarborough,TORONTO,1,0.98
+2021-10,Isabel and Arthur Meighen Manor,3031,Toronto,TORONTO,0.97,0.95
+2021-10,Ivan Franko Home (Etobicoke),C530,Toronto,TORONTO,0.98,0.92
+2021-10,Kennedy Lodge,2654,Scarborough,TORONTO,1,0.99
+2021-10,The Kensington Gardens,2852,Toronto,TORONTO,1,1
+2021-10,Kipling Acres,M545,Etobicoke,TORONTO,0.99,0.98
+2021-10,Labdara Lithuanian Nursing Home,2860,Etobicoke,TORONTO,0.83,0.71
+2021-10,Lakeshore Lodge,M595,Toronto,TORONTO,1,0.97
+2021-10,Lakeside Long Term Care Centre,2929,Toronto,TORONTO,1,0.99
+2021-10,Main Street Terrace,2589,Toronto,TORONTO,1,0.99
+2021-10,Maynard Nursing Home,2211,Toronto,TORONTO,1,1
+2021-10,McCall Centre Long Term Care Interim Unit,7086,Etobicoke,TORONTO,0.98,0.96
+2021-10,Midland Gardens Care Community,2789,Scarborough,TORONTO,0.99,0.98
+2021-10,Mon Sheong Home for the Aged,3002,Toronto,TORONTO,1,1
+2021-10,Mon Sheong Scarborough Long Term Care Centre,2944,Scarborough,TORONTO,1,1
+2021-10,Nisbet Lodge,3003,Toronto,TORONTO,0.97,0.94
+2021-10,Norfinch Care Community,2918,North York,TORONTO,0.98,0.98
+2021-10,North Park Nursing Home,0909,North York,TORONTO,1,1
+2021-10,Norwood Nursing Home,2201,Toronto,TORONTO,1,0.96
+2021-10,Providence Healthcare,3006,Toronto,TORONTO,0.98,0.95
+2021-10,Rockcliffe Care Community,2131,Scarborough,TORONTO,1,0.99
+2021-10,Rose of Sharon Korean Long Term Care,3038,Toronto,TORONTO,1,1
+2021-10,Seniors' Health Centre,2744,North York,TORONTO,0.99,0.97
+2021-10,Seven Oaks,M571,Scarborough,TORONTO,0.99,0.95
+2021-10,Shepherd Lodge,2782,Toronto,TORONTO,0.98,0.94
+2021-10,Sherbourne Place,2754,Toronto,TORONTO,1,0.99
+2021-10,St. Clair O'Connor Community Nursing Home,2719,Toronto,TORONTO,0.97,0.96
+2021-10,St. George Care Community,2594,Toronto,TORONTO,1,0.99
+2021-10,Suomi-Koti Toronto Nursing Home,2792,Toronto,TORONTO,0.97,0.96
+2021-10,Tendercare Living Centre,2649,Scarborough,TORONTO,1,1
+2021-10,The Heritage Nursing Home,2582,Toronto,TORONTO,1,1
+2021-10,The O'Neill Centre,2631,Toronto,TORONTO,1,0.98
+2021-10,The Village of Humber Heights,2957,Etobicoke,TORONTO,0.99,0.97
+2021-10,The Wexford,3021,Scarborough,TORONTO,1,1
+2021-10,Thompson House,3017,North York,TORONTO,0.96,0.93
+2021-10,Tony Stacey Centre for Veterans' Care,3001,Toronto,TORONTO,1,1
+2021-10,True Davidson Acres,M586,Toronto,TORONTO,0.97,0.95
+2021-10,Ukrainian Canadian Care Centre,2809,Etobicoke,TORONTO,0.91,0.8
+2021-10,Valleyview Residence,2954,North York,TORONTO,0.95,0.92
+2021-10,Villa Colombo Homes for the Aged,3020,Toronto,TORONTO,0.99,0.98
+2021-10,Wellesley Central Place,2959,Toronto,TORONTO,1,1
+2021-10,Wesburn Manor,M612,Etobicoke,TORONTO,0.95,0.92
+2021-10,West Park Long Term Care Centre,2848,Toronto,TORONTO,1,0.96
+2021-10,Weston Terrace Care Community,2874,Toronto,TORONTO,0.99,0.97
+2021-10,Westside,2663,Etobicoke,TORONTO,1,0.99
+2021-10,Yee Hong Centre - Scarborough Finch,2934,Scarborough,TORONTO,1,1
+2021-10,Yee Hong Centre - Scarborough McNicoll,2801,Scarborough,TORONTO,1,1
+2021-10,Barnswallow Place Care Community,2830,Elmira,WATERLOO,0.96,0.89
+2021-10,Cambridge Country Manor,2651,Cambridge,WATERLOO,1,0.96
+2021-10,Chartwell Elmira Long Term Care Residence,2471,Elmira,WATERLOO,1,1
+2021-10,Chartwell Westmount Long Term Care Residence,2880,Kitchener,WATERLOO,1,0.99
+2021-10,Columbia Forest,2856,Waterloo,WATERLOO,1,0.96
+2021-10,Derbecker's Heritage House,2134,St. Jacobs,WATERLOO,0.94,0.91
+2021-10,Fairview Mennonite Home,2992,Cambridge,WATERLOO,1,0.95
+2021-10,Forest Heights,2707,Kitchener,WATERLOO,0.99,0.92
+2021-10,Golden Years Nursing Home,1033,Cambridge,WATERLOO,0.99,0.98
+2021-10,Lanark Heights Long Term Care Centre,2917,Kitchener,WATERLOO,0.98,0.97
+2021-10,Nithview Home,3004,New Hamburg,WATERLOO,0.94,0.93
+2021-10,Parkwood Mennonite Home,2952,Waterloo,WATERLOO,1,0.98
+2021-10,peopleCare A.R. Goudie Kitchener,2990,Kitchener,WATERLOO,0.95,0.94
+2021-10,peopleCare Hilltop Manor Cambridge,2606,Cambridge,WATERLOO,0.99,0.99
+2021-10,Pinehaven Nursing Home,2805,Waterloo,WATERLOO,1,0.99
+2021-10,Riverbend Place,2753,Cambridge,WATERLOO,1,1
+2021-10,Saint Luke's Place,3014,Cambridge,WATERLOO,1,0.98
+2021-10,St. Andrew's Terrace Long Term Care,2926,Cambridge,WATERLOO,0.98,0.96
+2021-10,Stirling Heights,2863,Cambridge,WATERLOO,1,0.98
+2021-10,Sunnyside Home,M578,Kitchener,WATERLOO,0.96,0.91
+2021-10,The Village at University Gates,3048,Waterloo,WATERLOO,0.97,0.96
+2021-10,The Village of Winston Park,2783,Kitchener,WATERLOO,0.96,0.96
+2021-10,Trinity Village Care Centre,2580,Kitchener,WATERLOO,1,0.99
+2021-10,Twin Oaks of Maryhill,2752,Maryhill,WATERLOO,1,0.98
+2021-10,Avalon Retirement Centre,2715,Orangeville,WELLINGTON-DUFFERIN-GUELPH,0.93,0.91
+2021-10,Caressant Care Arthur Nursing Home,2748,Arthur,WELLINGTON-DUFFERIN-GUELPH,0.97,0.96
+2021-10,Caressant Care Fergus Nursing Home,2603,Fergus,WELLINGTON-DUFFERIN-GUELPH,1,0.88
+2021-10,Caressant Care Harriston,2595,Harriston,WELLINGTON-DUFFERIN-GUELPH,0.96,0.88
+2021-10,Dufferin Oaks,M516,Shelburne,WELLINGTON-DUFFERIN-GUELPH,0.95,0.91
+2021-10,Eden House Nursing Home,2777,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.91,0.9
+2021-10,LaPointe-Fisher Nursing Home,2358,Guelph,WELLINGTON-DUFFERIN-GUELPH,1,0.94
+2021-10,Morriston Park Nursing Home,2727,Puslinch,WELLINGTON-DUFFERIN-GUELPH,1,1
+2021-10,Royal Terrace,2767,Palmerston,WELLINGTON-DUFFERIN-GUELPH,0.94,0.92
+2021-10,Shelburne Long Term Care Home,2762,Shelburne,WELLINGTON-DUFFERIN-GUELPH,1,0.98
+2021-10,"St. Joseph's Health Centre, Guelph",3011,Guelph,WELLINGTON-DUFFERIN-GUELPH,0.92,0.9
+2021-10,Strathcona Long Term Care,3051,Mount Forest,WELLINGTON-DUFFERIN-GUELPH,0.84,0.82
+2021-10,The Elliott Long Term Care Residence,M633,Guelph,WELLINGTON-DUFFERIN-GUELPH,1,1
+2021-10,The Village of Riverside Glen,2915,Guelph,WELLINGTON-DUFFERIN-GUELPH,1,0.99
+2021-10,Wellington Terrace Long-Term Care Home,M629,Fergus,WELLINGTON-DUFFERIN-GUELPH,1,0.99
+2021-10,Banwell Gardens Care Centre,2263,Tecumseh,WINDSOR-ESSEX,0.95,0.93
+2021-10,Berkshire Care Centre,2541,Windsor,WINDSOR-ESSEX,0.95,0.95
+2021-10,Brouillette Manor,2301,Tecumseh,WINDSOR-ESSEX,1,0.99
+2021-10,Chartwell Royal Oak Long Term Care Residence,2939,Kingsville,WINDSOR-ESSEX,0.87,0.86
+2021-10,Chateau Park Long Term Care Home,2712,Windsor,WINDSOR-ESSEX,1,1
+2021-10,Country Village Homes - Woodslee,2576,Woodslee,WINDSOR-ESSEX,0.99,0.98
+2021-10,Extendicare Southwood Lakes,2842,Windsor,WINDSOR-ESSEX,1,1
+2021-10,Extendicare Tecumseh,2904,Tecumseh,WINDSOR-ESSEX,0.99,0.99
+2021-10,Franklin Gardens Long Term Care Home,2602,Leamington,WINDSOR-ESSEX,1,1
+2021-10,Heron Terrace Long Term Care Community,2898,Windsor,WINDSOR-ESSEX,1,1
+2021-10,Huron Lodge Long Term Care Home,M631,Windsor,WINDSOR-ESSEX,0.92,0.86
+2021-10,Iler Lodge,2129,Essex,WINDSOR-ESSEX,1,0.96
+2021-10,Leamington Mennonite Home Long Term Care Residence,3035,Leamington,WINDSOR-ESSEX,1,0.99
+2021-10,Regency Park Long Term Care Home,2760,Windsor,WINDSOR-ESSEX,1,0.94
+2021-10,Richmond Terrace,1149,Amherstburg,WINDSOR-ESSEX,0.93,0.93
+2021-10,Riverside Place,2972,Windsor,WINDSOR-ESSEX,1,0.97
+2021-10,Sun Parlor Home for Senior Citizens,M579,Leamington,WINDSOR-ESSEX,0.99,0.97
+2021-10,The Village at St. Clair,3046,Windsor,WINDSOR-ESSEX,0.96,0.93
+2021-10,The Village of Aspen Lake,3037,Windsor,WINDSOR-ESSEX,0.96,0.94
+2021-10,Bethany Lodge,2986,Markham,YORK REGION,0.99,0.97
+2021-10,Bloomington Cove Care Community,2697,Stouffville,YORK REGION,1,1
+2021-10,Cedarvale Lodge Retirement and Care Community,2769,Keswick,YORK REGION,0.99,0.98
+2021-10,Chartwell Aurora Long Term Care Residence,2630,Aurora,YORK REGION,0.93,0.9
+2021-10,Chartwell Pine Grove Long Term Care Residence,2808,Woodbridge,YORK REGION,1,0.98
+2021-10,Chartwell Woodhaven Long Term Care Residence,2888,Markham,YORK REGION,1,0.98
+2021-10,Eagle Terrace,2240,Newmarket,YORK REGION,0.91,0.91
+2021-10,Elginwood,2869,Richmond Hill,YORK REGION,1,1
+2021-10,King City Lodge Nursing Home,2113,King City,YORK REGION,0.93,0.93
+2021-10,Kristus Darzs Latvian Home,2997,Woodbridge,YORK REGION,1,0.97
+2021-10,Langstaff Square Care Community,2907,Richmond Hill,YORK REGION,1,0.99
+2021-10,Mackenzie Health Long Term Care Facility,2825,Richmond Hill,YORK REGION,0.98,0.94
+2021-10,MacKenzie Place,2611,Newmarket,YORK REGION,0.99,0.98
+2021-10,Mariann Home,2619,Richmond Hill,YORK REGION,1,1
+2021-10,Markhaven,2924,Markham,YORK REGION,0.96,0.96
+2021-10,Mon Sheong Richmond Hill Long Term Care Centre,2897,Richmond Hill,YORK REGION,0.99,0.97
+2021-10,Mon Sheong Stouffville Long Term Care Centre,3055,Stouffville,YORK REGION,1,1
+2021-10,Parkview Home Long-Term Care,2968,Stouffville,YORK REGION,0.98,0.97
+2021-10,River Glen Haven Nursing Home,1021,Sutton West,YORK REGION,0.95,0.92
+2021-10,Sherwood Court Long Term Care Centre,2894,Maple,YORK REGION,1,0.99
+2021-10,Southlake Residential Care Village,2955,Newmarket,YORK REGION,0.91,0.88
+2021-10,The Willows Estate Nursing Home,2174,Aurora,YORK REGION,1,0.99
+2021-10,Union Villa,3018,Unionville,YORK REGION,0.99,0.98
+2021-10,Villa Colombo Seniors Centre (Vaughan),2969,Vaughan,YORK REGION,0.99,0.99
+2021-10,Villa Leonardo Gambin,2947,Woodbridge,YORK REGION,1,0.98
+2021-10,Woodbridge Vista Care Community,2945,Woodbridge,YORK REGION,0.97,0.96
+2021-10,Yee Hong Centre - Markham,2876,Markham,YORK REGION,1,0.99
+2021-10,York Region Maple Health Centre,M605,Maple,YORK REGION,0.94,0.92
+2021-10,York Region Newmarket Health Centre,M534,Newmarket,YORK REGION,0.95,0.93
