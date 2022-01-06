@@ -1,0 +1,7 @@
+node_modules
+testreport*
+mochawesome-report/*
+cypress/reports/*
+cypress/screenshots/*
+cypress/videos/*
+data/*

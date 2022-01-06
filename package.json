@@ -1,0 +1,34 @@
+{
+  "name": "long-term-care-tests",
+  "version": "1.0.0",
+  "description": "Test Suites for Long term care application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "detail-report": "node generate.js",
+    "search-report": "node generate-search.js"
+  },
+  "author": "uday.eaga@ontario.ca",
+  "license": "ISC",
+  "dependencies": {
+    "@cypress/webpack-preprocessor": "^5.10.0",
+    "axe-core": "^4.3.5",
+    "cldr-data": "^36.0.0",
+    "csvtojson": "^2.0.10",
+    "cypress": "8.7.0",
+    "cypress-axe": "^0.13.0",
+    "cypress-mochawesome-reporter": "^2.3.0",
+    "dayjs": "^1.10.7",
+    "globalize": "^1.7.0",
+    "lodash": "^4.17.21",
+    "mocha": "^9.1.3",
+    "mochawesome": "^7.0.1",
+    "mochawesome-merge": "^4.2.1",
+    "mochawesome-report-generator": "^6.0.1",
+    "neat-csv": "5.1.0",
+    "path": "^0.12.7",
+    "xlsx": "^0.17.4"
+  }
+}
